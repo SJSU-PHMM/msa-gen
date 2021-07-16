@@ -32,11 +32,8 @@ def generate_map(argv):
     global ascii_value
     file = open(argv[0], 'r')
     Lines = file.readlines()
-    seq = ''
-    count = 0
     # Strips the newline character
     for line in Lines:
-        count += 1
         apiCall = line[0:line.find('(')]
         if apiCall not in seq_map:
             seq_map[apiCall] = chr(ascii_value)
