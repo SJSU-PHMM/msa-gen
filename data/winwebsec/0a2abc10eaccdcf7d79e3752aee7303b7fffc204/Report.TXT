@@ -1,0 +1,27 @@
+
+ Report generated with Buster Sandbox Analyzer 1.92 at 01:17:17 on 20/09/2021
+
+ [ General information ]
+   * File name: C:\Users\joa\Downloads\malware\winwebsec\0a2abc10eaccdcf7d79e3752aee7303b7fffc204.exe
+
+ [ Changes to filesystem ]
+   * Creates file C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_0a2abc10eaccdcf7_6afa8d88a0bf0d67e391776431235b27922ed11_fc54f027_7e4d49b0-2f0c-4a5d-9273-8749895f7eb5\Report.wer
+   * Creates file C:\Users\joa\AppData\Local\CrashDumps\0a2abc10eaccdcf7d79e3752aee7303b7fffc204.exe.2296.dmp
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{5e6c2526-0000-0000-0000-300300000000}
+          old value empty
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+
+ [ Network services ]
+   * No changes
+
+ [ Process/window/string information ]
+   * Checks for debuggers.
+   * Injects code into process "C:\Windows\SysWOW64\WerFault.exe".
+   * Enumerates running processes.
+   * Enables privilege SeRestorePrivilege.
+   * Enables privilege SeBackupPrivilege.
+   * Enables process privileges.

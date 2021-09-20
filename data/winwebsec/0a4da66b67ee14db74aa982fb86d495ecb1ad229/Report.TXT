@@ -1,0 +1,39 @@
+
+ Report generated with Buster Sandbox Analyzer 1.92 at 01:23:03 on 20/09/2021
+
+ [ General information ]
+   * File name: C:\Users\joa\Downloads\malware\winwebsec\0a4da66b67ee14db74aa982fb86d495ecb1ad229.exe
+
+ [ Changes to filesystem ]
+   * Creates file C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_0a4da66b67ee14db_289bf236468b30119fd8371e43fc69ceb819118_c4321b0d_9ea94977-0813-40ff-9710-4594e61b05ed\Report.wer
+   * Creates file C:\Users\joa\AppData\Local\CrashDumps\0a4da66b67ee14db74aa982fb86d495ecb1ad229.exe.1728.dmp
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Creates value "fdwSupport=00000001" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\AudioCompressionManager\DriverCache\msacm.imaadpcm
+   * Creates value "cFormatTags=00000002" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\AudioCompressionManager\DriverCache\msacm.imaadpcm
+   * Creates value "aFormatTagCache=01000000100000001100000014000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\AudioCompressionManager\DriverCache\msacm.imaadpcm
+   * Creates value "fdwSupport=00000001" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\AudioCompressionManager\DriverCache\msacm.l3acm
+   * Creates value "cFormatTags=00000002" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\AudioCompressionManager\DriverCache\msacm.l3acm
+   * Creates value "aFormatTagCache=0100000010000000550000001E000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\AudioCompressionManager\DriverCache\msacm.l3acm
+   * Creates value "fdwSupport=00000001" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\AudioCompressionManager\DriverCache\msacm.msadpcm
+   * Creates value "cFormatTags=00000002" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\AudioCompressionManager\DriverCache\msacm.msadpcm
+   * Creates value "aFormatTagCache=01000000100000000200000032000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\AudioCompressionManager\DriverCache\msacm.msadpcm
+   * Creates value "fdwSupport=00000001" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\AudioCompressionManager\DriverCache\msacm.msg711
+   * Creates value "cFormatTags=00000003" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\AudioCompressionManager\DriverCache\msacm.msg711
+   * Creates value "aFormatTagCache=010000001000000006000000120000000700000012000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\AudioCompressionManager\DriverCache\msacm.msg711
+   * Creates value "fdwSupport=00000001" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\AudioCompressionManager\DriverCache\msacm.msgsm610
+   * Creates value "cFormatTags=00000002" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\AudioCompressionManager\DriverCache\msacm.msgsm610
+   * Creates value "aFormatTagCache=01000000100000003100000014000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\AudioCompressionManager\DriverCache\msacm.msgsm610
+   * Creates Registry key HKEY_CURRENT_USER\software\Microsoft\Multimedia\Audio Compression Manager\MSACM
+   * Creates Registry key HKEY_CURRENT_USER\software\Microsoft\Multimedia\Audio Compression Manager\Priority v4.00
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{5e6c2526-0000-0000-0000-300300000000}
+          old value empty
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+
+ [ Network services ]
+   * No changes
+
+ [ Process/window/string information ]
+   * Enumerates running processes.

@@ -1,0 +1,6 @@
+Executing: C:\Users\joa\Downloads\malware\winwebsec\0da8ea85902dddc455f4de4bf174a3678fc7344b.exe
+GetModuleHandle(ntdll) [c:\users\joa\downloads\malware\winwebsec\0da8ea85902dddc455f4de4bf174a3678fc7344b.exe]
+QuerySystemInformation(SystemBasicInformation) [c:\users\joa\downloads\malware\winwebsec\0da8ea85902dddc455f4de4bf174a3678fc7344b.exe]
+QuerySystemInformation(SystemProcessorInformation) [c:\users\joa\downloads\malware\winwebsec\0da8ea85902dddc455f4de4bf174a3678fc7344b.exe]
+QueryProcessInformation(C:\Users\joa\Downloads\malware\winwebsec\0da8ea85902dddc455f4de4bf174a3678fc7344b.exe, ProcessImageInformation) [c:\users\joa\downloads\malware\winwebsec\0da8ea85902dddc455f4de4bf174a3678fc7344b.exe]
+TerminateProcess() [c:\users\joa\downloads\malware\winwebsec\0da8ea85902dddc455f4de4bf174a3678fc7344b.exe]

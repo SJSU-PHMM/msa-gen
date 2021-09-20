@@ -1,0 +1,30 @@
+
+ Report generated with Buster Sandbox Analyzer 1.92 at 01:03:21 on 20/09/2021
+
+ [ General information ]
+   * File name: C:\Users\joa\Downloads\malware\winwebsec\00ce7fc605c339b36fa2b61db14a3b006fc5e835.exe
+
+ [ Changes to filesystem ]
+   * Modifies file (empty) C:\Windows\AppCompat\Programs\Amcache.hve.tmp
+   * Creates file C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_00ce7fc605c339b3_b84714aef2ede7f23266ff24f6627412fd331_c3035669_bc3992c1-4ff8-4fa4-a7e4-0d0280d0a722\Report.wer
+   * Creates file C:\Users\joa\AppData\Local\CrashDumps\00ce7fc605c339b36fa2b61db14a3b006fc5e835.exe.2228.dmp
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Creates value "CreatingCommand=C:\Windows\SysWOW64\WerFault.exe -u -p 2228 -s 360" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\{11517B7C-E79D-4e20-961B-75A811715ADD}
+   * Creates value "CreatingModule=C:\Windows\SYSTEM32\aepic.dll" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\{11517B7C-E79D-4e20-961B-75A811715ADD}
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{5e6c2526-0000-0000-0000-300300000000}
+          old value empty
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+
+ [ Network services ]
+   * No changes
+
+ [ Process/window/string information ]
+   * Checks for debuggers.
+   * Injects code into process "C:\Windows\SysWOW64\WerFault.exe".
+   * Enumerates running processes.
+   * Enables privilege SeRestorePrivilege.
+   * Enables privilege SeBackupPrivilege.
+   * Enables process privileges.

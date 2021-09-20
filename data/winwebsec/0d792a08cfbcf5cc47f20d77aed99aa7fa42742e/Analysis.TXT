@@ -1,0 +1,10 @@
+
+Report generated with Buster Sandbox Analyzer 1.92 at 06:04:27 on 20/09/2021
+
+Detailed report of suspicious malware actions:
+
+Enumerated running processes
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+Opened a service named: CryptSvc
+Opened a service named: WinHttpAutoProxySvc
+Traces of Max++

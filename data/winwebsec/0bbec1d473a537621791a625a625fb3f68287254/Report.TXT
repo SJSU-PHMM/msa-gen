@@ -1,0 +1,35 @@
+
+ Report generated with Buster Sandbox Analyzer 1.92 at 05:02:23 on 20/09/2021
+
+ [ General information ]
+   * File name: C:\Users\joa\Downloads\malware\winwebsec\0bbec1d473a537621791a625a625fb3f68287254.exe
+
+ [ Changes to filesystem ]
+   * Modifies file C:\Windows\system32\CatRoot2\dberr.txt
+   * Changes file attributes C:\Windows\system32\CatRoot2\edb00019.log
+   * Modifies file C:\Windows\system32\CatRoot2\edb00019.log
+   * Creates file C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_0bbec1d473a53762_1d1c1f35249592096a421c8d4ee889f41b8cd1_536787c7_347b4389-ad6e-4f63-8c4a-b0f545846526\Report.wer
+   * Creates file C:\Users\joa\AppData\Local\CrashDumps\0bbec1d473a537621791a625a625fb3f68287254.exe.4592.dmp
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Creates value "ClockTimeSeconds=6978486100000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\IdentityCRL\ClockData
+   * Creates value "TickCount=CF7A760000000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\IdentityCRL\ClockData
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{5e6c2526-0000-0000-0000-300300000000}
+          old value empty
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+
+ [ Network services ]
+   * No changes
+
+ [ Process/window/string information ]
+   * Checks for debuggers.
+   * Injects code into process "C:\Windows\SysWOW64\WerFault.exe".
+   * Enumerates running processes.
+   * Enables privilege SeRestorePrivilege.
+   * Enables privilege SeBackupPrivilege.
+   * Opens a service named "WinHttpAutoProxySvc".
+   * Opens a service named "CryptSvc".
+   * Enables process privileges.
+   * Sleeps 30 seconds.

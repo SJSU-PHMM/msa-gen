@@ -1,0 +1,22 @@
+
+ Report generated with Buster Sandbox Analyzer 1.92 at 01:25:04 on 20/09/2021
+
+ [ General information ]
+   * File name: C:\Users\joa\Downloads\malware\winwebsec\0a5fb765fe69f84dd968a3fe40924c41b92ab079.exe
+
+ [ Changes to filesystem ]
+   * Creates file C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_0a5fb765fe69f84d_179bd08810d4df844cda57ca2b36ce5ffcf7c66_69989287_b7ec34e5-7c7c-4d9a-bd59-c80f3bd665e6\Report.wer
+   * Creates file C:\Users\joa\AppData\Local\CrashDumps\0a5fb765fe69f84dd968a3fe40924c41b92ab079.exe.7312.dmp
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{5e6c2526-0000-0000-0000-300300000000}
+          old value empty
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+
+ [ Network services ]
+   * No changes
+
+ [ Process/window/string information ]
+   * Enumerates running processes.
