@@ -8,3 +8,10 @@ scripts/seq-gen.py data/virus1.log
 ```
 
 Script takes a single paramter which is the filename of the API calls log file.
+
+Output
+
+
+```
+scripts/seq-gen.py data/virus1.log 
+```

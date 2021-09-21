@@ -2,27 +2,32 @@
 
 import sys
 
-seq_map = {
-    'GetModuleHandle': 'AA',
-    'QuerySystemInformation': 'AB',
-    'QueryProcessInformation': 'AC',
-    'CreateThread':	'AD',
-    'ResumeThread':	'AE',
-    'VirtualAllocEx': 'AF',
-    'LdrFindEntryForAddress': 'AG',
-    'OpenProcessToken':	'AH',
-    'TerminateProcess': 'AI',
-    'CreateProcess': 'AJ',
-    'WriteProcessMemory': 'AK',
-    'AdjustTokenPrivileges': 'AL',
-    'GetUserName': 'AM',
-    'SystemParametersInfo': 'AN',
-    'OpenProcess': 'AO',
-    'GetProcessDEPPolicy': 'AP'
+seq_map =  {
+	'CreateToolhelp32Snapshot': 'R',
+	'SuspendThread': 'S',
+	'QueryProcessInformation': 'B',
+	'WriteProcessMemory': 'I',
+	'CreateThread': 'J',
+	'VirtualAllocEx': 'A',
+	'GetModuleHandle': 'G',
+	'SystemParametersInfo': 'D',
+	'ExitProcess': 'U',
+	'GetProcessDEPPolicy': 'T',
+	'GetForegroundWindow': 'M',
+	'Executing: C:\\WINDOWS\\system32\\WerFault.exe\r': 'N',
+	'LdrFindEntryForAddress': 'H',
+	'ResumeThread': 'K',
+	'OpenProcessToken': 'E',
+	'QueryFullProcessImageName': 'P',
+	'OpenProcess': 'L',
+	'CreateProcess': 'C',
+	'GetProcessImageFileName': 'Q',
+	'QuerySystemInformation': 'F',
+	'FindWindow': 'O'
 }
 
 #ascii_value = 33
-ascii_value = 65
+ascii_value = 86
 #seq_map = {}
 
 """
@@ -56,9 +61,11 @@ def main(argv):
     print("Getting Sequence...")
     print('Final Sequence: '+seq)
     print(" ")
+    print(seq_map)
+    print(" ")
     print(" ")
 
 
 if __name__ == "__main__":
-    #generate_map(sys.argv[1:])
+    generate_map(sys.argv[1:])
     main(sys.argv[1:])
