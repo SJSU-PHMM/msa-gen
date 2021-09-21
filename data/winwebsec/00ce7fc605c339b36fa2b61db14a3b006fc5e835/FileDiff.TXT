@@ -1,0 +1,3 @@
+~ C:\Windows\AppCompat\Programs\Amcache.hve.tmp
++ C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_00ce7fc605c339b3_b84714aef2ede7f23266ff24f6627412fd331_c3035669_bc3992c1-4ff8-4fa4-a7e4-0d0280d0a722\Report.wer
++ C:\Users\joa\AppData\Local\CrashDumps\00ce7fc605c339b36fa2b61db14a3b006fc5e835.exe.2228.dmp

@@ -1,0 +1,45 @@
+
+ Report generated with Buster Sandbox Analyzer 1.92 at 04:52:20 on 20/09/2021
+
+ [ General information ]
+   * File name: C:\Users\joa\Downloads\malware\winwebsec\0b7fbbabefc9cf90ff722193ea0a266632757141.exe
+
+ [ Changes to filesystem ]
+   * Modifies file C:\Windows\system32\CatRoot2\dberr.txt
+   * Creates file C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_0b7fbbabefc9cf90_944da1f3d697311cfecee2e2ef94c6aeec40a2_0491a776_204a115d-f858-4180-a52a-ef8b2d9e9389\Report.wer
+   * Creates file C:\Users\joa\AppData\Local\CrashDumps\0b7fbbabefc9cf90ff722193ea0a266632757141.exe.3476.dmp
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Creates value "fdwSupport=00000001" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\AudioCompressionManager\DriverCache\msacm.imaadpcm
+   * Creates value "cFormatTags=00000002" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\AudioCompressionManager\DriverCache\msacm.imaadpcm
+   * Creates value "aFormatTagCache=01000000100000001100000014000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\AudioCompressionManager\DriverCache\msacm.imaadpcm
+   * Creates value "fdwSupport=00000001" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\AudioCompressionManager\DriverCache\msacm.l3acm
+   * Creates value "cFormatTags=00000002" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\AudioCompressionManager\DriverCache\msacm.l3acm
+   * Creates value "aFormatTagCache=0100000010000000550000001E000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\AudioCompressionManager\DriverCache\msacm.l3acm
+   * Creates value "fdwSupport=00000001" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\AudioCompressionManager\DriverCache\msacm.msadpcm
+   * Creates value "cFormatTags=00000002" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\AudioCompressionManager\DriverCache\msacm.msadpcm
+   * Creates value "aFormatTagCache=01000000100000000200000032000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\AudioCompressionManager\DriverCache\msacm.msadpcm
+   * Creates value "fdwSupport=00000001" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\AudioCompressionManager\DriverCache\msacm.msg711
+   * Creates value "cFormatTags=00000003" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\AudioCompressionManager\DriverCache\msacm.msg711
+   * Creates value "aFormatTagCache=010000001000000006000000120000000700000012000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\AudioCompressionManager\DriverCache\msacm.msg711
+   * Creates value "fdwSupport=00000001" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\AudioCompressionManager\DriverCache\msacm.msgsm610
+   * Creates value "cFormatTags=00000002" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\AudioCompressionManager\DriverCache\msacm.msgsm610
+   * Creates value "aFormatTagCache=01000000100000003100000014000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\AudioCompressionManager\DriverCache\msacm.msgsm610
+   * Creates value "ClockTimeSeconds=0C76486100000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\IdentityCRL\ClockData
+   * Creates value "TickCount=FA3E6D0000000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\IdentityCRL\ClockData
+   * Creates Registry key HKEY_CURRENT_USER\software\Microsoft\Multimedia\Audio Compression Manager\MSACM
+   * Creates Registry key HKEY_CURRENT_USER\software\Microsoft\Multimedia\Audio Compression Manager\Priority v4.00
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{5e6c2526-0000-0000-0000-300300000000}
+          old value empty
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+
+ [ Network services ]
+   * No changes
+
+ [ Process/window/string information ]
+   * Enumerates running processes.
+   * Opens a service named "WinHttpAutoProxySvc".
+   * Opens a service named "CryptSvc".
+   * Sleeps 30 seconds.

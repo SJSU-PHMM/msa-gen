@@ -1,0 +1,11 @@
+Executing: C:\Users\joa\Downloads\malware\winwebsec\0bcd5a00cd28d43d348d85b94a70c586b7d812ce.exe
+GetModuleHandle(ntdll) [c:\users\joa\downloads\malware\winwebsec\0bcd5a00cd28d43d348d85b94a70c586b7d812ce.exe]
+QuerySystemInformation(SystemBasicInformation) [c:\users\joa\downloads\malware\winwebsec\0bcd5a00cd28d43d348d85b94a70c586b7d812ce.exe]
+QuerySystemInformation(SystemProcessorInformation) [c:\users\joa\downloads\malware\winwebsec\0bcd5a00cd28d43d348d85b94a70c586b7d812ce.exe]
+QueryProcessInformation(C:\Users\joa\Downloads\malware\winwebsec\0bcd5a00cd28d43d348d85b94a70c586b7d812ce.exe, ProcessImageInformation) [c:\users\joa\downloads\malware\winwebsec\0bcd5a00cd28d43d348d85b94a70c586b7d812ce.exe]
+VirtualAllocEx(C:\Users\joa\Downloads\malware\winwebsec\0bcd5a00cd28d43d348d85b94a70c586b7d812ce.exe, MEM_RESERVE, PAGE_READWRITE, RegionSize=0x000E0000) [c:\users\joa\downloads\malware\winwebsec\0bcd5a00cd28d43d348d85b94a70c586b7d812ce.exe]
+VirtualAllocEx(C:\Users\joa\Downloads\malware\winwebsec\0bcd5a00cd28d43d348d85b94a70c586b7d812ce.exe, MEM_COMMIT, PAGE_READWRITE, RegionSize=0x00001000) [c:\users\joa\downloads\malware\winwebsec\0bcd5a00cd28d43d348d85b94a70c586b7d812ce.exe]
+VirtualAllocEx(C:\Users\joa\Downloads\malware\winwebsec\0bcd5a00cd28d43d348d85b94a70c586b7d812ce.exe, MEM_COMMIT, PAGE_READWRITE, RegionSize=0x00005000) [c:\users\joa\downloads\malware\winwebsec\0bcd5a00cd28d43d348d85b94a70c586b7d812ce.exe]
+VirtualAllocEx(C:\Users\joa\Downloads\malware\winwebsec\0bcd5a00cd28d43d348d85b94a70c586b7d812ce.exe, MEM_RESERVE, PAGE_READWRITE, RegionSize=0x00100000) [c:\users\joa\downloads\malware\winwebsec\0bcd5a00cd28d43d348d85b94a70c586b7d812ce.exe]
+VirtualAllocEx(C:\Users\joa\Downloads\malware\winwebsec\0bcd5a00cd28d43d348d85b94a70c586b7d812ce.exe, MEM_COMMIT, PAGE_READWRITE, RegionSize=0x00008000) [c:\users\joa\downloads\malware\winwebsec\0bcd5a00cd28d43d348d85b94a70c586b7d812ce.exe]
+GetModuleHandle(rpcrt4.dll) [c:\users\joa\downloads\malware\winwebsec\0bcd5a00cd28d43d348d85b94a70c586b7d812ce.exe]

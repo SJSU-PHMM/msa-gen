@@ -1,0 +1,8 @@
+machine\software\microsoft\Windows\Windows Error Reporting\DontShowUI = 00000001
+machine\software\microsoft\Windows\Windows Error Reporting\LocalDumps = created registry key
+machine\software\WOW6432Node\Microsoft\IdentityCRL\ClockData\ClockTimeSeconds = DE6E486100000000
+machine\software\WOW6432Node\Microsoft\IdentityCRL\ClockData\TickCount = 9F32510000000000
+machine\software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\{11517B7C-E79D-4e20-961B-75A811715ADD}\CreatingCommand = C:\Windows\SysWOW64\WerFault.exe -u -p 5460 -s 380
+machine\software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\{11517B7C-E79D-4e20-961B-75A811715ADD}\CreatingModule = C:\Windows\SYSTEM32\aepic.dll
+user\current\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{5e6c2526-0000-0000-0000-300300000000}\NukeOnDelete = 00000001
+user\current\software\SandboxAutoExec  = 31

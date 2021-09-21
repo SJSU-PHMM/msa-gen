@@ -1,0 +1,11 @@
+Executing: C:\Users\joa\Downloads\malware\winwebsec\0aae1fe8d08ba63d3984cdecabfd3ba1d07dd2ad.exe
+GetModuleHandle(ntdll) [c:\users\joa\downloads\malware\winwebsec\0aae1fe8d08ba63d3984cdecabfd3ba1d07dd2ad.exe]
+QuerySystemInformation(SystemBasicInformation) [c:\users\joa\downloads\malware\winwebsec\0aae1fe8d08ba63d3984cdecabfd3ba1d07dd2ad.exe]
+QuerySystemInformation(SystemProcessorInformation) [c:\users\joa\downloads\malware\winwebsec\0aae1fe8d08ba63d3984cdecabfd3ba1d07dd2ad.exe]
+QueryProcessInformation(C:\Users\joa\Downloads\malware\winwebsec\0aae1fe8d08ba63d3984cdecabfd3ba1d07dd2ad.exe, ProcessImageInformation) [c:\users\joa\downloads\malware\winwebsec\0aae1fe8d08ba63d3984cdecabfd3ba1d07dd2ad.exe]
+VirtualAllocEx(C:\Users\joa\Downloads\malware\winwebsec\0aae1fe8d08ba63d3984cdecabfd3ba1d07dd2ad.exe, MEM_RESERVE, PAGE_READWRITE, RegionSize=0x00100000) [c:\users\joa\downloads\malware\winwebsec\0aae1fe8d08ba63d3984cdecabfd3ba1d07dd2ad.exe]
+VirtualAllocEx(C:\Users\joa\Downloads\malware\winwebsec\0aae1fe8d08ba63d3984cdecabfd3ba1d07dd2ad.exe, MEM_COMMIT, PAGE_READWRITE, RegionSize=0x00001000) [c:\users\joa\downloads\malware\winwebsec\0aae1fe8d08ba63d3984cdecabfd3ba1d07dd2ad.exe]
+Sleep(20) [c:\users\joa\downloads\malware\winwebsec\0aae1fe8d08ba63d3984cdecabfd3ba1d07dd2ad.exe]
+Sleep(10) [c:\users\joa\downloads\malware\winwebsec\0aae1fe8d08ba63d3984cdecabfd3ba1d07dd2ad.exe]
+ExitProcess(0) [c:\users\joa\downloads\malware\winwebsec\0aae1fe8d08ba63d3984cdecabfd3ba1d07dd2ad.exe]
+TerminateProcess() [c:\users\joa\downloads\malware\winwebsec\0aae1fe8d08ba63d3984cdecabfd3ba1d07dd2ad.exe]

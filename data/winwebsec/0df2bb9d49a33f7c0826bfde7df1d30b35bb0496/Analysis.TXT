@@ -1,0 +1,11 @@
+
+Report generated with Buster Sandbox Analyzer 1.92 at 06:31:35 on 20/09/2021
+
+Detailed report of suspicious malware actions:
+
+Changed file attributes: C:\Windows\system32\CatRoot2\edb00016.log
+Enumerated running processes
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+Opened a service named: CryptSvc
+Opened a service named: WinHttpAutoProxySvc
+Traces of Max++

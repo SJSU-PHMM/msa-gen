@@ -1,0 +1,2 @@
++ C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_0a22e4623135b517_1d6d1e4ee2d7f1ff2c39fe6dfe1a994587458ecd_5f6c8951_79f6a092-04fd-49e2-ad3f-9d6e72fe6db1\Report.wer
++ C:\Users\joa\AppData\Local\CrashDumps\0a22e4623135b517f056150d0e44862935c3051c.exe.6488.dmp
