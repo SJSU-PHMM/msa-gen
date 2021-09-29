@@ -1,0 +1,46 @@
+
+Report generated with Buster Sandbox Analyzer 1.92 at 22:39:18 on 25/09/2021
+
+Detailed report of suspicious malware actions:
+
+Checked for debuggers
+Code injection in process: C:\Users\User\AppData\Roaming\KB00232661.exe
+Code injection in process: C:\Windows\SysWOW64\cmd.exe
+Code injection in process: C:\Windows\SysWOW64\WerFault.exe
+Connected to WWW
+Created a mutex named: Local\I000008D0
+Created a mutex named: Local\I00001658
+Created a mutex named: Local\I0000237C
+Created a mutex named: Local\M000008D0
+Created a mutex named: Local\M00001658
+Created a mutex named: Local\M0000237C
+Created a mutex named: Local\RCE0582D8
+Created a mutex named: Local\SCE0582D8
+Created an event named: Local\BCE0582D8
+Created an event named: Local\E000008D0
+Created an event named: Local\E00001658
+Created an event named: Local\E0000237C
+Created an event named: Local\FCE0582D8
+Created process: C:\Users\User\AppData\Roaming\KB00232661.exe, null, null
+Created process: null, "C:\Windows\system32\cmd.exe" /c "C:\Users\User\AppData\Local\Temp\POS4723.tmp.BAT", null
+Defined file type created: C:\Users\User\AppData\Roaming\KB00232661.exe
+Defined registry AutoStart location created or modified: user\current\software\Microsoft\Windows\CurrentVersion\Run\KB00232661.exe = "C:\Users\User\AppData\Roaming\KB00232661.exe"
+Detected privilege modification
+Detected process privilege elevation
+Enumerated running processes
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+File copied itself
+File deleted itself
+Got computer name
+Got volume information
+Internet connection: C:\Windows\SysWOW64\WerFault.exe Connects to "20.42.65.92" on port 443 (TCP - HTTPS)
+Modified access control lists (ACLs) of files
+Opened a service named: CryptSvc
+Opened a service named: WinHttpAutoProxySvc
+Queried DNS: avtestcentossystems.ru
+Queried DNS: renderingoptimizationinfoz.ru
+Queried DNS: umwatson.events.data.microsoft.com
+Queried DNS: webhe6pturntab1ez.ru
+Queried DNS: webhelpturntab1ez.ru
+Traces of Max++
+Used a pipe for inter-process communication

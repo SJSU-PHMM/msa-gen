@@ -1,0 +1,138 @@
+
+ Report generated with Buster Sandbox Analyzer 1.92 at 22:48:12 on 25/09/2021
+
+ [ General information ]
+   * Analysis duration: 00:01:00
+   * File name: C:\Users\User\Downloads\harebot\harebot\73035af042ea114421a1a9f7a7b95234cbb739d0.EXE
+
+ [ Changes to filesystem ]
+   * Creates file C:\Users\User\caluruviqwal.exe
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Creates value "AppManagement=4FDB6868F4F481810E0E9A9A2727B3B3" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion
+   * Creates value "caluruviqwalzap=48D4D46161EDED7A7A070793932020AC" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{8e1bb712-0000-0000-0000-300300000000}
+          old value empty
+   * Creates value "caluruviqwal=C:\Users\User\caluruviqwal.exe" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Run
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+
+ [ Network services ]
+   * Queries DNS "pchome.com.tw".
+   * Queries DNS "laposte.net".
+   * Queries DNS "globalcrossing.com".
+   * Queries DNS "yahoo.com.au".
+   * Queries DNS "wa-net.com".
+   * Queries DNS "the-beach.net".
+   * Queries DNS "wilbursmith.com".
+   * Queries DNS "oregonstate.edu".
+   * Queries DNS "lansdownecollege.com".
+   * Queries DNS "plasa.com".
+   * Queries DNS "cantv.net".
+   * Queries DNS "godpeople.com".
+   * Queries DNS "dreamwiz.com".
+   * Queries DNS "dangerous-minds.com".
+   * Queries DNS "ono.com".
+   * Queries DNS "yahoo.com.hk".
+   * Queries DNS "eznet.net".
+   * Queries DNS "zd.com".
+   * Queries DNS "motivators.com".
+   * Queries DNS "dr.dk".
+   * Queries DNS "iprimus.com.au".
+   * Queries DNS "vip.hr".
+   * Queries DNS "honey-do-this.com".
+   * Queries DNS "mail.earthlink.net".
+   * Queries DNS "opotonline.net".
+   * Queries DNS "zdnetonebox.com".
+   * Queries DNS "mzsg.at".
+   * Queries DNS "starpower.net".
+   * Queries DNS "surfglobal.net".
+   * Queries DNS "yahoo.com.cn".
+   * Queries DNS "marchmail.com".
+   * Queries DNS "tvn.hu".
+   * Queries DNS "libero.it".
+   * Queries DNS "rehijsoft.ru".
+   * Queries DNS "ohsu.edu".
+   * Queries DNS "telepac.pt".
+   * Queries DNS "q.com".
+   * Queries DNS "machlink.com".
+   * Queries DNS "indosat.com".
+   * Queries DNS "t-mobel.com".
+   * Queries DNS "imaginet.com".
+   * Queries DNS "chickensys.com".
+   * Queries DNS "vaxxine.com".
+   * Queries DNS "rr.com".
+   * Queries DNS "worldnetatt.net".
+   * Queries DNS "pandora.be".
+   * Queries DNS "iw.com".
+   * C:\Users\User\Downloads\harebot\harebot\73035af042ea114421a1a9f7a7b95234cbb739d0.EXE Connects to "64.190.62.111" on port 443 (TCP - HTTPS).
+   * C:\Users\User\Downloads\harebot\harebot\73035af042ea114421a1a9f7a7b95234cbb739d0.EXE Connects to "132.226.38.239" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\73035af042ea114421a1a9f7a7b95234cbb739d0.EXE Connects to "162.39.145.20" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\73035af042ea114421a1a9f7a7b95234cbb739d0.EXE Connects to "210.59.230.39" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\73035af042ea114421a1a9f7a7b95234cbb739d0.EXE Connects to "160.92.63.94" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\73035af042ea114421a1a9f7a7b95234cbb739d0.EXE Connects to "52.219.40.205" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\73035af042ea114421a1a9f7a7b95234cbb739d0.EXE Connects to "12.167.51.51" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\73035af042ea114421a1a9f7a7b95234cbb739d0.EXE Connects to "114.31.57.141" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\73035af042ea114421a1a9f7a7b95234cbb739d0.EXE Connects to "141.0.172.211" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\73035af042ea114421a1a9f7a7b95234cbb739d0.EXE Connects to "74.6.136.150" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\73035af042ea114421a1a9f7a7b95234cbb739d0.EXE Connects to "184.27.30.49" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\73035af042ea114421a1a9f7a7b95234cbb739d0.EXE Connects to "20.44.74.143" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\73035af042ea114421a1a9f7a7b95234cbb739d0.EXE Connects to "208.82.184.40" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\73035af042ea114421a1a9f7a7b95234cbb739d0.EXE Connects to "174.127.120.109" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\73035af042ea114421a1a9f7a7b95234cbb739d0.EXE Connects to "202.138.0.21" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\73035af042ea114421a1a9f7a7b95234cbb739d0.EXE Connects to "208.91.197.46" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\73035af042ea114421a1a9f7a7b95234cbb739d0.EXE Connects to "54.198.170.253" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\73035af042ea114421a1a9f7a7b95234cbb739d0.EXE Connects to "212.91.113.39" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\73035af042ea114421a1a9f7a7b95234cbb739d0.EXE Connects to "104.247.81.53" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\73035af042ea114421a1a9f7a7b95234cbb739d0.EXE Connects to "212.243.165.93" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\73035af042ea114421a1a9f7a7b95234cbb739d0.EXE Connects to "18.217.251.129" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\73035af042ea114421a1a9f7a7b95234cbb739d0.EXE Connects to "72.71.201.6" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\73035af042ea114421a1a9f7a7b95234cbb739d0.EXE Connects to "64.35.208.115" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\73035af042ea114421a1a9f7a7b95234cbb739d0.EXE Connects to "35.186.238.101" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\73035af042ea114421a1a9f7a7b95234cbb739d0.EXE Connects to "195.56.146.225" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\73035af042ea114421a1a9f7a7b95234cbb739d0.EXE Connects to "213.209.17.209" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\73035af042ea114421a1a9f7a7b95234cbb739d0.EXE Connects to "35.166.50.206" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\73035af042ea114421a1a9f7a7b95234cbb739d0.EXE Connects to "213.13.145.45" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\73035af042ea114421a1a9f7a7b95234cbb739d0.EXE Connects to "69.49.95.13" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\73035af042ea114421a1a9f7a7b95234cbb739d0.EXE Connects to "183.110.214.4" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\73035af042ea114421a1a9f7a7b95234cbb739d0.EXE Connects to "114.7.94.159" on port 80 (TCP - HTTP).
+   * Downloads file from "the-beach.net /?ptrxcz_Zaabbccddeeffgghhiijjkkkllmmoo".
+   * Downloads file from "connections-etc.net /?ptrxcz_LMNNOOPPPQQRRSSTTUUVVWWXXYYZZa".
+   * Downloads file from "pchome.com.tw /".
+   * Downloads file from "laposte.net /".
+   * Downloads file from "pchome.com.tw /?ptrxcz_uwwwxxyyzz00112233445566778899".
+   * Downloads file from "plasa.com /?ptrxcz_MNNOOOPPQQRRSSTTUUVVWWWXXYYZZa".
+   * Downloads file from "dangerous-minds.com /?ptrxcz_XYZZZaabbbccdddeefffgghhiiijjk".
+   * Downloads file from "godpeople.com /".
+   * Downloads file from "sexstories.com /".
+   * Downloads file from "yahoo.com.hk /".
+   * Downloads file from "dr.dk /?ptrxcz_pqrrrsstttuuvvvwwxxxyyyEEFGHHI".
+   * Downloads file from "motivators.com /".
+   * Downloads file from "eznet.net /?ptrxcz_jkllmmmoopppqqrrrsssttuuuvvwww".
+   * Downloads file from "cannylink.com /?ptrxcz_IJKKLLMMNNOOPPQQRRSSSTTUUVVWWX".
+   * Downloads file from "iprimus.com.au /?ptrxcz_gjkklllmmoopprrsssttuuvvwwxxyz".
+   * Downloads file from "honey-do-this.com /".
+   * Downloads file from "ig.com.br /".
+   * Downloads file from "vip.hr /?ptrxcz_0222333445556677788899ABBCCCDD".
+   * Downloads file from "opotonline.net /?ptrxcz_YZZZaabbbcccddeeeffggghhiiijjj".
+   * Downloads file from "mzsg.at /?ptrxcz_STTTUUVVVWWXXXYYZZZaabbbcccdde".
+   * Downloads file from "zdnetonebox.com /".
+   * Downloads file from "surfglobal.net /?ptrxcz_pqqrrrsssttuuuvvwwwxxyyyzz0001".
+   * Downloads file from "marktwain.net /".
+   * Downloads file from "yahoo.com.cn /?ptrxcz_vwxxyyzz001122334455566778899A".
+   * Downloads file from "tellmeimcute.com /?ptrxcz_GHHIIJJKKLLMMNNOOPPQQRRSSTTUUV".
+   * Downloads file from "tvn.hu /".
+   * Downloads file from "libero.it /".
+   * Downloads file from "ohsu.edu /?ptrxcz_XYYZaabbccddeeffgghhhiijjkkllm".
+   * Downloads file from "telepac.pt /?ptrxcz_GHIIJJKKLLMMNNOOPPQQRRSSTTUUVV".
+   * Downloads file from "machlink.com /?ptrxcz_qrrssttuuvvwwxxyyzz00111223344".
+   * Downloads file from "telepac.pt /?ptrxcz_DEFFGGHHIIJJKKLLMMNNOOPPQQRRSS".
+   * Downloads file from "dreamwiz.com /".
+   * Downloads file from "opotonline.net /".
+   * Downloads file from "yahoo.com.cn /?ptrxcz_EFGGHHIJJKKLLMNNOOPQQRRSSTTUVV".
+   * Downloads file from "indosat.com /?ptrxcz_HIJJKKLLMMNNOOPPQQRRSSSTTUUVVW".
+   * Uses POST methods in HTTP.
+
+ [ Process/window/string information ]
+   * Sleeps 88 seconds.

@@ -1,0 +1,2 @@
+DNS Query(g.live.com)
+DNS Query(oneclient.sfx.ms)

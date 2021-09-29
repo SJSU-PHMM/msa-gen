@@ -1,0 +1,38 @@
+
+ Report generated with Buster Sandbox Analyzer 1.92 at 11:54:21 on 27/09/2021
+
+ [ General information ]
+   * Analysis duration: 00:00:14
+   * File name: C:\Users\User\Downloads\smarthdd\smarthdd\6d31c220e6215044f2f605eb363151ac7f1d4e37.EXE
+
+ [ Changes to filesystem ]
+   * Creates file C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_6d31c220e6215044_aa5997cc3692a6947f6461a7ab0471afdc4381f_77309ada_92ecbe20-ee70-46e4-91ec-73ce142a7aff\Report.wer
+   * Creates file C:\Users\User\AppData\Local\CrashDumps\6d31c220e6215044f2f605eb363151ac7f1d4e37.EXE.6608.dmp
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Creates value "ClockTimeSeconds=6913526100000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\IdentityCRL\ClockData
+   * Creates value "TickCount=096C740200000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\IdentityCRL\ClockData
+   * Empties value "AmiHivePermissionsCorrect" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\AppCompatFlags
+         old value "AmiHivePermissionsCorrect=00000001"
+   * Empties value "AmiHiveOwnerCorrect" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\AppCompatFlags
+         old value "AmiHiveOwnerCorrect=00000001"
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{8e1bb712-0000-0000-0000-300300000000}
+          old value empty
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+
+ [ Network services ]
+   * Queries DNS "umwatson.events.data.microsoft.com".
+   * C:\Windows\SysWOW64\WerFault.exe Connects to "52.168.117.173" on port 443 (TCP - HTTPS).
+
+ [ Process/window/string information ]
+   * Checks for debuggers.
+   * Injects code into process "C:\Windows\SysWOW64\WerFault.exe".
+   * Enumerates running processes.
+   * Enables privilege SeRestorePrivilege.
+   * Enables privilege SeBackupPrivilege.
+   * Opens a service named "WinHttpAutoProxySvc".
+   * Opens a service named "CryptSvc".
+   * Enables process privileges.
+   * Sleeps 30 seconds.

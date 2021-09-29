@@ -1,0 +1,19 @@
+
+Report generated with Buster Sandbox Analyzer 1.92 at 22:53:13 on 25/09/2021
+
+Detailed report of suspicious malware actions:
+
+Code injection in process: C:\Windows\SysWOW64\attrib.exe
+Code injection in process: C:\Windows\SysWOW64\cmd.exe
+Connected to WWW
+Created process: C:\Windows\system32\attrib.exe, attrib  -R -S -H "C:\Users\User\AppData\Roaming\Code\logs\20210614T003459\exthost1\output_logging_20210614T003504\393.tmp.bat", C:\Users\User\Downloads\harebot\harebot
+Created process: C:\Windows\system32\attrib.exe, attrib  -R -S -H "C:\Users\User\Downloads\harebot\harebot\903888580910b6ecfb1e1048075758aa3cd62b4a.EXE", C:\Users\User\Downloads\harebot\harebot
+Created process: null, C:\Windows\system32\cmd.exe /c C:\Users\User\AppData\Roaming\Code\logs\202106~1\exthost1\OUTPUT~2\393TMP~1.BAT, null
+Enumerated running processes
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+File deleted itself
+Got computer name
+Queried DNS: directprotect.cc
+Queried DNS: liqsolutions.cc
+Queried DNS: worldwide-analytics.cc
+Traces of Max++

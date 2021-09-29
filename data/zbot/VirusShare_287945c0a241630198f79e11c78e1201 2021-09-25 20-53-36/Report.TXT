@@ -1,0 +1,31 @@
+
+ Report generated with Buster Sandbox Analyzer 1.92 at 20:53:36 on 25/09/2021
+
+ [ General information ]
+   * Analysis duration: 00:01:00
+   * File name: C:\Users\User\Downloads\zbot_files\VirusShare_287945c0a241630198f79e11c78e1201.EXE
+
+ [ Changes to filesystem ]
+   * Creates file (empty) C:\ProgramData\Microsoft\Windows\WER\Temp\WER1B22.tmp.mdmp
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Empties value "AmiHivePermissionsCorrect" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\AppCompatFlags
+         old value "AmiHivePermissionsCorrect=00000001"
+   * Empties value "AmiHiveOwnerCorrect" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\AppCompatFlags
+         old value "AmiHiveOwnerCorrect=00000001"
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{8e1bb712-0000-0000-0000-300300000000}
+          old value empty
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+
+ [ Network services ]
+   * No changes
+
+ [ Process/window/string information ]
+   * Checks for debuggers.
+   * Injects code into process "C:\Windows\SysWOW64\WerFault.exe".
+   * Enumerates running processes.
+   * Enables privilege SeRestorePrivilege.
+   * Enables privilege SeBackupPrivilege.
+   * Enables process privileges.

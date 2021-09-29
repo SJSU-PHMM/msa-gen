@@ -1,0 +1,14 @@
+
+Report generated with Buster Sandbox Analyzer 1.92 at 22:29:16 on 25/09/2021
+
+Detailed report of suspicious malware actions:
+
+Connected to WWW
+Detected privilege modification
+Detected process privilege elevation
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+Got system default language ID
+Queried DNS: play.google.com
+Queried DNS: promos.fling.com
+Traces of AutoStart registry key
+Traces of Max++

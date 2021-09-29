@@ -1,0 +1,3 @@
+DNS Query(promos.fling.com)
+OUT,TCP - HTTP,10.0.2.15,64.210.151.32:80,C:\Users\User\Downloads\zeroaccess\zeroaccess\1df3c29670ae32fc490b7f94d035511a82703c7a.EXE
+DNS Query(signaler-pa.clients6.google.com)

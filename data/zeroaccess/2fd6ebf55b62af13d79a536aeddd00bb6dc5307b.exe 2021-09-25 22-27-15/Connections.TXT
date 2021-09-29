@@ -1,0 +1,2 @@
+DNS Query(promos.fling.com)
+OUT,TCP - HTTP,10.0.2.15,64.210.151.32:80,C:\Users\User\Downloads\zeroaccess\zeroaccess\2fd6ebf55b62af13d79a536aeddd00bb6dc5307b.EXE

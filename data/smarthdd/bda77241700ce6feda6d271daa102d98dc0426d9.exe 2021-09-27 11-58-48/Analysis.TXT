@@ -1,0 +1,13 @@
+
+Report generated with Buster Sandbox Analyzer 1.92 at 11:58:48 on 27/09/2021
+
+Detailed report of suspicious malware actions:
+
+Connected to WWW
+Enumerated running processes
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+Internet connection: C:\Windows\SysWOW64\WerFault.exe Connects to "20.42.73.29" on port 443 (TCP - HTTPS)
+Opened a service named: CryptSvc
+Opened a service named: WinHttpAutoProxySvc
+Queried DNS: umwatson.events.data.microsoft.com
+Traces of Max++

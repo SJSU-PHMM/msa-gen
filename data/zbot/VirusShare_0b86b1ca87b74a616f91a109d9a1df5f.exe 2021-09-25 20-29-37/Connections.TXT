@@ -1,0 +1,9 @@
+DNS Query(cp601.prod.do.dsp.mp.microsoft.com)
+DNS Query(3.tlu.dl.delivery.mp.microsoft.com)
+DNS Query(7.tlu.dl.delivery.mp.microsoft.com)
+DNS Query(outlookmobile-office365-tas.msedge.net)
+DNS Query(geover.prod.do.dsp.mp.microsoft.com)
+DNS Query(umwatson.events.data.microsoft.com)
+DNS Query(9.tlu.dl.delivery.mp.microsoft.com)
+OUT,TCP - HTTPS,10.0.2.15,52.182.143.212:443,C:\Windows\SysWOW64\WerFault.exe
+IN,TCP - HTTPS,52.182.143.212:443,10.0.2.15,C:\Windows\SysWOW64\WerFault.exe

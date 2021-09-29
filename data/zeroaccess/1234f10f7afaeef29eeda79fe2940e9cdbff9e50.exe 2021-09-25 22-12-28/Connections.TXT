@@ -1,0 +1,3 @@
+DNS Query(ssl.gstatic.com)
+DNS Query(promos.fling.com)
+OUT,TCP - HTTP,10.0.2.15,64.210.151.32:80,C:\Users\User\Downloads\zeroaccess\zeroaccess\1234f10f7afaeef29eeda79fe2940e9cdbff9e50.EXE

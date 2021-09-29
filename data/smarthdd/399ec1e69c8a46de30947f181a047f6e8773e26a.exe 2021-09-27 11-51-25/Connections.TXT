@@ -1,0 +1,4 @@
+DNS Query(mastecomprse.com)
+DNS Query(vegardithout.com)
+DNS Query(thetlueredir.com)
+DNS Query(michalaftsi.com)

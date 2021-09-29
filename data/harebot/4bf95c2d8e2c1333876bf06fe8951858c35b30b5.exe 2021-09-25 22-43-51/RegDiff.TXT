@@ -1,0 +1,7 @@
+machine\software\microsoft\Windows\Windows Error Reporting\DontShowUI = 00000001
+machine\software\microsoft\Windows\Windows Error Reporting\LocalDumps = created registry key
+user\current\software\Microsoft\Windows\CurrentVersion\AppManagement = 7E7F7F80808181828283838484858586
+user\current\software\Microsoft\Windows\CurrentVersion\puxtaqcudutmzap = 9C9D9D9E9E9F9FA0A0A1A1A2A2A3A3A4
+user\current\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{8e1bb712-0000-0000-0000-300300000000}\NukeOnDelete = 00000001
+user\current\software\Microsoft\Windows\CurrentVersion\Run\puxtaqcudutm = C:\Users\User\puxtaqcudutm.exe
+user\current\software\SandboxAutoExec  = 31

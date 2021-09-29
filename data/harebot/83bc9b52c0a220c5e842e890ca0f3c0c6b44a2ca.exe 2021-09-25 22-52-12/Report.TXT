@@ -1,0 +1,114 @@
+
+ Report generated with Buster Sandbox Analyzer 1.92 at 22:52:12 on 25/09/2021
+
+ [ General information ]
+   * Analysis duration: 00:01:00
+   * File name: C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+
+ [ Changes to filesystem ]
+   * Creates file C:\Users\User\jubuvubxonyh.exe
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Creates value "AppManagement=911E1EAAAA3737C3C35050DCDC6969F5" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion
+   * Creates value "jubuvubxonyhzap=7B7B0808942121ADAD3A3AC6C65353DF" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{8e1bb712-0000-0000-0000-300300000000}
+          old value empty
+   * Creates value "jubuvubxonyh=C:\Users\User\jubuvubxonyh.exe" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Run
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+
+ [ Network services ]
+   * Looks for an Internet connection.
+   * Queries DNS "play.google.com".
+   * Queries DNS "accounting.ee".
+   * Queries DNS "4dbabamozi.hu".
+   * Queries DNS "4everkids.de".
+   * Queries DNS "9vad4r95bfux.sy".
+   * Queries DNS "ssl.gstatic.com".
+   * Queries DNS "4everyware.nl".
+   * Queries DNS "roadrunner.com".
+   * Queries DNS "dragonmount.com".
+   * Queries DNS "brettlarson.com".
+   * Queries DNS "redlands.edu".
+   * Queries DNS "mtv.com".
+   * Queries DNS "arcor.de".
+   * Queries DNS "windermere.com".
+   * Queries DNS "cablelan.net".
+   * Queries DNS "in.com".
+   * Queries DNS "msn.net".
+   * Queries DNS "seznam.cz".
+   * Queries DNS "yahoo.dk".
+   * Queries DNS "williams.edu".
+   * Queries DNS "oakwood.org".
+   * Queries DNS "eircom.net".
+   * Queries DNS "sscomputing.com".
+   * Queries DNS "bumbleandbumble.com".
+   * Queries DNS "livedoor.com".
+   * Queries DNS "adt.com".
+   * Queries DNS "bresnan.net".
+   * Queries DNS "iwon.com".
+   * Queries DNS "reactionsearch.com".
+   * Queries DNS "sbg.at".
+   * Queries DNS "terra.cl".
+   * Queries DNS "www.optonline.com".
+   * Queries DNS "bailliegifford.com".
+   * Queries DNS "naver.com".
+   * C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE Connects to "188.172.196.29" on port 443 (TCP - HTTPS).
+   * C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE Connects to "88.151.96.8" on port 443 (TCP - HTTPS).
+   * C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE Connects to "165.22.195.65" on port 443 (TCP - HTTPS).
+   * C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE Connects to "64.246.164.133" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE Connects to "104.22.25.168" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE Connects to "74.6.136.150" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE Connects to "208.84.244.116" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE Connects to "13.82.28.61" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE Connects to "77.75.74.172" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE Connects to "52.188.74.109" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE Connects to "124.153.64.203" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE Connects to "63.158.167.241" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE Connects to "86.43.151.3" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE Connects to "147.92.184.22" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE Connects to "216.224.192.243" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE Connects to "159.89.121.235" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE Connects to "34.117.28.143" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE Connects to "172.67.204.224" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE Connects to "10.0.2.15" on port 65476 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE Connects to "213.153.32.161" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE Connects to "98.142.237.34" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE Connects to "162.95.221.218" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE Connects to "167.206.148.154" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE Connects to "202.59.111.200" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE Connects to "223.130.195.200" on port 80 (TCP - HTTP).
+   * C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE Connects to "51.141.44.139" on port 80 (TCP - HTTP).
+   * Downloads file from "windermere.com /?ptrxcz_WXXYYZZaabbccddeeeffgghhiijjkk".
+   * Downloads file from "williams.edu /".
+   * Downloads file from "yahoo.dk /".
+   * Downloads file from "terra.com.br /".
+   * Downloads file from "msn.net /".
+   * Downloads file from "seznam.cz /".
+   * Downloads file from "oakwood.org /?ptrxcz_rrssstttuuvvvwwwxxyyyzzz001112".
+   * Downloads file from "in.com /?ptrxcz_Zb2233445566778899AABBCCDDEEFF".
+   * Downloads file from "bumbleandbumble.com /".
+   * Downloads file from "eircom.net /".
+   * Downloads file from "oakwood.org /?ptrxcz_ghiiijjjkklllmmmooopppqqrrrsss".
+   * Downloads file from "livedoor.com /?ptrxcz_NOOPPPQQRRRSSSTTUUUVVVWWWXXYYY".
+   * Downloads file from "adt.com /".
+   * Downloads file from "worldnetatt.net /".
+   * Downloads file from "iwon.com /".
+   * Downloads file from "reactionsearch.com /?ptrxcz_QRRSSTTTUUUVVWWWXXXYYZZZaaabbc".
+   * Downloads file from "sbg.at /".
+   * Downloads file from "terra.cl /?ptrxcz_5566778899SSTVVWWXXYYZZZaabbcc".
+   * Downloads file from "anthem.com /?ptrxcz_IJJJKKLLLMMMNNOOOPPPQQRRRSSSTT".
+   * Downloads file from "www.optonline.com /".
+   * Downloads file from "ncable.net.au /".
+   * Downloads file from "naver.com /".
+   * Downloads file from "bailliegifford.com /".
+   * Uses POST methods in HTTP.
+
+ [ Process/window/string information ]
+   * Modifies access control lists (ACLs) of files.
+   * Deletes activity traces.
+   * Creates process "null, C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE, null".
+   * Opens a service named "WinHttpAutoProxySvc".
+   * Contains string Checked for CA security software presence ("CA.EXE")
+   * Sleeps 57 seconds.

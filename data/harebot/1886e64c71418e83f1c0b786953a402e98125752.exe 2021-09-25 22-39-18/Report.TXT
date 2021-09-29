@@ -1,0 +1,70 @@
+
+ Report generated with Buster Sandbox Analyzer 1.92 at 22:39:18 on 25/09/2021
+
+ [ General information ]
+   * Analysis duration: 00:00:38
+   * File name: C:\Users\User\Downloads\harebot\harebot\1886e64c71418e83f1c0b786953a402e98125752.EXE
+
+ [ Changes to filesystem ]
+   * Creates file C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_KB00232661.exe_5755c4a422d19ba21d893123e1390aa242845f3_3cbbcc55_03205215-69a6-4642-b410-4cb42d98fee7\Report.wer
+   * Creates file C:\Users\User\AppData\Local\CrashDumps\KB00232661.exe.2256.dmp
+   * Creates file (empty) C:\Users\User\AppData\Local\Temp\POS4723.tmp
+   * Creates file C:\Users\User\AppData\Roaming\KB00232661.exe
+   * Deletes file C:\Users\User\Downloads\harebot\harebot\1886e64c71418e83f1c0b786953a402e98125752.EXE
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Creates value "ClockTimeSeconds=A707506100000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\IdentityCRL\ClockData
+   * Creates value "TickCount=79B3290000000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\IdentityCRL\ClockData
+   * Empties value "AmiHivePermissionsCorrect" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\AppCompatFlags
+         old value "AmiHivePermissionsCorrect=00000001"
+   * Empties value "AmiHiveOwnerCorrect" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\AppCompatFlags
+         old value "AmiHiveOwnerCorrect=00000001"
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{8e1bb712-0000-0000-0000-300300000000}
+          old value empty
+   * Creates value "KB00232661.exe="C:\Users\User\AppData\Roaming\KB00232661.exe"" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Run
+   * Creates Registry key HKEY_CURRENT_USER\software\Microsoft\Windows Media Center\6845D2CD
+   * Creates Registry key HKEY_CURRENT_USER\software\Microsoft\Windows Media Center\CE0582D8
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+
+ [ Network services ]
+   * Queries DNS "avtestcentossystems.ru".
+   * Queries DNS "webhelpturntab1ez.ru".
+   * Queries DNS "webhe6pturntab1ez.ru".
+   * Queries DNS "renderingoptimizationinfoz.ru".
+   * Queries DNS "umwatson.events.data.microsoft.com".
+   * C:\Windows\SysWOW64\WerFault.exe Connects to "20.42.65.92" on port 443 (TCP - HTTPS).
+
+ [ Process/window/string information ]
+   * Gets volume information.
+   * Gets computer name.
+   * Checks for debuggers.
+   * Modifies access control lists (ACLs) of files.
+   * Uses a pipe for inter-process communication.
+   * Creates an event named "Local\E0000237C".
+   * Creates a mutex "Local\M0000237C".
+   * Creates a mutex "Local\I0000237C".
+   * Creates process "C:\Users\User\AppData\Roaming\KB00232661.exe, null, null".
+   * Injects code into process "C:\Users\User\AppData\Roaming\KB00232661.exe".
+   * Creates process "null, "C:\Windows\system32\cmd.exe" /c "C:\Users\User\AppData\Local\Temp\POS4723.tmp.BAT", null".
+   * Injects code into process "C:\Windows\SysWOW64\cmd.exe".
+   * Creates an event named "Local\E000008D0".
+   * Creates a mutex "Local\M000008D0".
+   * Creates a mutex "Local\I000008D0".
+   * Enables privilege SeDebugPrivilege.
+   * Creates a mutex "Local\SCE0582D8".
+   * Creates an event named "Local\BCE0582D8".
+   * Injects code into process "C:\Windows\SysWOW64\WerFault.exe".
+   * Creates a mutex "Local\RCE0582D8".
+   * Opens a service named "WinHttpAutoProxySvc".
+   * Creates an event named "Local\FCE0582D8".
+   * Creates an event named "Local\E00001658".
+   * Creates a mutex "Local\M00001658".
+   * Creates a mutex "Local\I00001658".
+   * Enumerates running processes.
+   * Enables privilege SeRestorePrivilege.
+   * Enables privilege SeBackupPrivilege.
+   * Opens a service named "CryptSvc".
+   * Enables process privileges.
+   * Sleeps 35 seconds.

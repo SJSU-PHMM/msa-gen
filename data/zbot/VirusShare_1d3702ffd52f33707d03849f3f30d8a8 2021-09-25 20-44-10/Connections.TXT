@@ -1,0 +1,2 @@
+DNS Query(nexusrules.officeapps.live.com)
+DNS Query(api.msn.com)

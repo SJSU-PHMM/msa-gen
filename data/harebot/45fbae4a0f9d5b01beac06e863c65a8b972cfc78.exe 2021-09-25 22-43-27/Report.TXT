@@ -1,0 +1,22 @@
+
+ Report generated with Buster Sandbox Analyzer 1.92 at 22:43:27 on 25/09/2021
+
+ [ General information ]
+   * Analysis duration: 00:00:04
+   * File name: C:\Users\User\Downloads\harebot\harebot\45fbae4a0f9d5b01beac06e863c65a8b972cfc78.EXE
+
+ [ Changes to filesystem ]
+   * No changes
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{8e1bb712-0000-0000-0000-300300000000}
+          old value empty
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+
+ [ Network services ]
+   * Queries DNS "api.msn.com".
+
+ [ Process/window/string information ]
+   * Creates a mutex "Frz_State".

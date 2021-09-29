@@ -1,0 +1,16 @@
+
+Report generated with Buster Sandbox Analyzer 1.92 at 11:50:02 on 27/09/2021
+
+Detailed report of suspicious malware actions:
+
+Connected to WWW
+Enumerated running processes
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+Got computer name
+Got user name information
+Opened a service named: WinHttpAutoProxySvc
+Queried DNS: hecarubtomyb.com
+Queried DNS: mastecomprse.com
+Queried DNS: thardiolocen.com
+Queried DNS: thetlueredir.com
+Slept over 2 minutes

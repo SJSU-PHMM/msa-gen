@@ -1,0 +1,4 @@
+DNS Query(umwatson.events.data.microsoft.com)
+OUT,TCP - HTTPS,10.0.2.15,104.208.16.94:443,C:\Windows\SysWOW64\WerFault.exe
+IN,TCP - HTTPS,104.208.16.94:443,10.0.2.15,C:\Windows\SysWOW64\WerFault.exe
+IN,TCP - HTTPS,40.83.247.108:443,10.0.2.15,C:\Windows\SysWOW64\WerFault.exe

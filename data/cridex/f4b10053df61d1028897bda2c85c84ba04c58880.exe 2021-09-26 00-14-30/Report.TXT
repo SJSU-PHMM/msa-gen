@@ -1,0 +1,63 @@
+
+ Report generated with Buster Sandbox Analyzer 1.92 at 00:14:30 on 26/09/2021
+
+ [ General information ]
+   * Analysis duration: 00:00:38
+   * File name: C:\Users\User\Downloads\cridex\cridex\f4b10053df61d1028897bda2c85c84ba04c58880.EXE
+
+ [ Changes to filesystem ]
+   * Creates file C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_KB00912661.exe_7a077b891436d24baa923e396a27e4e72b871df_9890f154_99f42882-eb50-4aef-af8a-c8eb271bc385\Report.wer
+   * Creates file C:\Users\User\AppData\Local\CrashDumps\KB00912661.exe.8996.dmp
+   * Creates file (empty) C:\Users\User\AppData\Local\Temp\exp57E6.tmp
+   * Creates file C:\Users\User\AppData\Roaming\KB00912661.exe
+   * Deletes file C:\Users\User\Downloads\cridex\cridex\f4b10053df61d1028897bda2c85c84ba04c58880.EXE
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Creates value "ClockTimeSeconds=FA1D506100000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\IdentityCRL\ClockData
+   * Creates value "TickCount=B09C060000000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\IdentityCRL\ClockData
+   * Empties value "AmiHivePermissionsCorrect" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\AppCompatFlags
+         old value "AmiHivePermissionsCorrect=00000001"
+   * Empties value "AmiHiveOwnerCorrect" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\AppCompatFlags
+         old value "AmiHiveOwnerCorrect=00000001"
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{8e1bb712-0000-0000-0000-300300000000}
+          old value empty
+   * Creates value "KB00912661.exe="C:\Users\User\AppData\Roaming\KB00912661.exe"" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Run
+   * Creates Registry key HKEY_CURRENT_USER\software\Microsoft\Windows NT\C6845D2CD
+   * Creates Registry key HKEY_CURRENT_USER\software\Microsoft\Windows NT\S10A83C37
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+
+ [ Network services ]
+   * Queries DNS "cxcs.microsoft.net".
+   * Queries DNS "www.bing.com".
+   * Queries DNS "umwatson.events.data.microsoft.com".
+   * C:\Windows\SysWOW64\WerFault.exe Connects to "20.42.73.29" on port 443 (TCP - HTTPS).
+
+ [ Process/window/string information ]
+   * Gets volume information.
+   * Gets computer name.
+   * Checks for debuggers.
+   * Creates an event named "Local\XME00001F84".
+   * Creates a mutex "Local\XMM00001F84".
+   * Creates a mutex "Local\XMI00001F84".
+   * Creates process "null, "C:\Windows\system32\cmd.exe" /c "C:\Users\User\AppData\Local\Temp\exp57E6.tmp.bat", null".
+   * Injects code into process "C:\Windows\SysWOW64\cmd.exe".
+   * Creates process "C:\Users\User\AppData\Roaming\KB00912661.exe, null, null".
+   * Injects code into process "C:\Users\User\AppData\Roaming\KB00912661.exe".
+   * Creates an event named "Local\XME00002324".
+   * Creates a mutex "Local\XMM00002324".
+   * Creates a mutex "Local\XMI00002324".
+   * Creates a mutex "Local\XMQCE0582D8".
+   * Enables privilege SeSecurityPrivilege.
+   * Creates an event named "Local\XMBCE0582D8".
+   * Creates a mutex "Local\XMRCE0582D8".
+   * Creates a mutex "Local\XMSCE0582D8".
+   * Injects code into process "C:\Windows\SysWOW64\WerFault.exe".
+   * Enumerates running processes.
+   * Enables privilege SeRestorePrivilege.
+   * Enables privilege SeBackupPrivilege.
+   * Opens a service named "WinHttpAutoProxySvc".
+   * Opens a service named "CryptSvc".
+   * Enables process privileges.
+   * Sleeps 30 seconds.

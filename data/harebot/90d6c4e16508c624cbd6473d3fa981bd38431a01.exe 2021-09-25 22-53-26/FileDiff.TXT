@@ -1,0 +1,3 @@
++ C:\Users\User\AppData\Local\Temp\POS30CD.tmp
++ C:\Users\User\AppData\Roaming\KB00232661.exe
+- C:\Users\User\Downloads\harebot\harebot\90d6c4e16508c624cbd6473d3fa981bd38431a01.EXE

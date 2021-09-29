@@ -1,0 +1,24 @@
+
+Report generated with Buster Sandbox Analyzer 1.92 at 20:28:15 on 25/09/2021
+
+Detailed report of suspicious malware actions:
+
+Connected to WWW
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+Got system default language ID
+Queried DNS: 11.tlu.dl.delivery.mp.microsoft.com
+Queried DNS: 2.tlu.dl.delivery.mp.microsoft.com
+Queried DNS: 3.tlu.dl.delivery.mp.microsoft.com
+Queried DNS: 7.tlu.dl.delivery.mp.microsoft.com
+Queried DNS: 9.tlu.dl.delivery.mp.microsoft.com
+Queried DNS: cp601.prod.do.dsp.mp.microsoft.com
+Queried DNS: disc601.prod.do.dsp.mp.microsoft.com
+Queried DNS: dl.delivery.mp.microsoft.com
+Queried DNS: fe2cr.update.microsoft.com
+Queried DNS: fe3cr.delivery.mp.microsoft.com
+Queried DNS: geo.prod.do.dsp.mp.microsoft.com
+Queried DNS: geover.prod.do.dsp.mp.microsoft.com
+Queried DNS: kv601.prod.do.dsp.mp.microsoft.com
+Queried DNS: settings-win.data.microsoft.com
+Queried DNS: tsfe.trafficshaping.dsp.mp.microsoft.com
+Traces of Max++

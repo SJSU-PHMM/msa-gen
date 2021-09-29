@@ -1,0 +1,10 @@
+= C:\Windows\system32\CatRoot2\{127D0A1D-4EF2-11D1-8608-00C04FC295EE}\catdb
+= C:\Windows\system32\CatRoot2\{127D0A1D-4EF2-11D1-8608-00C04FC295EE}\catdb.jfm
+= C:\Windows\system32\CatRoot2\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\catdb
+= C:\Windows\system32\CatRoot2\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\catdb.jfm
++ C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_KB00912661.exe_7a077b891436d24baa923e396a27e4e72b871df_9890f154_b18eb004-503b-4d34-a860-26d701904ecb\Report.wer
++ C:\Users\User\AppData\Local\CrashDumps\KB00912661.exe.5272.dmp
++ C:\Users\User\AppData\Local\Temp\expCEE0.tmp
+~ C:\Users\User\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\FB0D848F74F70BB2EAA93746D24D9749
++ C:\Users\User\AppData\Roaming\KB00912661.exe
+- C:\Users\User\Downloads\cridex\cridex\dff1c4d1fe574f2f52153bcee544d30db582db50.EXE

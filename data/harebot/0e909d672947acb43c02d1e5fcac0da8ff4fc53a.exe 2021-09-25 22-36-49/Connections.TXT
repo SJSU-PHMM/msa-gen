@@ -1,0 +1,13 @@
+DNS Query(clients6.google.com)
+DNS Query(accounting.ee)
+DNS Query(ssl.gstatic.com)
+DNS Query(accountingtechs.biz)
+DNS Query(4ever-hosting.de)
+DNS Query(signaler-pa.clients6.google.com)
+DNS Query(4everevents.nl)
+OUT,TCP - HTTPS,10.0.2.15,149.210.133.22:443,C:\Users\User\Downloads\harebot\harebot\0e909d672947acb43c02d1e5fcac0da8ff4fc53a.EXE
+IN,TCP - HTTPS,149.210.133.22:443,10.0.2.15,C:\Users\User\Downloads\harebot\harebot\0e909d672947acb43c02d1e5fcac0da8ff4fc53a.EXE
+DNS Query(4dmobil.at)
+OUT,TCP - HTTPS,10.0.2.15,188.172.196.29:443,C:\Users\User\Downloads\harebot\harebot\0e909d672947acb43c02d1e5fcac0da8ff4fc53a.EXE
+DNS Query(4ever4you.de)
+DNS Query(settings-win.data.microsoft.com)

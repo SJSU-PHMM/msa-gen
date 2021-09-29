@@ -1,0 +1,27 @@
+
+Report generated with Buster Sandbox Analyzer 1.92 at 20:31:44 on 25/09/2021
+
+Detailed report of suspicious malware actions:
+
+Connected to WWW
+Decrypted data
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+Got system default language ID
+Queried DNS: 11.tlu.dl.delivery.mp.microsoft.com
+Queried DNS: 2.tlu.dl.delivery.mp.microsoft.com
+Queried DNS: 3.tlu.dl.delivery.mp.microsoft.com
+Queried DNS: 9.tlu.dl.delivery.mp.microsoft.com
+Queried DNS: api.msn.com
+Queried DNS: cp601.prod.do.dsp.mp.microsoft.com
+Queried DNS: disc601.prod.do.dsp.mp.microsoft.com
+Queried DNS: ecs.office.com
+Queried DNS: evoke-windowsservices-tas.msedge.net
+Queried DNS: fa000000002.resources.office.net
+Queried DNS: fa000000006.resources.office.net
+Queried DNS: fa000000043.resources.office.net
+Queried DNS: fa000000054.resources.office.net
+Queried DNS: geo.prod.do.dsp.mp.microsoft.com
+Queried DNS: kv601.prod.do.dsp.mp.microsoft.com
+Queried DNS: mrodevicemgr.officeapps.live.com
+Queried DNS: officeclient.microsoft.com
+Traces of Max++

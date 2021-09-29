@@ -1,0 +1,109 @@
+
+Report generated with Buster Sandbox Analyzer 1.92 at 22:47:11 on 25/09/2021
+
+Detailed report of suspicious malware actions:
+
+Connected to WWW
+Defined file type created: C:\Users\User\jubuvubxonyh.exe
+Defined registry AutoStart location created or modified: user\current\software\Microsoft\Windows\CurrentVersion\Run\jubuvubxonyh = C:\Users\User\jubuvubxonyh.exe
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+File copied itself
+Internet connection: C:\Users\User\Downloads\harebot\harebot\6929cd21d66b2a75ec295f6ea08a7128e15666d4.EXE Connects to "1.6.37.131" on port 80 (TCP - HTTP)
+Internet connection: C:\Users\User\Downloads\harebot\harebot\6929cd21d66b2a75ec295f6ea08a7128e15666d4.EXE Connects to "104.21.46.156" on port 80 (TCP - HTTP)
+Internet connection: C:\Users\User\Downloads\harebot\harebot\6929cd21d66b2a75ec295f6ea08a7128e15666d4.EXE Connects to "104.21.61.16" on port 80 (TCP - HTTP)
+Internet connection: C:\Users\User\Downloads\harebot\harebot\6929cd21d66b2a75ec295f6ea08a7128e15666d4.EXE Connects to "109.237.222.230" on port 443 (TCP - HTTPS)
+Internet connection: C:\Users\User\Downloads\harebot\harebot\6929cd21d66b2a75ec295f6ea08a7128e15666d4.EXE Connects to "129.159.71.219" on port 80 (TCP - HTTP)
+Internet connection: C:\Users\User\Downloads\harebot\harebot\6929cd21d66b2a75ec295f6ea08a7128e15666d4.EXE Connects to "13.82.28.61" on port 80 (TCP - HTTP)
+Internet connection: C:\Users\User\Downloads\harebot\harebot\6929cd21d66b2a75ec295f6ea08a7128e15666d4.EXE Connects to "13.88.18.4" on port 80 (TCP - HTTP)
+Internet connection: C:\Users\User\Downloads\harebot\harebot\6929cd21d66b2a75ec295f6ea08a7128e15666d4.EXE Connects to "141.0.172.211" on port 80 (TCP - HTTP)
+Internet connection: C:\Users\User\Downloads\harebot\harebot\6929cd21d66b2a75ec295f6ea08a7128e15666d4.EXE Connects to "145.5.15.68" on port 80 (TCP - HTTP)
+Internet connection: C:\Users\User\Downloads\harebot\harebot\6929cd21d66b2a75ec295f6ea08a7128e15666d4.EXE Connects to "162.39.145.20" on port 80 (TCP - HTTP)
+Internet connection: C:\Users\User\Downloads\harebot\harebot\6929cd21d66b2a75ec295f6ea08a7128e15666d4.EXE Connects to "162.95.221.218" on port 80 (TCP - HTTP)
+Internet connection: C:\Users\User\Downloads\harebot\harebot\6929cd21d66b2a75ec295f6ea08a7128e15666d4.EXE Connects to "165.160.15.20" on port 80 (TCP - HTTP)
+Internet connection: C:\Users\User\Downloads\harebot\harebot\6929cd21d66b2a75ec295f6ea08a7128e15666d4.EXE Connects to "167.127.109.24" on port 80 (TCP - HTTP)
+Internet connection: C:\Users\User\Downloads\harebot\harebot\6929cd21d66b2a75ec295f6ea08a7128e15666d4.EXE Connects to "167.206.148.154" on port 80 (TCP - HTTP)
+Internet connection: C:\Users\User\Downloads\harebot\harebot\6929cd21d66b2a75ec295f6ea08a7128e15666d4.EXE Connects to "184.168.131.241" on port 80 (TCP - HTTP)
+Internet connection: C:\Users\User\Downloads\harebot\harebot\6929cd21d66b2a75ec295f6ea08a7128e15666d4.EXE Connects to "192.0.66.224" on port 80 (TCP - HTTP)
+Internet connection: C:\Users\User\Downloads\harebot\harebot\6929cd21d66b2a75ec295f6ea08a7128e15666d4.EXE Connects to "192.81.131.31" on port 80 (TCP - HTTP)
+Internet connection: C:\Users\User\Downloads\harebot\harebot\6929cd21d66b2a75ec295f6ea08a7128e15666d4.EXE Connects to "198.55.121.47" on port 80 (TCP - HTTP)
+Internet connection: C:\Users\User\Downloads\harebot\harebot\6929cd21d66b2a75ec295f6ea08a7128e15666d4.EXE Connects to "198.61.135.109" on port 80 (TCP - HTTP)
+Internet connection: C:\Users\User\Downloads\harebot\harebot\6929cd21d66b2a75ec295f6ea08a7128e15666d4.EXE Connects to "208.84.244.116" on port 80 (TCP - HTTP)
+Internet connection: C:\Users\User\Downloads\harebot\harebot\6929cd21d66b2a75ec295f6ea08a7128e15666d4.EXE Connects to "212.82.100.150" on port 80 (TCP - HTTP)
+Internet connection: C:\Users\User\Downloads\harebot\harebot\6929cd21d66b2a75ec295f6ea08a7128e15666d4.EXE Connects to "213.105.9.42" on port 80 (TCP - HTTP)
+Internet connection: C:\Users\User\Downloads\harebot\harebot\6929cd21d66b2a75ec295f6ea08a7128e15666d4.EXE Connects to "216.106.88.171" on port 80 (TCP - HTTP)
+Internet connection: C:\Users\User\Downloads\harebot\harebot\6929cd21d66b2a75ec295f6ea08a7128e15666d4.EXE Connects to "35.209.127.197" on port 80 (TCP - HTTP)
+Internet connection: C:\Users\User\Downloads\harebot\harebot\6929cd21d66b2a75ec295f6ea08a7128e15666d4.EXE Connects to "40.122.65.162" on port 80 (TCP - HTTP)
+Internet connection: C:\Users\User\Downloads\harebot\harebot\6929cd21d66b2a75ec295f6ea08a7128e15666d4.EXE Connects to "46.255.231.106" on port 80 (TCP - HTTP)
+Internet connection: C:\Users\User\Downloads\harebot\harebot\6929cd21d66b2a75ec295f6ea08a7128e15666d4.EXE Connects to "51.141.44.139" on port 80 (TCP - HTTP)
+Internet connection: C:\Users\User\Downloads\harebot\harebot\6929cd21d66b2a75ec295f6ea08a7128e15666d4.EXE Connects to "54.201.94.116" on port 80 (TCP - HTTP)
+Internet connection: C:\Users\User\Downloads\harebot\harebot\6929cd21d66b2a75ec295f6ea08a7128e15666d4.EXE Connects to "62.104.23.121" on port 80 (TCP - HTTP)
+Internet connection: C:\Users\User\Downloads\harebot\harebot\6929cd21d66b2a75ec295f6ea08a7128e15666d4.EXE Connects to "62.138.238.100" on port 80 (TCP - HTTP)
+Internet connection: C:\Users\User\Downloads\harebot\harebot\6929cd21d66b2a75ec295f6ea08a7128e15666d4.EXE Connects to "63.34.204.241" on port 80 (TCP - HTTP)
+Internet connection: C:\Users\User\Downloads\harebot\harebot\6929cd21d66b2a75ec295f6ea08a7128e15666d4.EXE Connects to "64.246.164.133" on port 80 (TCP - HTTP)
+Internet connection: C:\Users\User\Downloads\harebot\harebot\6929cd21d66b2a75ec295f6ea08a7128e15666d4.EXE Connects to "64.92.125.36" on port 80 (TCP - HTTP)
+Internet connection: C:\Users\User\Downloads\harebot\harebot\6929cd21d66b2a75ec295f6ea08a7128e15666d4.EXE Connects to "68.68.98.160" on port 80 (TCP - HTTP)
+Internet connection: C:\Users\User\Downloads\harebot\harebot\6929cd21d66b2a75ec295f6ea08a7128e15666d4.EXE Connects to "72.52.179.174" on port 80 (TCP - HTTP)
+Internet connection: C:\Users\User\Downloads\harebot\harebot\6929cd21d66b2a75ec295f6ea08a7128e15666d4.EXE Connects to "74.6.136.150" on port 80 (TCP - HTTP)
+Internet connection: C:\Users\User\Downloads\harebot\harebot\6929cd21d66b2a75ec295f6ea08a7128e15666d4.EXE Connects to "84.17.165.106" on port 80 (TCP - HTTP)
+Internet connection: C:\Users\User\Downloads\harebot\harebot\6929cd21d66b2a75ec295f6ea08a7128e15666d4.EXE Connects to "98.136.103.23" on port 80 (TCP - HTTP)
+Internet connection: C:\Users\User\Downloads\harebot\harebot\6929cd21d66b2a75ec295f6ea08a7128e15666d4.EXE Connects to "99.83.163.78" on port 80 (TCP - HTTP)
+Private network connection: C:\Users\User\Downloads\harebot\harebot\6929cd21d66b2a75ec295f6ea08a7128e15666d4.EXE Connects to "10.0.2.15" on port 64089 (TCP - HTTP)
+Queried DNS: 4evernails.nl
+Queried DNS: accountant.com
+Queried DNS: allstate.com
+Queried DNS: anthem.com
+Queried DNS: arcor.de
+Queried DNS: bailliegifford.com
+Queried DNS: birds.com
+Queried DNS: caomcast.net
+Queried DNS: casagrande.com
+Queried DNS: claret.org
+Queried DNS: clarksville.com
+Queried DNS: clds.net
+Queried DNS: comcast.com
+Queried DNS: comcast.net
+Queried DNS: connections-etc.net
+Queried DNS: embarqmail.com
+Queried DNS: eresmas.com
+Queried DNS: findlay.edu
+Queried DNS: fluor.com
+Queried DNS: freenet.de
+Queried DNS: frg.eur.nl
+Queried DNS: iprimus.com.au
+Queried DNS: korea.com
+Queried DNS: livedoor.com
+Queried DNS: mailshell.com
+Queried DNS: merck.com
+Queried DNS: microtek.com
+Queried DNS: motivators.com
+Queried DNS: mountainmax.net
+Queried DNS: msn.com
+Queried DNS: nordnet.fr
+Queried DNS: ntl.com
+Queried DNS: play.google.com
+Queried DNS: reactionsearch.com
+Queried DNS: rehijsoft.ru
+Queried DNS: sbg.at
+Queried DNS: sexstories.com
+Queried DNS: sky.com
+Queried DNS: terra.com.br
+Queried DNS: t-online.de
+Queried DNS: twcny.rr.com
+Queried DNS: uakron.edu
+Queried DNS: uw.com
+Queried DNS: vail.com
+Queried DNS: voicestream.com
+Queried DNS: volny.cz
+Queried DNS: waupacafoundry.com
+Queried DNS: webound.com
+Queried DNS: whitbreadhotels.com
+Queried DNS: windermere.com
+Queried DNS: www.optonline.com
+Queried DNS: yahoo.com.tw
+Queried DNS: yahoo.dk
+Queried DNS: yahoo.gr
+Queried DNS: zen.co.uk
+Traces of AutoStart registry key
+Traces of Max++
+Transfered files from and/or to internet
+Used POST methods in HTTP

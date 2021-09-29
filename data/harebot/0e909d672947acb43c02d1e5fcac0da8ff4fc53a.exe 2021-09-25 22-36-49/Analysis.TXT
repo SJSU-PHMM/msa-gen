@@ -1,0 +1,27 @@
+
+Report generated with Buster Sandbox Analyzer 1.92 at 22:36:49 on 25/09/2021
+
+Detailed report of suspicious malware actions:
+
+Connected to WWW
+Defined file type created: C:\Users\User\zigwomzodupd.exe
+Defined registry AutoStart location created or modified: user\current\software\Microsoft\Windows\CurrentVersion\Run\zigwomzodupd = C:\Users\User\zigwomzodupd.exe
+Detected keylogger functionality
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+File copied itself
+Internet connection: C:\Users\User\Downloads\harebot\harebot\0e909d672947acb43c02d1e5fcac0da8ff4fc53a.EXE Connects to "149.210.133.22" on port 443 (TCP - HTTPS)
+Internet connection: C:\Users\User\Downloads\harebot\harebot\0e909d672947acb43c02d1e5fcac0da8ff4fc53a.EXE Connects to "188.172.196.29" on port 443 (TCP - HTTPS)
+Modified access control lists (ACLs) of files
+Opened a service named: WinHttpAutoProxySvc
+Queried DNS: 4dmobil.at
+Queried DNS: 4ever4you.de
+Queried DNS: 4everevents.nl
+Queried DNS: 4ever-hosting.de
+Queried DNS: accounting.ee
+Queried DNS: accountingtechs.biz
+Queried DNS: clients6.google.com
+Queried DNS: settings-win.data.microsoft.com
+Queried DNS: signaler-pa.clients6.google.com
+Queried DNS: ssl.gstatic.com
+Traces of AutoStart registry key
+Traces of Max++

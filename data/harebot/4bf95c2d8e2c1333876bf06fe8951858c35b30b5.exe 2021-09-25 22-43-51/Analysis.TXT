@@ -1,0 +1,18 @@
+
+Report generated with Buster Sandbox Analyzer 1.92 at 22:43:51 on 25/09/2021
+
+Detailed report of suspicious malware actions:
+
+Connected to WWW
+Defined file type created: C:\Users\User\puxtaqcudutm.exe
+Defined registry AutoStart location created or modified: user\current\software\Microsoft\Windows\CurrentVersion\Run\puxtaqcudutm = C:\Users\User\puxtaqcudutm.exe
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+File copied itself
+Internet connection: C:\Users\User\Downloads\harebot\harebot\4bf95c2d8e2c1333876bf06fe8951858c35b30b5.EXE Connects to "149.210.133.22" on port 443 (TCP - HTTPS)
+Internet connection: C:\Users\User\Downloads\harebot\harebot\4bf95c2d8e2c1333876bf06fe8951858c35b30b5.EXE Connects to "213.186.33.5" on port 443 (TCP - HTTPS)
+Queried DNS: 4everandever.de
+Queried DNS: 4everweb.nl
+Queried DNS: 7atable.be
+Queried DNS: web.whatsapp.com
+Traces of AutoStart registry key
+Traces of Max++

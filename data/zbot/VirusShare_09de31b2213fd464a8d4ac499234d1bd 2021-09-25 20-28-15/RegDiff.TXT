@@ -1,0 +1,7 @@
+machine\software\microsoft\Windows\Windows Error Reporting\DontShowUI = 00000001
+machine\software\microsoft\Windows\Windows Error Reporting\LocalDumps = created registry key
+user\current\software\Microsoft\Visual Basic\6.0 = created registry key
+user\current\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{8e1bb712-0000-0000-0000-300300000000}\NukeOnDelete = 00000001
+user\current\software\SandboxAutoExec  = 31
+user\current_classes\Local Settings\Software\Microsoft\Windows\Shell\MuiCache\C:\Users\User\Downloads\zbot_files\VirusShare_09de31b2213fd464a8d4ac499234d1bd.EXE.FriendlyAppName = el ovvio
+user\current_classes\Local Settings\Software\Microsoft\Windows\Shell\MuiCache\C:\Users\User\Downloads\zbot_files\VirusShare_09de31b2213fd464a8d4ac499234d1bd.EXE.ApplicationCompany = infame stia ordivo menino unii polsi fila calava mire rapata ffff ampi fedele sproni duri cambia labbra olia cito membri llll nudi

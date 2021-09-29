@@ -1,0 +1,31 @@
+
+ Report generated with Buster Sandbox Analyzer 1.92 at 22:45:13 on 25/09/2021
+
+ [ General information ]
+   * Analysis duration: 00:00:20
+   * File name: C:\Users\User\Downloads\harebot\harebot\55274dd9fe04b31600e4aced30fee10ea8c40cc9.EXE
+
+ [ Changes to filesystem ]
+   * Creates file C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_55274dd9fe04b316_a66914a8984b11a237ce6d6b1a915226a01fc4c0_a13f4103_7d1bad42-f75b-433e-aa20-9be559d3ea34\Report.wer
+   * Creates file C:\Users\User\AppData\Local\CrashDumps\55274dd9fe04b31600e4aced30fee10ea8c40cc9.EXE.4924.dmp
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Creates value "ClockTimeSeconds=FA08506100000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\IdentityCRL\ClockData
+   * Creates value "TickCount=5DE02E0000000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\IdentityCRL\ClockData
+   * Empties value "AmiOverridePath" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\AppCompatFlags
+         old value "AmiOverridePath=C:\Windows\AppCompat\Programs\Amcache.hve.tmp"
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{8e1bb712-0000-0000-0000-300300000000}
+          old value empty
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+
+ [ Network services ]
+   * Queries DNS "umwatson.events.data.microsoft.com".
+   * C:\Windows\SysWOW64\WerFault.exe Connects to "20.42.65.92" on port 443 (TCP - HTTPS).
+
+ [ Process/window/string information ]
+   * Enumerates running processes.
+   * Opens a service named "WinHttpAutoProxySvc".
+   * Opens a service named "CryptSvc".
+   * Sleeps 30 seconds.

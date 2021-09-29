@@ -1,0 +1,6 @@
+= C:\Windows\system32\CatRoot2\{127D0A1D-4EF2-11D1-8608-00C04FC295EE}\catdb
+= C:\Windows\system32\CatRoot2\{127D0A1D-4EF2-11D1-8608-00C04FC295EE}\catdb.jfm
+= C:\Windows\system32\CatRoot2\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\catdb
+= C:\Windows\system32\CatRoot2\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\catdb.jfm
++ C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_f29b50d7aab8be9f_aa38907eb7c333a749c0bb17309bb4fe178a81dc_011ee09e_4cc32028-0d2a-45a3-abe6-9a12682ee888\Report.wer
++ C:\Users\User\AppData\Local\CrashDumps\f29b50d7aab8be9f4d7c2a50d6ae3694069ef6f8.EXE.9540.dmp

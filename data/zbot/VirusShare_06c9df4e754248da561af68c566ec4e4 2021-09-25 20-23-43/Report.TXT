@@ -1,0 +1,25 @@
+
+ Report generated with Buster Sandbox Analyzer 1.92 at 20:23:43 on 25/09/2021
+
+ [ General information ]
+   * Analysis duration: 00:01:00
+   * File name: C:\Users\User\Downloads\zbot_files\VirusShare_06c9df4e754248da561af68c566ec4e4.EXE
+
+ [ Changes to filesystem ]
+   * No changes
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Creates Registry key HKEY_CURRENT_USER\software\Microsoft\Visual Basic\6.0
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{8e1bb712-0000-0000-0000-300300000000}
+          old value empty
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+   * Creates value "VirusShare_06c9df4e754248da561af68c566ec4e4.EXE.FriendlyAppName=tosate assi" in key HKEY_CURRENT_USER\software\classes\Local Settings\Software\Microsoft\Windows\Shell\MuiCache\C:\Users\User\Downloads\zbot_files
+   * Creates value "VirusShare_06c9df4e754248da561af68c566ec4e4.EXE.ApplicationCompany=dovevi durare fuso viola sudino pendei corsie buca retta onorai culli sabato corvi jv smorto prende ottuse arroti qi termi ql qp" in key HKEY_CURRENT_USER\software\classes\Local Settings\Software\Microsoft\Windows\Shell\MuiCache\C:\Users\User\Downloads\zbot_files
+
+ [ Network services ]
+   * No changes
+
+ [ Process/window/string information ]
+   * Gets system default language ID.

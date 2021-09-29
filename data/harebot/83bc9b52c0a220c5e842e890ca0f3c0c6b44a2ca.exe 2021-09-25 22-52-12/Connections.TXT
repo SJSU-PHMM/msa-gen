@@ -1,0 +1,83 @@
+DNS Query(play.google.com)
+DNS Query(accounting.ee)
+OUT,TCP - HTTPS,10.0.2.15,188.172.196.29:443,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+DNS Query(4dbabamozi.hu)
+OUT,TCP - HTTPS,10.0.2.15,88.151.96.8:443,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+IN,TCP - HTTPS,88.151.96.8:443,10.0.2.15,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+DNS Query(4everkids.de)
+DNS Query(9vad4r95bfux.sy)
+DNS Query(ssl.gstatic.com)
+DNS Query(4everyware.nl)
+OUT,TCP - HTTPS,10.0.2.15,165.22.195.65:443,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+IN,TCP - HTTPS,165.22.195.65:443,10.0.2.15,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+DNS Query(roadrunner.com)
+DNS Query(dragonmount.com)
+DNS Query(brettlarson.com)
+DNS Query(redlands.edu)
+DNS Query(mtv.com)
+DNS Query(arcor.de)
+DNS Query(windermere.com)
+DNS Query(cablelan.net)
+DNS Query(in.com)
+DNS Query(msn.net)
+DNS Query(seznam.cz)
+DNS Query(yahoo.dk)
+DNS Query(williams.edu)
+OUT,TCP - HTTP,10.0.2.15,64.246.164.133:80,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+OUT,TCP - HTTP,10.0.2.15,104.22.25.168:80,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+OUT,TCP - HTTP,10.0.2.15,74.6.136.150:80,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+IN,TCP - HTTP,104.22.25.168:80,10.0.2.15,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+OUT,TCP - HTTP,10.0.2.15,208.84.244.116:80,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+DNS Query(oakwood.org)
+OUT,TCP - HTTP,10.0.2.15,13.82.28.61:80,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+IN,TCP - HTTP,74.6.136.150:80,10.0.2.15,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+OUT,TCP - HTTP,10.0.2.15,77.75.74.172:80,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+DNS Query(eircom.net)
+IN,TCP - HTTP,13.82.28.61:80,10.0.2.15,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+IN,TCP - HTTP,208.84.244.116:80,10.0.2.15,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+DNS Query(sscomputing.com)
+DNS Query(bumbleandbumble.com)
+IN,TCP - HTTP,64.246.164.133:80,10.0.2.15,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+DNS Query(livedoor.com)
+OUT,TCP - HTTP,10.0.2.15,52.188.74.109:80,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+IN,TCP - HTTP,77.75.74.172:80,10.0.2.15,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+OUT,TCP - HTTP,10.0.2.15,124.153.64.203:80,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+IN,TCP - HTTP,66.147.250.82:80,10.0.2.15,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+IN,TCP - HTTP,52.188.74.109:80,10.0.2.15,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+OUT,TCP - HTTP,10.0.2.15,63.158.167.241:80,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+OUT,TCP - HTTP,10.0.2.15,86.43.151.3:80,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+DNS Query(adt.com)
+IN,TCP - HTTP,63.158.167.241:80,10.0.2.15,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+OUT,TCP - HTTP,10.0.2.15,147.92.184.22:80,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+IN,TCP - HTTP,86.43.151.3:80,10.0.2.15,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+IN,TCP - HTTP,124.153.64.203:80,10.0.2.15,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+IN,TCP - HTTP,147.92.184.22:80,10.0.2.15,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+OUT,TCP - HTTP,10.0.2.15,216.224.192.243:80,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+DNS Query(bresnan.net)
+IN,TCP - HTTP,216.224.192.243:80,10.0.2.15,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+OUT,TCP - HTTP,10.0.2.15,159.89.121.235:80,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+DNS Query(iwon.com)
+OUT,TCP - HTTP,10.0.2.15,34.117.28.143:80,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+IN,TCP - HTTP,34.117.28.143:80,10.0.2.15,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+IN,TCP - HTTP,159.89.121.235:80,10.0.2.15,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+DNS Query(reactionsearch.com)
+DNS Query(sbg.at)
+OUT,TCP - HTTP,10.0.2.15,172.67.204.224:80,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+OUT,TCP - HTTP,172.67.204.224,10.0.2.15:65476,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+DNS Query(terra.cl)
+OUT,TCP - HTTP,10.0.2.15,213.153.32.161:80,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+OUT,TCP - HTTP,10.0.2.15,98.142.237.34:80,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+IN,TCP - HTTP,98.142.237.34:80,10.0.2.15,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+DNS Query(www.optonline.com)
+IN,TCP - HTTP,213.153.32.161:80,10.0.2.15,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+OUT,TCP - HTTP,10.0.2.15,162.95.221.218:80,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+IN,TCP - HTTP,162.95.221.218:80,10.0.2.15,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+DNS Query(bailliegifford.com)
+DNS Query(naver.com)
+OUT,TCP - HTTP,10.0.2.15,167.206.148.154:80,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+IN,TCP - HTTP,167.206.148.154:80,10.0.2.15,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+OUT,TCP - HTTP,10.0.2.15,202.59.111.200:80,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+OUT,TCP - HTTP,10.0.2.15,223.130.195.200:80,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+OUT,TCP - HTTP,10.0.2.15,51.141.44.139:80,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+IN,TCP - HTTP,223.130.195.200:80,10.0.2.15,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE
+IN,TCP - HTTP,51.141.44.139:80,10.0.2.15,C:\Users\User\Downloads\harebot\harebot\83bc9b52c0a220c5e842e890ca0f3c0c6b44a2ca.EXE

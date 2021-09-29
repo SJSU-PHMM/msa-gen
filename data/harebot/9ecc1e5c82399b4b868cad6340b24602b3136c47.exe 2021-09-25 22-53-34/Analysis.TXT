@@ -1,0 +1,46 @@
+
+Report generated with Buster Sandbox Analyzer 1.92 at 22:53:34 on 25/09/2021
+
+Detailed report of suspicious malware actions:
+
+Checked for FireFox browser software presence
+Code injection in process: C:\Users\User\AppData\Roaming\KB00232661.exe
+Code injection in process: C:\Windows\SysWOW64\cmd.exe
+Connected to WWW
+Created a mutex named: Local\I00001A48
+Created a mutex named: Local\I00001C0C
+Created a mutex named: Local\M00001A48
+Created a mutex named: Local\M00001C0C
+Created a mutex named: Local\RCE0582D8
+Created a mutex named: Local\SCE0582D8
+Created an event named: _f4jo9agat9be2
+Created an event named: 6-8 sgkbliceltxd
+Created an event named: as tayr3#v96cyk2_zp
+Created an event named: jial4_qeyk4dqkbz3_
+Created an event named: jwt0p
+Created an event named: Local\BCE0582D8
+Created an event named: Local\E00001A48
+Created an event named: Local\E00001C0C
+Created an event named: Local\FCE0582D8
+Created an event named: m+j+b90lum0m
+Created an event named: mwidk0+7rj_5u4vk
+Created an event named: ntdmvy_p3#
+Created an event named: t7+wqgo dmkwl 3d07
+Created process: C:\Users\User\AppData\Roaming\KB00232661.exe, null, null
+Created process: null, "C:\Windows\system32\cmd.exe" /c "C:\Users\User\AppData\Local\Temp\POS508A.tmp.BAT", null
+Defined file type created: C:\Users\User\AppData\Roaming\KB00232661.exe
+Defined registry AutoStart location created or modified: user\current\software\Microsoft\Windows\CurrentVersion\Run\KB00232661.exe = "C:\Users\User\AppData\Roaming\KB00232661.exe"
+Detected privilege modification
+Detected process privilege elevation
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+File copied itself
+File deleted itself
+Got computer name
+Got volume information
+Queried DNS: droppinlever.pro
+Queried DNS: droppinleverpro.ru
+Queried DNS: lambolp700tuning.ru
+Queried DNS: tuninglambosglamour.ru
+Traces of AutoStart registry key
+Traces of Max++
+Used a pipe for inter-process communication

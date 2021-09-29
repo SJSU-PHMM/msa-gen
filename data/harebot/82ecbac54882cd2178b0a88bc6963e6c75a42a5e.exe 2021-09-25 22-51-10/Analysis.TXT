@@ -1,0 +1,11 @@
+
+Report generated with Buster Sandbox Analyzer 1.92 at 22:51:10 on 25/09/2021
+
+Detailed report of suspicious malware actions:
+
+Connected to WWW
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+Queried DNS: array613.prod.do.dsp.mp.microsoft.com
+Queried DNS: array614.prod.do.dsp.mp.microsoft.com
+Queried DNS: nw-umwatson.events.data.microsoft.com
+Queried DNS: settings-win.data.microsoft.com

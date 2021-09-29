@@ -1,0 +1,2 @@
+DNS Query(pti.store.microsoft.com)
+DNS Query(promos.fling.com)

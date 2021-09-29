@@ -1,0 +1,21 @@
+
+Report generated with Buster Sandbox Analyzer 1.92 at 21:13:19 on 25/09/2021
+
+Detailed report of suspicious malware actions:
+
+Connected to WWW
+Created a mutex named: 65LSw7vxmo
+Created a mutex named: 6s9pDCZw9d9
+Created a mutex named: CcfU8SWLV
+Created a mutex named: eEmiZwwdshLMdA
+Created a mutex named: EV8tu6w8a
+Created a mutex named: FdS7xrIKhU9Cdgp
+Created a mutex named: hdoudO
+Created a mutex named: JLSfvy
+Created a mutex named: k8WtCmFNtLT
+Created a mutex named: LSa3nOg6BVTQS7yM8az
+Created a mutex named: MjEP
+Created a mutex named: OUgov5
+Created a mutex named: qR
+Created a mutex named: Ygnz3h38hWtC3Jmz
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001

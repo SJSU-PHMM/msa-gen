@@ -1,0 +1,43 @@
+
+ Report generated with Buster Sandbox Analyzer 1.92 at 11:49:27 on 27/09/2021
+
+ [ General information ]
+   * Analysis duration: 00:00:13
+   * File name: C:\Users\User\Downloads\smarthdd\smarthdd\0314ca7f19c2842d8c95594f545a5432aa850191.EXE
+
+ [ Changes to filesystem ]
+   * Modifies file (empty) C:\Windows\AppCompat\Programs\Amcache.hve.tmp
+   * Creates file C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_0314ca7f19c2842d_7647f894a7e81f2bf6fdd770991aa6c86eccad1b_d9cef1f5_c3718c8d-a8e9-44ce-b3bd-aac3863b6c13\Report.wer
+   * Creates file C:\Users\User\AppData\Local\CrashDumps\0314ca7f19c2842d8c95594f545a5432aa850191.EXE.6460.dmp
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Creates value "ClockTimeSeconds=4212526100000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\IdentityCRL\ClockData
+   * Creates value "TickCount=04F36F0200000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\IdentityCRL\ClockData
+   * Empties value "AmiOverridePath" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\AppCompatFlags
+         old value "AmiOverridePath=C:\Windows\AppCompat\Programs\Amcache.hve.tmp"
+   * Empties value "AmiHivePermissionsCorrect" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\AppCompatFlags
+         old value "AmiHivePermissionsCorrect=00000001"
+   * Empties value "AmiHiveOwnerCorrect" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\AppCompatFlags
+         old value "AmiHiveOwnerCorrect=00000001"
+   * Creates value "CreatingCommand=C:\Windows\SysWOW64\WerFault.exe -u -p 6460 -s 600" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\{11517B7C-E79D-4e20-961B-75A811715ADD}
+   * Creates value "CreatingModule=C:\Windows\SYSTEM32\aepic.dll" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\{11517B7C-E79D-4e20-961B-75A811715ADD}
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{8e1bb712-0000-0000-0000-300300000000}
+          old value empty
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+
+ [ Network services ]
+   * Queries DNS "umwatson.events.data.microsoft.com".
+   * C:\Windows\SysWOW64\WerFault.exe Connects to "20.42.73.29" on port 443 (TCP - HTTPS).
+
+ [ Process/window/string information ]
+   * Checks for debuggers.
+   * Injects code into process "C:\Windows\SysWOW64\WerFault.exe".
+   * Enumerates running processes.
+   * Enables privilege SeRestorePrivilege.
+   * Enables privilege SeBackupPrivilege.
+   * Opens a service named "WinHttpAutoProxySvc".
+   * Opens a service named "CryptSvc".
+   * Enables process privileges.
+   * Sleeps 30 seconds.

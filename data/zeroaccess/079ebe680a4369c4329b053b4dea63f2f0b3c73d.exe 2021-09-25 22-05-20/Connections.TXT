@@ -1,0 +1,3 @@
+DNS Query(download.windowsupdate.com)
+DNS Query(fe3cr.delivery.mp.microsoft.com)
+DNS Query(geover.prod.do.dsp.mp.microsoft.com)

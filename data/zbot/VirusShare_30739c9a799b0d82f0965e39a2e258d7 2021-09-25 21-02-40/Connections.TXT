@@ -1,0 +1,5 @@
+DNS Query(login.live.com)
+DNS Query(umwatson.events.data.microsoft.com)
+OUT,TCP - HTTPS,10.0.2.15,52.182.143.212:443,C:\Windows\SysWOW64\WerFault.exe
+IN,TCP - HTTPS,52.182.143.212:443,10.0.2.15,C:\Windows\SysWOW64\WerFault.exe
+DNS Query(api.msn.com)

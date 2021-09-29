@@ -1,0 +1,9 @@
+= C:\Windows\system32\CatRoot2\{127D0A1D-4EF2-11D1-8608-00C04FC295EE}\catdb
+= C:\Windows\system32\CatRoot2\{127D0A1D-4EF2-11D1-8608-00C04FC295EE}\catdb.jfm
+= C:\Windows\system32\CatRoot2\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\catdb
+= C:\Windows\system32\CatRoot2\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\catdb.jfm
++ C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_KB00232661.exe_5755c4a422d19ba21d893123e1390aa242845f3_3cbbcc55_03205215-69a6-4642-b410-4cb42d98fee7\Report.wer
++ C:\Users\User\AppData\Local\CrashDumps\KB00232661.exe.2256.dmp
++ C:\Users\User\AppData\Local\Temp\POS4723.tmp
++ C:\Users\User\AppData\Roaming\KB00232661.exe
+- C:\Users\User\Downloads\harebot\harebot\1886e64c71418e83f1c0b786953a402e98125752.EXE

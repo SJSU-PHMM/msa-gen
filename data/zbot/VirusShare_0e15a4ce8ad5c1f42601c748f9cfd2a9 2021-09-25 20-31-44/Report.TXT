@@ -1,0 +1,42 @@
+
+ Report generated with Buster Sandbox Analyzer 1.92 at 20:31:44 on 25/09/2021
+
+ [ General information ]
+   * Analysis duration: 00:00:41
+   * File name: C:\Users\User\Downloads\zbot_files\VirusShare_0e15a4ce8ad5c1f42601c748f9cfd2a9.EXE
+
+ [ Changes to filesystem ]
+   * Creates file C:\Users\User\AppData\Roaming\Microsoft\Crypto\RSA\S-1-5-21-2571796958-2157856695-2502476189-1001\699c4b9cdebca7aaea5193cae8a50098_aa4d781f-58b5-466b-b0d6-4d326a9cee5d
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Creates Registry key HKEY_CURRENT_USER\software\Microsoft\Visual Basic\6.0
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{8e1bb712-0000-0000-0000-300300000000}
+          old value empty
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+   * Creates value "VirusShare_0e15a4ce8ad5c1f42601c748f9cfd2a9.EXE.FriendlyAppName=trauma stile rovini fendo" in key HKEY_CURRENT_USER\software\classes\Local Settings\Software\Microsoft\Windows\Shell\MuiCache\C:\Users\User\Downloads\zbot_files
+   * Creates value "VirusShare_0e15a4ce8ad5c1f42601c748f9cfd2a9.EXE.ApplicationCompany=he divine" in key HKEY_CURRENT_USER\software\classes\Local Settings\Software\Microsoft\Windows\Shell\MuiCache\C:\Users\User\Downloads\zbot_files
+
+ [ Network services ]
+   * Queries DNS "3.tlu.dl.delivery.mp.microsoft.com".
+   * Queries DNS "cp601.prod.do.dsp.mp.microsoft.com".
+   * Queries DNS "9.tlu.dl.delivery.mp.microsoft.com".
+   * Queries DNS "disc601.prod.do.dsp.mp.microsoft.com".
+   * Queries DNS "geo.prod.do.dsp.mp.microsoft.com".
+   * Queries DNS "kv601.prod.do.dsp.mp.microsoft.com".
+   * Queries DNS "evoke-windowsservices-tas.msedge.net".
+   * Queries DNS "2.tlu.dl.delivery.mp.microsoft.com".
+   * Queries DNS "officeclient.microsoft.com".
+   * Queries DNS "ecs.office.com".
+   * Queries DNS "mrodevicemgr.officeapps.live.com".
+   * Queries DNS "api.msn.com".
+   * Queries DNS "fa000000054.resources.office.net".
+   * Queries DNS "fa000000002.resources.office.net".
+   * Queries DNS "fa000000043.resources.office.net".
+   * Queries DNS "fa000000006.resources.office.net".
+   * Queries DNS "11.tlu.dl.delivery.mp.microsoft.com".
+
+ [ Process/window/string information ]
+   * Gets system default language ID.
+   * Decrypts data.

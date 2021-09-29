@@ -1,0 +1,207 @@
+
+ Report generated with Buster Sandbox Analyzer 1.92 at 20:47:54 on 25/09/2021
+
+ [ General information ]
+   * Analysis duration: 00:01:00
+   * File name: C:\Users\User\Downloads\zbot_files\VirusShare_225d31854cc0eac63a0bb310f0f048ee.EXE
+
+ [ Changes to filesystem ]
+   * Modifies file C:\Windows\system32\CatRoot2\dberr.txt
+   * Modifies file C:\Windows\system32\CatRoot2\edb.chk
+   * Creates file C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_cmd.exe_4cca389c87f28bf854ed17e675890cfa1eeb2ab_05b79b61_7f6e8e40-9766-4f0d-a2ae-a09a20e1037c\Report.wer
+   * Creates file C:\Users\User\AppData\Local\CrashDumps\cmd.exe.10092.dmp
+   * Creates file C:\Users\User\AppData\Local\Temp\tmp572c3a92.bat
+   * Creates file C:\Users\User\AppData\Roaming\Lele\ekole.exe
+   * Creates file C:\Users\User\AppData\Roaming\Ygid\ofma.sue.0
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Creates value "ClockTimeSeconds=90ED4F6100000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\IdentityCRL\ClockData
+   * Creates value "TickCount=B6301A0000000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\IdentityCRL\ClockData
+   * Empties value "AmiOverridePath" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\AppCompatFlags
+         old value "AmiOverridePath=C:\Windows\AppCompat\Programs\Amcache.hve.tmp"
+   * Creates value "22e98h16=2UVr+7ogcqkMHX7w" in key HKEY_CURRENT_USER\software\Microsoft\Nuotze
+   * Creates value "2647d86c=+0UH+w==" in key HKEY_CURRENT_USER\software\Microsoft\Nuotze
+   * Creates value "11432f4=3E16ACAD3309B2F13D1D47F0" in key HKEY_CURRENT_USER\software\Microsoft\Nuotze
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{8e1bb712-0000-0000-0000-300300000000}
+          old value empty
+   * Creates value "{9FEA489E-556D-BCA0-8D65-BE4B40904458}=C:\Users\User\AppData\Roaming\Lele\ekole.exe" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Run
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+
+ [ Network services ]
+   * Queries DNS "umwatson.events.data.microsoft.com".
+   * C:\Windows\SysWOW64\WerFault.exe Connects to "52.168.117.173" on port 443 (TCP - HTTPS).
+
+ [ Process/window/string information ]
+   * Gets computer name.
+   * Modifies access control lists (ACLs) of files.
+   * Creates a mutex "Global\{E74174C6-6935-C40B-8D65-BE4B40904458}".
+   * Enables privilege SeSecurityPrivilege.
+   * Creates process "null, "C:\Users\User\AppData\Roaming\Lele\ekole.exe", C:\Users\User\AppData\Roaming".
+   * Injects code into process "C:\Users\User\AppData\Roaming\Lele\ekole.exe".
+   * Creates an event named "Local\{4A8B1382-0E71-69C1-8D65-BE4B40904458}".
+   * Creates a mutex "Local\{5858518D-4C7E-7B12-8D65-BE4B40904458}".
+   * Enumerates running processes.
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-9C91-00035164FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-F491-00033964FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-E490-00032965FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-4490-00038965FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-B093-00037D66FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-A093-00036D66FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-1493-0003D966FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-2093-0003ED66FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-4893-00038566FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-D092-00031D67FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-F892-00033567FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-F092-00033D67FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-5892-00039567FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-6C92-0003A167FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-3C90-0003F165FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-8895-00034560FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-B495-00037960FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-E495-00032960FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-0895-0003C560FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-0095-0003CD60FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-2095-0003ED60FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-B494-00037961FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-EC94-00032161FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-1894-0003D561FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-3094-0003FD61FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-7894-0003B561FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-CC97-00030162FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-FC97-00033162FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-4C97-00038162FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-AC96-00036163FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-DC96-00031163FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-E096-00032D63FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-2896-0003E563FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-2496-0003E963FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-5C96-00039163FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-4096-00038D63FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-7896-0003B563FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-9499-0003596CFA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-D899-0003156CFA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-FC99-0003316CFA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-E499-0003296CFA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-0C99-0003C16CFA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-4499-0003896CFA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-8498-0003496DFA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-E098-00032D6DFA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-3898-0003F56DFA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-8C9B-0003416EFA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-E89B-0003256EFA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-409B-00038D6EFA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-109A-0003DD6FFA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-0C9A-0003C16FFA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-309A-0003FD6FFA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-449A-0003896FFA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-749A-0003B96FFA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-6C9A-0003A16FFA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-AC9B-0003616EFA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-F09D-00033D68FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-9C9C-00035169FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-149C-0003D969FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-009C-0003CD69FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-389C-0003F569FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-289C-0003E569FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-549C-00039969FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-7C9C-0003B169FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-689C-0003A569FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-889F-0003456AFA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-BC9F-0003716AFA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-A09F-00036D6AFA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-E89F-0003256AFA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-989E-0003556BFA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-A09E-00036D6BFA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-DC9E-0003116BFA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-A480-00036975FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-F495-00033960FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-5093-00039D66FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-F081-00033D74FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-B499-0003796CFA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-3483-0003F976FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-9483-00035976FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-7083-0003BD76FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-3482-0003F977FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-C09A-00030D6FFA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-E085-00032D70FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-2C84-0003E171FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-2484-0003E971FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-F486-00033973FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-2086-0003ED73FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-6880-0003A575FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-609B-0003AD6EFA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-6885-0003A570FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-948A-0003597FFA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-C08A-00030D7FFA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-8095-00034D60FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-B480-00037975FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-FC98-0003316DFA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-3487-0003F972FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-888D-00034578FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-288D-0003E578FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-408D-00038D78FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-EC8C-00032179FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-488C-00038579FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-E48F-0003297AFA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-588F-0003957AFA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-F48E-0003397BFA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-188E-0003D57BFA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-148E-0003D97BFA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-C0B3-00030D46FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-20B2-0003ED47FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-3095-0003FD60FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-888C-00034579FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-C89D-00030568FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-4485-00038970FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-F082-00033D77FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-C48C-00030979FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-808A-00034D7FFA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-1C8D-0003D178FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-58B7-00039542FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-E8B3-00032546FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-4CB7-00038142FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-808D-00034D78FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-D08F-00031D7AFA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-3888-0003F57DFA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-F0B0-00033D45FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-A4B2-00036947FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-3CB0-0003F145FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-0487-0003C972FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-388A-0003F57FFA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-589B-0003956EFA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-2CB2-0003E147FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-7882-0003B577FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-D482-00031977FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-44B7-00038942FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-80B2-00034D47FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-589C-00039569FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-1CB7-0003D142FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-8499-0003496CFA10}".
+   * Injects code into process "C:\Users\User\Downloads\zbot_files\VirusShare_225d31854cc0eac63a0bb310f0f048ee.EXE".
+   * Creates a mutex "Global\{72206184-7C77-516A-8D65-BE4B40904458}".
+   * Creates a mutex "Global\{E75BEE4D-F3BE-C411-8D65-BE4B40904458}".
+   * Creates process "null, "C:\Windows\system32\cmd.exe" /c "C:\Users\User\AppData\Local\Temp\tmp572c3a92.bat", null".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-F4B6-00033943FA10}".
+   * Injects code into process "C:\Windows\SysWOW64\cmd.exe".
+   * Creates a mutex "Global\{14F4559C-486F-37BE-8D65-BE4B40904458}".
+   * Creates a mutex "Global\{181882A9-9F5A-3B52-8D65-BE4B40904458}".
+   * Creates a mutex "Global\{C2F263AF-7E5C-E1B8-8D65-BE4B40904458}".
+   * Creates a mutex "Global\{181882AE-9F5D-3B52-8D65-BE4B40904458}".
+   * Creates a mutex "Local\{79FE34BC-294F-5AB4-8D65-BE4B40904458}".
+   * Creates a mutex "Local\{79FE34BD-294E-5AB4-8D65-BE4B40904458}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-E48C-00032979FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-0C94-0003C161FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-4087-00038D72FA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-7098-0003BD6DFA10}".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-9488-0003597DFA10}".
+   * Injects code into process "C:\Windows\SysWOW64\WerFault.exe".
+   * Opens a service named "WinHttpAutoProxySvc".
+   * Creates a mutex "Global\{01D5A7B2-BA41-229F-A89C-00036569FA10}".
+   * Injects code into process "C:\Program Files\Sandboxie\SandboxieCrypto.exe".
+   * Opens a service named "CryptSvc".
+   * Enables process privileges.
+   * Contains string Checked for CCleaner software presence ("CCLEANER.EXE")
+   * Contains string Checked for The Cleaner software presence ("CLEANER.EXE")
+   * Sleeps 45 seconds.

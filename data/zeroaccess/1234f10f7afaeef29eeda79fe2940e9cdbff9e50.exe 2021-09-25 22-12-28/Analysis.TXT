@@ -1,0 +1,13 @@
+
+Report generated with Buster Sandbox Analyzer 1.92 at 22:12:28 on 25/09/2021
+
+Detailed report of suspicious malware actions:
+
+Connected to WWW
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+Got system default language ID
+Internet connection: C:\Users\User\Downloads\zeroaccess\zeroaccess\1234f10f7afaeef29eeda79fe2940e9cdbff9e50.EXE Connects to "64.210.151.32" on port 80 (TCP - HTTP)
+Queried DNS: promos.fling.com
+Queried DNS: ssl.gstatic.com
+Traces of AutoStart registry key
+Transfered files from and/or to internet

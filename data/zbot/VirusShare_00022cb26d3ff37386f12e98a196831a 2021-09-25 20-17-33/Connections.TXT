@@ -1,0 +1,4 @@
+DNS Query(cp601.prod.do.dsp.mp.microsoft.com)
+DNS Query(7.tlu.dl.delivery.mp.microsoft.com)
+DNS Query(geover.prod.do.dsp.mp.microsoft.com)
+DNS Query(umwatson.events.data.microsoft.com)

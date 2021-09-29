@@ -1,0 +1,20 @@
+
+Report generated with Buster Sandbox Analyzer 1.92 at 00:11:39 on 26/09/2021
+
+Detailed report of suspicious malware actions:
+
+Code injection in process: C:\Users\User\AppData\Roaming\KB00912661.exe
+Code injection in process: C:\Windows\SysWOW64\cmd.exe
+Created a mutex named: Local\XMI00001094
+Created a mutex named: Local\XMM00001094
+Created an event named: Local\XME00001094
+Created process: C:\Users\User\AppData\Roaming\KB00912661.exe, null, null
+Created process: null, "C:\Windows\system32\cmd.exe" /c "C:\Users\User\AppData\Local\Temp\exp2BDF.tmp.bat", null
+Defined file type created: C:\Users\User\AppData\Roaming\KB00912661.exe
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+File copied itself
+File deleted itself
+Got computer name
+Got volume information
+Modified access control lists (ACLs) of files
+Traces of Max++

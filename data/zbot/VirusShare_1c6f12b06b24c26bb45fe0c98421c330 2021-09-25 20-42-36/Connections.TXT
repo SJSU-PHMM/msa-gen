@@ -1,0 +1,2 @@
+DNS Query(ctldl.windowsupdate.com)
+DNS Query(crl.identrust.com)

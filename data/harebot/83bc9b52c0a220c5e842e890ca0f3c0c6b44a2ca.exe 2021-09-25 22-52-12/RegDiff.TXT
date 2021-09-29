@@ -1,0 +1,7 @@
+machine\software\microsoft\Windows\Windows Error Reporting\DontShowUI = 00000001
+machine\software\microsoft\Windows\Windows Error Reporting\LocalDumps = created registry key
+user\current\software\Microsoft\Windows\CurrentVersion\AppManagement = 911E1EAAAA3737C3C35050DCDC6969F5
+user\current\software\Microsoft\Windows\CurrentVersion\jubuvubxonyhzap = 7B7B0808942121ADAD3A3AC6C65353DF
+user\current\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{8e1bb712-0000-0000-0000-300300000000}\NukeOnDelete = 00000001
+user\current\software\Microsoft\Windows\CurrentVersion\Run\jubuvubxonyh = C:\Users\User\jubuvubxonyh.exe
+user\current\software\SandboxAutoExec  = 31

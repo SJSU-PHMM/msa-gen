@@ -1,0 +1,7 @@
+~ C:\Windows\AppCompat\Programs\Amcache.hve.tmp
+= C:\Windows\system32\CatRoot2\{127D0A1D-4EF2-11D1-8608-00C04FC295EE}\catdb
+= C:\Windows\system32\CatRoot2\{127D0A1D-4EF2-11D1-8608-00C04FC295EE}\catdb.jfm
+= C:\Windows\system32\CatRoot2\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\catdb
+= C:\Windows\system32\CatRoot2\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\catdb.jfm
++ C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_0314ca7f19c2842d_7647f894a7e81f2bf6fdd770991aa6c86eccad1b_d9cef1f5_c3718c8d-a8e9-44ce-b3bd-aac3863b6c13\Report.wer
++ C:\Users\User\AppData\Local\CrashDumps\0314ca7f19c2842d8c95594f545a5432aa850191.EXE.6460.dmp

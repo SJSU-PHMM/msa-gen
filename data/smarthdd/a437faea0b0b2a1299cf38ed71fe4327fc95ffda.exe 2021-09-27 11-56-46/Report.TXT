@@ -1,0 +1,30 @@
+
+ Report generated with Buster Sandbox Analyzer 1.92 at 11:56:46 on 27/09/2021
+
+ [ General information ]
+   * Analysis duration: 00:00:06
+   * File name: C:\Users\User\Downloads\smarthdd\smarthdd\a437faea0b0b2a1299cf38ed71fe4327fc95ffda.EXE
+
+ [ Changes to filesystem ]
+   * No changes
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{8e1bb712-0000-0000-0000-300300000000}
+          old value empty
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+
+ [ Network services ]
+   * Queries DNS "thetlueredir.com".
+   * Queries DNS "artidleward.com".
+   * Queries DNS "samonitadable.com".
+   * Queries DNS "mastecomprse.com".
+   * Queries DNS "sensubirtaca.com".
+
+ [ Process/window/string information ]
+   * Gets user name information.
+   * Gets computer name.
+   * Enumerates running processes.
+   * Opens a service named "WinHttpAutoProxySvc".
+   * Sleeps 181 seconds.

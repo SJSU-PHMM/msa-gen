@@ -1,0 +1,3 @@
+DNS Query(in-sec-one.cc)
+DNS Query(store-imgs.su)
+DNS Query(on-protec.su)

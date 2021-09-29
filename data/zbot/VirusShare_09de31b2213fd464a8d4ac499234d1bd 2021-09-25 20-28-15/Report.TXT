@@ -1,0 +1,39 @@
+
+ Report generated with Buster Sandbox Analyzer 1.92 at 20:28:15 on 25/09/2021
+
+ [ General information ]
+   * Analysis duration: 00:01:00
+   * File name: C:\Users\User\Downloads\zbot_files\VirusShare_09de31b2213fd464a8d4ac499234d1bd.EXE
+
+ [ Changes to filesystem ]
+   * No changes
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Creates Registry key HKEY_CURRENT_USER\software\Microsoft\Visual Basic\6.0
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{8e1bb712-0000-0000-0000-300300000000}
+          old value empty
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+   * Creates value "VirusShare_09de31b2213fd464a8d4ac499234d1bd.EXE.FriendlyAppName=el ovvio" in key HKEY_CURRENT_USER\software\classes\Local Settings\Software\Microsoft\Windows\Shell\MuiCache\C:\Users\User\Downloads\zbot_files
+   * Creates value "VirusShare_09de31b2213fd464a8d4ac499234d1bd.EXE.ApplicationCompany=infame stia ordivo menino unii polsi fila calava mire rapata ffff ampi fedele sproni duri cambia labbra olia cito membri llll nudi" in key HKEY_CURRENT_USER\software\classes\Local Settings\Software\Microsoft\Windows\Shell\MuiCache\C:\Users\User\Downloads\zbot_files
+
+ [ Network services ]
+   * Queries DNS "settings-win.data.microsoft.com".
+   * Queries DNS "tsfe.trafficshaping.dsp.mp.microsoft.com".
+   * Queries DNS "geover.prod.do.dsp.mp.microsoft.com".
+   * Queries DNS "geo.prod.do.dsp.mp.microsoft.com".
+   * Queries DNS "kv601.prod.do.dsp.mp.microsoft.com".
+   * Queries DNS "cp601.prod.do.dsp.mp.microsoft.com".
+   * Queries DNS "fe3cr.delivery.mp.microsoft.com".
+   * Queries DNS "disc601.prod.do.dsp.mp.microsoft.com".
+   * Queries DNS "dl.delivery.mp.microsoft.com".
+   * Queries DNS "11.tlu.dl.delivery.mp.microsoft.com".
+   * Queries DNS "7.tlu.dl.delivery.mp.microsoft.com".
+   * Queries DNS "9.tlu.dl.delivery.mp.microsoft.com".
+   * Queries DNS "2.tlu.dl.delivery.mp.microsoft.com".
+   * Queries DNS "fe2cr.update.microsoft.com".
+   * Queries DNS "3.tlu.dl.delivery.mp.microsoft.com".
+
+ [ Process/window/string information ]
+   * Gets system default language ID.

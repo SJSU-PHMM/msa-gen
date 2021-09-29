@@ -1,0 +1,31 @@
+
+ Report generated with Buster Sandbox Analyzer 1.92 at 22:46:56 on 25/09/2021
+
+ [ General information ]
+   * Analysis duration: 00:00:13
+   * File name: C:\Users\User\Downloads\harebot\harebot\5f1bfe733881bfaa694c129abc8ecd7401bde4d9.EXE
+
+ [ Changes to filesystem ]
+   * Deletes file C:\Users\User\Downloads\harebot\harebot\5f1bfe733881bfaa694c129abc8ecd7401bde4d9.EXE
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{8e1bb712-0000-0000-0000-300300000000}
+          old value empty
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+
+ [ Network services ]
+   * Queries DNS "liqsolutions.cc".
+   * Queries DNS "worldwide-analytics.cc".
+   * Queries DNS "directprotect.cc".
+   * Queries DNS "ssl.gstatic.com".
+
+ [ Process/window/string information ]
+   * Gets computer name.
+   * Enumerates running processes.
+   * Creates process "null, C:\Windows\system32\cmd.exe /c C:\Users\User\AppData\Roaming\MICROS~1\Office\Recent\4433TM~1.BAT, null".
+   * Injects code into process "C:\Windows\SysWOW64\cmd.exe".
+   * Creates process "C:\Windows\system32\attrib.exe, attrib  -R -S -H "C:\Users\User\Downloads\harebot\harebot\5f1bfe733881bfaa694c129abc8ecd7401bde4d9.EXE", C:\Users\User\Downloads\harebot\harebot".
+   * Injects code into process "C:\Windows\SysWOW64\attrib.exe".
+   * Creates process "C:\Windows\system32\attrib.exe, attrib  -R -S -H "C:\Users\User\AppData\Roaming\Microsoft\Office\Recent\4433.tmp.bat", C:\Users\User\Downloads\harebot\harebot".

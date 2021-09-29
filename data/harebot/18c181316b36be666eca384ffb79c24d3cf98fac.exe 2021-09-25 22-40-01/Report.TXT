@@ -1,0 +1,41 @@
+
+ Report generated with Buster Sandbox Analyzer 1.92 at 22:40:01 on 25/09/2021
+
+ [ General information ]
+   * Analysis duration: 00:01:00
+   * File name: C:\Users\User\Downloads\harebot\harebot\18c181316b36be666eca384ffb79c24d3cf98fac.EXE
+
+ [ Changes to filesystem ]
+   * Creates file C:\Users\User\8rv69skcgb.exe
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Creates value "8rv69skcgb=E3B94A9301204F4ABA8B7F2E85BEF3C6" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{8e1bb712-0000-0000-0000-300300000000}
+          old value empty
+   * Creates value "8rv69skcgb=C:\Users\User\8rv69skcgb.exe" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Run
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+
+ [ Network services ]
+   * Queries DNS "nexusrules.officeapps.live.com".
+   * Queries DNS "api.msn.com".
+   * Queries DNS "mail.klibox.kz".
+   * Queries DNS "gw.klibox.kz".
+   * Queries DNS "www.klibox.kz".
+   * Queries DNS "mail.desepil.com".
+   * Queries DNS "gw.desepil.com".
+   * Queries DNS "www.desepil.com".
+   * Queries DNS "mail.zelobit.ru".
+   * Queries DNS "gw.zelobit.ru".
+   * Queries DNS "www.zelobit.ru".
+   * Queries DNS "mail.monlock.com".
+   * Queries DNS "gw.monlock.com".
+   * Queries DNS "www.monlock.com".
+   * Queries DNS "ssl.gstatic.com".
+
+ [ Process/window/string information ]
+   * Gets user name information.
+   * Gets computer name.
+   * Modifies access control lists (ACLs) of files.
+   * Sleeps 40 seconds.

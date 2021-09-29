@@ -1,0 +1,30 @@
+
+Report generated with Buster Sandbox Analyzer 1.92 at 22:53:26 on 25/09/2021
+
+Detailed report of suspicious malware actions:
+
+Checked for FireFox browser software presence
+Code injection in process: C:\Users\User\AppData\Roaming\KB00232661.exe
+Code injection in process: C:\Windows\SysWOW64\cmd.exe
+Connected to WWW
+Created a mutex named: Local\I00001038
+Created a mutex named: Local\I0000228C
+Created a mutex named: Local\M00001038
+Created a mutex named: Local\M0000228C
+Created a mutex named: Local\SCE0582D8
+Created an event named: Local\E00001038
+Created an event named: Local\E0000228C
+Created process: C:\Users\User\AppData\Roaming\KB00232661.exe, null, null
+Created process: null, "C:\Windows\system32\cmd.exe" /c "C:\Users\User\AppData\Local\Temp\POS30CD.tmp.BAT", null
+Defined file type created: C:\Users\User\AppData\Roaming\KB00232661.exe
+Defined registry AutoStart location created or modified: user\current\software\Microsoft\Windows\CurrentVersion\Run\KB00232661.exe = "C:\Users\User\AppData\Roaming\KB00232661.exe"
+Detected privilege modification
+Detected process privilege elevation
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+File copied itself
+File deleted itself
+Got computer name
+Got volume information
+Queried DNS: addons-pa.clients6.google.com
+Traces of AutoStart registry key
+Traces of Max++

@@ -1,0 +1,9 @@
+
+Report generated with Buster Sandbox Analyzer 1.92 at 20:57:43 on 25/09/2021
+
+Detailed report of suspicious malware actions:
+
+Connected to WWW
+Created process: null, "C:\Users\User\Downloads\zbot_files\VirusShare_2a2d893733d931cedd7890730eec8225.EXE" , null
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+Traces of Max++

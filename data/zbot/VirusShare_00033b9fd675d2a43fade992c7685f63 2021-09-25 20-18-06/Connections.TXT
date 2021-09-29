@@ -1,0 +1,11 @@
+DNS Query(cp601.prod.do.dsp.mp.microsoft.com)
+DNS Query(emdl.ws.microsoft.com)
+DNS Query(7.tlu.dl.delivery.mp.microsoft.com)
+DNS Query(disc601.prod.do.dsp.mp.microsoft.com)
+DNS Query(array603.prod.do.dsp.mp.microsoft.com)
+DNS Query(pti.store.microsoft.com)
+DNS Query(edge.microsoft.com)
+DNS Query(umwatson.events.data.microsoft.com)
+OUT,TCP - HTTPS,10.0.2.15,20.189.173.21:443,C:\Windows\SysWOW64\WerFault.exe
+IN,TCP - HTTPS,20.189.173.21:443,10.0.2.15,C:\Windows\SysWOW64\WerFault.exe
+IN,TCP - HTTPS,40.83.247.108:443,10.0.2.15,C:\Windows\SysWOW64\WerFault.exe

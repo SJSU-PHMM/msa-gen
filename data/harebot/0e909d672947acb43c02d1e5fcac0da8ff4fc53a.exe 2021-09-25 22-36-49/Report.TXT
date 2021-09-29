@@ -1,0 +1,38 @@
+
+ Report generated with Buster Sandbox Analyzer 1.92 at 22:36:49 on 25/09/2021
+
+ [ General information ]
+   * Analysis duration: 00:01:00
+   * File name: C:\Users\User\Downloads\harebot\harebot\0e909d672947acb43c02d1e5fcac0da8ff4fc53a.EXE
+
+ [ Changes to filesystem ]
+   * Creates file C:\Users\User\zigwomzodupd.exe
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{8e1bb712-0000-0000-0000-300300000000}
+          old value empty
+   * Creates value "zigwomzodupd=C:\Users\User\zigwomzodupd.exe" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Run
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+
+ [ Network services ]
+   * Queries DNS "clients6.google.com".
+   * Queries DNS "accounting.ee".
+   * Queries DNS "ssl.gstatic.com".
+   * Queries DNS "accountingtechs.biz".
+   * Queries DNS "4ever-hosting.de".
+   * Queries DNS "signaler-pa.clients6.google.com".
+   * Queries DNS "4everevents.nl".
+   * Queries DNS "4dmobil.at".
+   * Queries DNS "4ever4you.de".
+   * Queries DNS "settings-win.data.microsoft.com".
+   * C:\Users\User\Downloads\harebot\harebot\0e909d672947acb43c02d1e5fcac0da8ff4fc53a.EXE Connects to "149.210.133.22" on port 443 (TCP - HTTPS).
+   * C:\Users\User\Downloads\harebot\harebot\0e909d672947acb43c02d1e5fcac0da8ff4fc53a.EXE Connects to "188.172.196.29" on port 443 (TCP - HTTPS).
+
+ [ Process/window/string information ]
+   * Keylogger functionality.
+   * Modifies access control lists (ACLs) of files.
+   * Opens a service named "WinHttpAutoProxySvc".
+   * Contains string Traces of AutoStart registry key ("Software\Microsoft\Windows\CurrentVersion\Run")
+   * Sleeps 55 seconds.

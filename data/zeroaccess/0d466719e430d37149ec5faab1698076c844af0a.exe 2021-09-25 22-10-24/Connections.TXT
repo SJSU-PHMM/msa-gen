@@ -1,0 +1,5 @@
+DNS Query(api.msn.com)
+DNS Query(geo.prod.do.dsp.mp.microsoft.com)
+DNS Query(kv601.prod.do.dsp.mp.microsoft.com)
+DNS Query(cp601.prod.do.dsp.mp.microsoft.com)
+DNS Query(disc601.prod.do.dsp.mp.microsoft.com)

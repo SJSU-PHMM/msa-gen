@@ -1,0 +1,5 @@
+DNS Query(ecs.office.com)
+DNS Query(michalaftsi.com)
+DNS Query(vegardithout.com)
+DNS Query(mastecomprse.com)
+DNS Query(thetlueredir.com)

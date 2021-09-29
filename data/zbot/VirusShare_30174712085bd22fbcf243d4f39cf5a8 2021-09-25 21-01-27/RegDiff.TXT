@@ -1,0 +1,6 @@
+machine\software\microsoft\Windows\Windows Error Reporting\DontShowUI = 00000001
+machine\software\microsoft\Windows\Windows Error Reporting\LocalDumps = created registry key
+user\current\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{8e1bb712-0000-0000-0000-300300000000}\NukeOnDelete = 00000001
+user\current\software\SandboxAutoExec  = 31
+user\current_classes\Local Settings\Software\Microsoft\Windows\Shell\MuiCache\C:\Users\User\Downloads\zbot_files\VirusShare_30174712085bd22fbcf243d4f39cf5a8.EXE.FriendlyAppName = riveli opaco
+user\current_classes\Local Settings\Software\Microsoft\Windows\Shell\MuiCache\C:\Users\User\Downloads\zbot_files\VirusShare_30174712085bd22fbcf243d4f39cf5a8.EXE.ApplicationCompany = udivo velate cibi osi negato pendo dorata oliare cadere isoli cicli annodi cc aiuta ondoso lilla nq il cagne tiravo tempi odiosa

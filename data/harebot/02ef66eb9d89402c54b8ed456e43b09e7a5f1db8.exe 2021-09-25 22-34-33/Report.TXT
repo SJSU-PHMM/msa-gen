@@ -1,0 +1,32 @@
+
+ Report generated with Buster Sandbox Analyzer 1.92 at 22:34:33 on 25/09/2021
+
+ [ General information ]
+   * Analysis duration: 00:00:11
+   * File name: C:\Users\User\Downloads\harebot\harebot\02ef66eb9d89402c54b8ed456e43b09e7a5f1db8.EXE
+
+ [ Changes to filesystem ]
+   * Deletes file C:\Users\User\Downloads\harebot\harebot\02ef66eb9d89402c54b8ed456e43b09e7a5f1db8.EXE
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{8e1bb712-0000-0000-0000-300300000000}
+          old value empty
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+
+ [ Network services ]
+   * Queries DNS "liqsolutions.cc".
+   * Queries DNS "worldwide-analytics.cc".
+   * Queries DNS "directprotect.cc".
+
+ [ Process/window/string information ]
+   * Gets user name information.
+   * Gets computer name.
+   * Enumerates running processes.
+   * Opens a service named "WinHttpAutoProxySvc".
+   * Creates process "null, C:\Windows\system32\cmd.exe /c C:\Users\User\AppData\Roaming\Code\SERVIC~1\CACHES~1\98EC04~1\289F9C~1\INDEX-~1\E698TM~1.BAT, null".
+   * Injects code into process "C:\Windows\SysWOW64\cmd.exe".
+   * Creates process "C:\Windows\system32\attrib.exe, attrib  -R -S -H "C:\Users\User\Downloads\harebot\harebot\02ef66eb9d89402c54b8ed456e43b09e7a5f1db8.EXE", C:\Users\User\Downloads\harebot\harebot".
+   * Injects code into process "C:\Windows\SysWOW64\attrib.exe".
+   * Creates process "C:\Windows\system32\attrib.exe, attrib  -R -S -H "C:\Users\User\AppData\Roaming\Code\Service Worker\CacheStorage\98ec0436fdec5c63248574498603a3089b8e11bf\289f9c6b-961f-46e2-893c-dba2c31e1143\index-dir\E698.tmp.bat", C:\Users\User\Downloads\harebot\harebot".

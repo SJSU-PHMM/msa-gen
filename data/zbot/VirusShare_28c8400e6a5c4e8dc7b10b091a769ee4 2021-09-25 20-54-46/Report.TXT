@@ -1,0 +1,40 @@
+
+ Report generated with Buster Sandbox Analyzer 1.92 at 20:54:46 on 25/09/2021
+
+ [ General information ]
+   * Analysis duration: 00:00:13
+   * File name: C:\Users\User\Downloads\zbot_files\VirusShare_28c8400e6a5c4e8dc7b10b091a769ee4.EXE
+
+ [ Changes to filesystem ]
+   * Modifies file C:\Windows\system32\CatRoot2\dberr.txt
+   * Modifies file C:\Windows\system32\CatRoot2\edb.chk
+   * Creates file C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_VirusShare_28c84_8ff311d654d1e89a42bfdc648bd45e86bbb4736b_e11ba7f9_a6fb4abd-9589-4bca-bd55-564fcf3bb42f\Report.wer
+   * Creates file C:\Users\User\AppData\Local\CrashDumps\VirusShare_28c8400e6a5c4e8dc7b10b091a769ee4.EXE.2800.dmp
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Creates value "ClockTimeSeconds=11EF4F6100000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\IdentityCRL\ClockData
+   * Creates value "TickCount=591E200000000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\IdentityCRL\ClockData
+   * Empties value "AmiHivePermissionsCorrect" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\AppCompatFlags
+         old value "AmiHivePermissionsCorrect=00000001"
+   * Empties value "AmiHiveOwnerCorrect" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\AppCompatFlags
+         old value "AmiHiveOwnerCorrect=00000001"
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{8e1bb712-0000-0000-0000-300300000000}
+          old value empty
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+
+ [ Network services ]
+   * Queries DNS "umwatson.events.data.microsoft.com".
+   * C:\Windows\SysWOW64\WerFault.exe Connects to "20.189.173.21" on port 443 (TCP - HTTPS).
+
+ [ Process/window/string information ]
+   * Checks for debuggers.
+   * Injects code into process "C:\Windows\SysWOW64\WerFault.exe".
+   * Enumerates running processes.
+   * Enables privilege SeRestorePrivilege.
+   * Enables privilege SeBackupPrivilege.
+   * Opens a service named "WinHttpAutoProxySvc".
+   * Opens a service named "CryptSvc".
+   * Enables process privileges.
+   * Sleeps 30 seconds.

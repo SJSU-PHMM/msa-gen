@@ -1,0 +1,33 @@
+
+ Report generated with Buster Sandbox Analyzer 1.92 at 00:11:39 on 26/09/2021
+
+ [ General information ]
+   * Analysis duration: 00:01:00
+   * File name: C:\Users\User\Downloads\cridex\cridex\399f486696c1997dc4ae459800398b913a7a5925.EXE
+
+ [ Changes to filesystem ]
+   * Creates file (empty) C:\Users\User\AppData\Local\Temp\exp2BDF.tmp
+   * Creates file C:\Users\User\AppData\Roaming\KB00912661.exe
+   * Deletes file C:\Users\User\Downloads\cridex\cridex\399f486696c1997dc4ae459800398b913a7a5925.EXE
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{8e1bb712-0000-0000-0000-300300000000}
+          old value empty
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+
+ [ Network services ]
+   * No changes
+
+ [ Process/window/string information ]
+   * Gets volume information.
+   * Gets computer name.
+   * Modifies access control lists (ACLs) of files.
+   * Creates an event named "Local\XME00001094".
+   * Creates a mutex "Local\XMM00001094".
+   * Creates a mutex "Local\XMI00001094".
+   * Creates process "null, "C:\Windows\system32\cmd.exe" /c "C:\Users\User\AppData\Local\Temp\exp2BDF.tmp.bat", null".
+   * Injects code into process "C:\Windows\SysWOW64\cmd.exe".
+   * Creates process "C:\Users\User\AppData\Roaming\KB00912661.exe, null, null".
+   * Injects code into process "C:\Users\User\AppData\Roaming\KB00912661.exe".

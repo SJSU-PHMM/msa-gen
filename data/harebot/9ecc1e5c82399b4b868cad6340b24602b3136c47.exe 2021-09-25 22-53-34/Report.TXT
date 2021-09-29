@@ -1,0 +1,60 @@
+
+ Report generated with Buster Sandbox Analyzer 1.92 at 22:53:34 on 25/09/2021
+
+ [ General information ]
+   * Analysis duration: 00:01:00
+   * File name: C:\Users\User\Downloads\harebot\harebot\9ecc1e5c82399b4b868cad6340b24602b3136c47.EXE
+
+ [ Changes to filesystem ]
+   * Creates file (empty) C:\Users\User\AppData\Local\Temp\POS508A.tmp
+   * Creates file C:\Users\User\AppData\Roaming\KB00232661.exe
+   * Deletes file C:\Users\User\Downloads\harebot\harebot\9ecc1e5c82399b4b868cad6340b24602b3136c47.EXE
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{8e1bb712-0000-0000-0000-300300000000}
+          old value empty
+   * Creates value "KB00232661.exe="C:\Users\User\AppData\Roaming\KB00232661.exe"" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Run
+   * Creates Registry key HKEY_CURRENT_USER\software\Microsoft\Windows Media Center\6845D2CD
+   * Creates Registry key HKEY_CURRENT_USER\software\Microsoft\Windows Media Center\CE0582D8
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+
+ [ Network services ]
+   * Queries DNS "droppinlever.pro".
+   * Queries DNS "lambolp700tuning.ru".
+   * Queries DNS "tuninglambosglamour.ru".
+   * Queries DNS "droppinleverpro.ru".
+
+ [ Process/window/string information ]
+   * Gets volume information.
+   * Gets computer name.
+   * Uses a pipe for inter-process communication.
+   * Creates an event named "t7+wqgo dmkwl 3d07".
+   * Creates an event named "_f4jo9agat9be2".
+   * Creates an event named "ntdmvy_p3#".
+   * Creates an event named "jial4_qeyk4dqkbz3_".
+   * Creates an event named "m+j+b90lum0m".
+   * Creates an event named "6-8 sgkbliceltxd".
+   * Creates an event named "jwt0p".
+   * Creates an event named "mwidk0+7rj_5u4vk".
+   * Creates an event named "as tayr3#v96cyk2_zp".
+   * Creates an event named "Local\E00001A48".
+   * Creates a mutex "Local\M00001A48".
+   * Creates a mutex "Local\I00001A48".
+   * Creates process "C:\Users\User\AppData\Roaming\KB00232661.exe, null, null".
+   * Injects code into process "C:\Users\User\AppData\Roaming\KB00232661.exe".
+   * Creates process "null, "C:\Windows\system32\cmd.exe" /c "C:\Users\User\AppData\Local\Temp\POS508A.tmp.BAT", null".
+   * Injects code into process "C:\Windows\SysWOW64\cmd.exe".
+   * Creates an event named "Local\E00001C0C".
+   * Creates a mutex "Local\M00001C0C".
+   * Creates a mutex "Local\I00001C0C".
+   * Enables privilege SeDebugPrivilege.
+   * Creates a mutex "Local\SCE0582D8".
+   * Creates an event named "Local\BCE0582D8".
+   * Creates a mutex "Local\RCE0582D8".
+   * Creates an event named "Local\FCE0582D8".
+   * Enables process privileges.
+   * Contains string Traces of AutoStart registry key ("Software\Microsoft\Windows\CurrentVersion\Run")
+   * Contains string Checked for FireFox browser software presence ("FIREFOX.EXE")
+   * Sleeps 48 seconds.

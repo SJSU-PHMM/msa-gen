@@ -1,0 +1,11 @@
+Executing: C:\Users\User\Downloads\harebot\harebot\82ecbac54882cd2178b0a88bc6963e6c75a42a5e.EXE
+GetModuleHandle(ntdll) [c:\users\user\downloads\harebot\harebot\82ecbac54882cd2178b0a88bc6963e6c75a42a5e.exe]
+QuerySystemInformation(SystemBasicInformation) [c:\users\user\downloads\harebot\harebot\82ecbac54882cd2178b0a88bc6963e6c75a42a5e.exe]
+QuerySystemInformation(SystemProcessorInformation) [c:\users\user\downloads\harebot\harebot\82ecbac54882cd2178b0a88bc6963e6c75a42a5e.exe]
+QueryProcessInformation(C:\Users\User\Downloads\harebot\harebot\82ecbac54882cd2178b0a88bc6963e6c75a42a5e.EXE, ProcessImageInformation) [c:\users\user\downloads\harebot\harebot\82ecbac54882cd2178b0a88bc6963e6c75a42a5e.exe]
+CreateThread() [c:\users\user\downloads\harebot\harebot\82ecbac54882cd2178b0a88bc6963e6c75a42a5e.exe]
+ResumeThread(7580) [c:\users\user\downloads\harebot\harebot\82ecbac54882cd2178b0a88bc6963e6c75a42a5e.exe]
+OpenProcessToken(C:\Users\User\Downloads\harebot\harebot\82ecbac54882cd2178b0a88bc6963e6c75a42a5e.EXE, TOKEN_ALL_ACCESS) [c:\users\user\downloads\harebot\harebot\82ecbac54882cd2178b0a88bc6963e6c75a42a5e.exe]
+VirtualAllocEx(C:\Users\User\Downloads\harebot\harebot\82ecbac54882cd2178b0a88bc6963e6c75a42a5e.EXE, MEM_COMMIT, PAGE_READWRITE, RegionSize=0x0000E000) [c:\users\user\downloads\harebot\harebot\82ecbac54882cd2178b0a88bc6963e6c75a42a5e.exe]
+VirtualAllocEx(C:\Users\User\Downloads\harebot\harebot\82ecbac54882cd2178b0a88bc6963e6c75a42a5e.EXE, MEM_COMMIT, PAGE_READWRITE, RegionSize=0x00010000) [c:\users\user\downloads\harebot\harebot\82ecbac54882cd2178b0a88bc6963e6c75a42a5e.exe]
+OpenProcessToken(9096, TOKEN_ALL_ACCESS) [c:\users\user\downloads\harebot\harebot\82ecbac54882cd2178b0a88bc6963e6c75a42a5e.exe]

@@ -1,0 +1,7 @@
+machine\software\microsoft\Windows\Windows Error Reporting\DontShowUI = 00000001
+machine\software\microsoft\Windows\Windows Error Reporting\LocalDumps = created registry key
+user\current\software\Microsoft\Windows\CurrentVersion\AppManagement = D5D56262EEEE7B7B080894942121ADAD
+user\current\software\Microsoft\Windows\CurrentVersion\pamgoqrefonuzap = A2A22F2FBBBB4848D4D4616161EDED7A
+user\current\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{8e1bb712-0000-0000-0000-300300000000}\NukeOnDelete = 00000001
+user\current\software\Microsoft\Windows\CurrentVersion\Run\pamgoqrefonu = C:\Users\User\pamgoqrefonu.exe
+user\current\software\SandboxAutoExec  = 31

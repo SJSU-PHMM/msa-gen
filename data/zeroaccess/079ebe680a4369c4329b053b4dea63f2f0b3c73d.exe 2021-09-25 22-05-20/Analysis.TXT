@@ -1,0 +1,12 @@
+
+Report generated with Buster Sandbox Analyzer 1.92 at 22:05:20 on 25/09/2021
+
+Detailed report of suspicious malware actions:
+
+Connected to WWW
+Detected privilege modification
+Detected process privilege elevation
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+Queried DNS: download.windowsupdate.com
+Queried DNS: fe3cr.delivery.mp.microsoft.com
+Queried DNS: geover.prod.do.dsp.mp.microsoft.com

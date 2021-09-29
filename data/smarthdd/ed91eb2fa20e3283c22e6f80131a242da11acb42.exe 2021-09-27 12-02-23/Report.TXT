@@ -1,0 +1,24 @@
+
+ Report generated with Buster Sandbox Analyzer 1.92 at 12:02:23 on 27/09/2021
+
+ [ General information ]
+   * Analysis duration: 00:00:15
+   * File name: C:\Users\User\Downloads\smarthdd\smarthdd\ed91eb2fa20e3283c22e6f80131a242da11acb42.EXE
+
+ [ Changes to filesystem ]
+   * No changes
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{8e1bb712-0000-0000-0000-300300000000}
+          old value empty
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+
+ [ Network services ]
+   * No changes
+
+ [ Process/window/string information ]
+   * Deletes user from group.
+   * Gets user name information.
+   * Sleeps 10 seconds.

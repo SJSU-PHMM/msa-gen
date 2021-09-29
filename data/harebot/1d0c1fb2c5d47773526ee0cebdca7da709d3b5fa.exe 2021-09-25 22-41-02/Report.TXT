@@ -1,0 +1,30 @@
+
+ Report generated with Buster Sandbox Analyzer 1.92 at 22:41:02 on 25/09/2021
+
+ [ General information ]
+   * Analysis duration: 00:00:14
+   * File name: C:\Users\User\Downloads\harebot\harebot\1d0c1fb2c5d47773526ee0cebdca7da709d3b5fa.EXE
+
+ [ Changes to filesystem ]
+   * Deletes file C:\Users\User\Downloads\harebot\harebot\1d0c1fb2c5d47773526ee0cebdca7da709d3b5fa.EXE
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{8e1bb712-0000-0000-0000-300300000000}
+          old value empty
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+
+ [ Network services ]
+   * Queries DNS "in-sec-one.cc".
+   * Queries DNS "store-imgs.su".
+   * Queries DNS "some-service.cc".
+
+ [ Process/window/string information ]
+   * Gets computer name.
+   * Enumerates running processes.
+   * Creates process "null, C:\Windows\system32\cmd.exe /c C:\Users\User\AppData\Roaming\Code\SERVIC~1\CACHES~1\87BAD2~1\81D036~1\E1F7TM~1.BAT, null".
+   * Injects code into process "C:\Windows\SysWOW64\cmd.exe".
+   * Creates process "C:\Windows\system32\attrib.exe, attrib  -R -S -H "C:\Users\User\Downloads\harebot\harebot\1d0c1fb2c5d47773526ee0cebdca7da709d3b5fa.EXE", C:\Users\User\Downloads\harebot\harebot".
+   * Injects code into process "C:\Windows\SysWOW64\attrib.exe".
+   * Creates process "C:\Windows\system32\attrib.exe, attrib  -R -S -H "C:\Users\User\AppData\Roaming\Code\Service Worker\CacheStorage\87bad2d6c0d0e81b64bfc053cd3351d19e11ac4c\81d0366f-68df-4468-9461-8310e2d978d4\E1F7.tmp.bat", C:\Users\User\Downloads\harebot\harebot".

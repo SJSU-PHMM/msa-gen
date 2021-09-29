@@ -1,0 +1,25 @@
+
+ Report generated with Buster Sandbox Analyzer 1.92 at 22:50:09 on 25/09/2021
+
+ [ General information ]
+   * Analysis duration: 00:01:00
+   * File name: C:\Users\User\Downloads\harebot\harebot\82952253706d3a2001b19cf3406a37ef90043594.EXE
+
+ [ Changes to filesystem ]
+   * Creates file C:\Users\User\gpc4q5r2z4.exe
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Creates value "gpc4q5r2z4=2787C4500FBAFD42A75B9E9E5D9BC787" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{8e1bb712-0000-0000-0000-300300000000}
+          old value empty
+   * Creates value "gpc4q5r2z4=C:\Users\User\gpc4q5r2z4.exe" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Run
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+
+ [ Network services ]
+   * Queries DNS "signaler-pa.clients6.google.com".
+   * Queries DNS "ssl.gstatic.com".
+
+ [ Process/window/string information ]
+   * Sleeps 40 seconds.

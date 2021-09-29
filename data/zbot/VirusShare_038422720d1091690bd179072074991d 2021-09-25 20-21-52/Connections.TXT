@@ -1,0 +1,8 @@
+DNS Query(api.msn.com)
+DNS Query(www.bing.com)
+OUT,TCP - HTTPS,10.0.2.15,13.69.239.73:443,C:\Program Files\Common Files\microsoft shared\ClickToRun\OfficeClickToRun.exe
+IN,TCP - HTTPS,13.69.239.73:443,10.0.2.15,C:\Program Files\Common Files\microsoft shared\ClickToRun\OfficeClickToRun.exe
+IN,TCP - HTTPS,40.83.247.108:443,10.0.2.15,C:\Program Files\Common Files\microsoft shared\ClickToRun\OfficeClickToRun.exe
+DNS Query(umwatson.events.data.microsoft.com)
+OUT,TCP - HTTPS,10.0.2.15,13.89.179.12:443,C:\Windows\SysWOW64\WerFault.exe
+IN,TCP - HTTPS,13.89.179.12:443,10.0.2.15,C:\Windows\SysWOW64\WerFault.exe

@@ -1,0 +1,7 @@
+OUT,TCP - HTTPS,10.0.2.15,149.210.133.22:443,C:\Users\User\Downloads\harebot\harebot\4bf95c2d8e2c1333876bf06fe8951858c35b30b5.EXE
+IN,TCP - HTTPS,149.210.133.22:443,10.0.2.15,C:\Users\User\Downloads\harebot\harebot\4bf95c2d8e2c1333876bf06fe8951858c35b30b5.EXE
+DNS Query(7atable.be)
+OUT,TCP - HTTPS,10.0.2.15,213.186.33.5:443,C:\Users\User\Downloads\harebot\harebot\4bf95c2d8e2c1333876bf06fe8951858c35b30b5.EXE
+DNS Query(4everweb.nl)
+DNS Query(web.whatsapp.com)
+DNS Query(4everandever.de)

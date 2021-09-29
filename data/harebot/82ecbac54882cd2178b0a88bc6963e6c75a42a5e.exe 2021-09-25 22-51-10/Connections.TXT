@@ -1,0 +1,4 @@
+DNS Query(array614.prod.do.dsp.mp.microsoft.com)
+DNS Query(array613.prod.do.dsp.mp.microsoft.com)
+DNS Query(nw-umwatson.events.data.microsoft.com)
+DNS Query(settings-win.data.microsoft.com)

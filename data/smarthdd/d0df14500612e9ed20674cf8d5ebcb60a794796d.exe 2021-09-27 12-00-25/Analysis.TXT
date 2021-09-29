@@ -1,0 +1,8 @@
+
+Report generated with Buster Sandbox Analyzer 1.92 at 12:00:25 on 27/09/2021
+
+Detailed report of suspicious malware actions:
+
+Connected to WWW
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+Got user name information

@@ -1,0 +1,2 @@
+DNS Query(play.google.com)
+DNS Query(promos.fling.com)

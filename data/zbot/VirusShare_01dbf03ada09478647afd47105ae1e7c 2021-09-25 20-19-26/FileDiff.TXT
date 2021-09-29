@@ -1,0 +1,6 @@
+= C:\Windows\system32\CatRoot2\{127D0A1D-4EF2-11D1-8608-00C04FC295EE}\catdb
+= C:\Windows\system32\CatRoot2\{127D0A1D-4EF2-11D1-8608-00C04FC295EE}\catdb.jfm
+= C:\Windows\system32\CatRoot2\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\catdb
+= C:\Windows\system32\CatRoot2\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\catdb.jfm
++ C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_VirusShare_01dbf_dcbdbf20a973459ead31c75d4da4387b683ab6_ab957aa6_d07f501b-a585-4d27-acd6-754abc2637d5\Report.wer
++ C:\Users\User\AppData\Local\CrashDumps\VirusShare_01dbf03ada09478647afd47105ae1e7c.EXE.9032.dmp

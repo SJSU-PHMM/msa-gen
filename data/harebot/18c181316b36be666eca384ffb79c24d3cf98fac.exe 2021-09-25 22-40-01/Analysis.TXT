@@ -1,0 +1,28 @@
+
+Report generated with Buster Sandbox Analyzer 1.92 at 22:40:01 on 25/09/2021
+
+Detailed report of suspicious malware actions:
+
+Connected to WWW
+Defined file type created: C:\Users\User\8rv69skcgb.exe
+Defined registry AutoStart location created or modified: user\current\software\Microsoft\Windows\CurrentVersion\Run\8rv69skcgb = C:\Users\User\8rv69skcgb.exe
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+File copied itself
+Got computer name
+Got user name information
+Modified access control lists (ACLs) of files
+Queried DNS: api.msn.com
+Queried DNS: gw.desepil.com
+Queried DNS: gw.klibox.kz
+Queried DNS: gw.monlock.com
+Queried DNS: gw.zelobit.ru
+Queried DNS: mail.desepil.com
+Queried DNS: mail.klibox.kz
+Queried DNS: mail.monlock.com
+Queried DNS: mail.zelobit.ru
+Queried DNS: nexusrules.officeapps.live.com
+Queried DNS: ssl.gstatic.com
+Queried DNS: www.desepil.com
+Queried DNS: www.klibox.kz
+Queried DNS: www.monlock.com
+Queried DNS: www.zelobit.ru
