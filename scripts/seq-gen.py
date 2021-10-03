@@ -1,6 +1,7 @@
 #!/usr/bin/python
 
 import sys
+import os
 import pandas as pd
 
 seq_map =  {
@@ -27,16 +28,16 @@ seq_map =  {
 	'FindWindow': 'O'
 }
 
-#ascii_value = 33
-ascii_value = 86
-#seq_map = {}
+ascii_value = 33
+#ascii_value = 86
+seq_map = {}
 
 """
 Simple function to automatically map system calls to a unique ASCII character
 """
-def generate_map(file):
+def generate_map(virus_data):
     global ascii_value
-    file = open(file[0], 'r')
+    file = open(virus_data, 'r')
     Lines = file.readlines()
     # Strips the newline character
     for line in Lines:
@@ -86,25 +87,35 @@ def main(argv):
     file1 = open(inputfile, 'r')
     Lines = file1.readlines()
     seq = ''
+    virus_name = ''
     count = 0
     # Strips the newline character
     for line in Lines:
+        if "Executing: " in line:
+            #Pretty sureExecuting is a Sandboxie/BSA message, not from the Malware itself
+            #will use it to grab malware name
+            if not virus_name:
+                virus_path = line.split("\\")[-1]
+                virus_name = os.path.basename(virus_path).strip()
+            continue
         count += 1
         apiCall = line[0:line.find('(')]
         seq = seq + seq_map[apiCall]
 
-    print(" ")
-    print(" ")
-    print("Getting Sequence...")
-    print('Final Sequence: '+seq)
-    print(" ")
-    print(seq_map)
-    print(" ")
-    print(" ")
+    #print(" ")
+    #print(" ")
+    #print("Getting Sequence...")
+    print(virus_name+': '+seq)
+    #print('Final Sequence: '+seq)
+    #print(" ")
+    #print(seq_map)
+    #print(" ")
+    #print(" ")
 
 
 if __name__ == "__main__":
-    generate_map(sys.argv[1:])
+    generate_map("./data/uniq_api.txt")
+    #print(seq_map)
     #generate_map(sys.argv[1:])
     #api_csv(sys.argv[1:])
     main(sys.argv[1:])
