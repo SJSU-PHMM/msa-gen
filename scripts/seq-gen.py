@@ -45,6 +45,9 @@ def generate_map(virus_data):
         if apiCall not in seq_map:
             seq_map[apiCall] = chr(ascii_value)
             ascii_value += 1
+            if ascii_value == 44:
+                #skip comma because we may not want to use it to make saving to csv funky
+                ascii_value += 1
 
 """
 use pandas to take an API sequence and save to a CSV to be read by aphid or some PHMM algorithm
