@@ -5,32 +5,94 @@ import os
 import pandas as pd
 
 seq_map =  {
-	'CreateToolhelp32Snapshot': 'R',
-	'SuspendThread': 'S',
-	'QueryProcessInformation': 'B',
-	'WriteProcessMemory': 'I',
-	'CreateThread': 'J',
-	'VirtualAllocEx': 'A',
-	'GetModuleHandle': 'G',
-	'SystemParametersInfo': 'D',
-	'ExitProcess': 'U',
-	'GetProcessDEPPolicy': 'T',
-	'GetForegroundWindow': 'M',
-	'Executing: C:\\WINDOWS\\system32\\WerFault.exe\r': 'N',
-	'LdrFindEntryForAddress': 'H',
-	'ResumeThread': 'K',
-	'OpenProcessToken': 'E',
-	'QueryFullProcessImageName': 'P',
-	'OpenProcess': 'L',
-	'CreateProcess': 'C',
-	'GetProcessImageFileName': 'Q',
-	'QuerySystemInformation': 'F',
-	'FindWindow': 'O'
-}
+            'AdjustTokenPrivileges': '!',
+            'AreAnyAccessesGranted': '\'',
+            'bind': '#',
+            'CheckRemoteDebuggerPresent': '$',
+            'connect': '%',
+            'ConnectNamedPipe': '&',
+            'ConnectServerWMI': '\'',
+            'Copy': '(',
+            'CreateDirectory': ')',
+            'CreateEvent': '*',
+            'CreateFile': '+',
+            'CreateFileMapping': '-',
+            'CreateMutex': '.',
+            'CreateNamedPipe': '/',
+            'CreateProcess': '0',
+            'CreateRemoteThread': '1',
+            'CreateThread': '2',
+            'CreateToolhelp32Snapshot': '3',
+            'CryptDecrypt': '4',
+            'CryptEncrypt': '5',
+            'CryptHashData': '6',
+            'DeleteFile': '7',
+            'DeleteUrlCacheEntry': '8',
+            'ExecQueryWMI': '9',
+            'ExitProcess': ':',
+            'FindNextFile': ';',
+            'FindWindow': '<',
+            'FreeLibrary': '=',
+            'GetAsyncKeyState': '>',
+            'GetComputerName': '?',
+            'GetCurrentHwProfile': '@',
+            'GetFileAttributes': 'A',
+            'GetForegroundWindow': 'B',
+            'GetKeyboardState': 'C',
+            'GetKeyState': 'D',
+            'GetModuleHandle': 'E',
+            'GetProcessDEPPolicy': 'F',
+            'GetProcessImageFileName': 'G',
+            'GetSystemDefaultLangID': 'H',
+            'GetUserName': 'I',
+            'GetVolumeInformation': 'J',
+            'HttpOpenRequest': 'K',
+            'HttpSendRequest': 'L',
+            'InternetConnect': 'M',
+            'InternetOpen': 'N',
+            'InternetReadFile': 'O',
+            'InternetSetOption': 'P',
+            'IsDebuggerPresent': 'Q',
+            'LdrFindEntryForAddress': 'R',
+            'lstrcmpi': 'S',
+            'Move': 'T',
+            'NetLocalGroupDel': 'U',
+            'NetLocalGroupDelMembers': 'V',
+            'NtQueryInformationProcess': 'W',
+            'OpenFile': 'X',
+            'OpenMutex': 'Y',
+            'OpenProcess': 'Z',
+            'OpenProcessToken': '[',
+            'OpenSCManager': '\\',
+            'OpenService': ']',
+            'QueryFullProcessImageName': '^',
+            'QueryProcessInformation': '_',
+            'QuerySystemInformation': '`',
+            'QueueUserAPC': 'a',
+            'ReadProcessMemory': 'b',
+            'RegCloseKey': 'c',
+            'RegCreateKeyEx': 'd',
+            'RegEnumValue': 'e',
+            'RegOpenKeyEx': 'f',
+            'RegSetValueEx': 'g',
+            'RemoveDirectory': 'h',
+            'ResumeThread': 'i',
+            'SetNamedSecurityInfo': 'j',
+            'SetSecurityInfo': 'k',
+            'SetTimer': 'l',
+            'Sleep': 'm',
+            'SuspendThread': 'n',
+            'SystemParametersInfo': 'o',
+            'TerminateProcess': 'p',
+            'VirtualAllocEx': 'q',
+            'VirtualQueryEx': 'r',
+            'WriteProcessMemory': 's',
+            'SetProcessDEPPolicy':'t'
+        }
 
 ascii_value = 33
 #ascii_value = 86
-seq_map = {}
+#seq_map = {}
 
 """
 Simple function to automatically map system calls to a unique ASCII character
@@ -93,6 +155,7 @@ def main(argv):
     virus_name = ''
     count = 0
     # Strips the newline character
+    print(seq_map);
     for line in Lines:
         if "Executing: " in line:
             #Pretty sureExecuting is a Sandboxie/BSA message, not from the Malware itself
@@ -103,6 +166,7 @@ def main(argv):
             continue
         count += 1
         apiCall = line[0:line.find('(')]
+        print(apiCall)
         seq = seq + seq_map[apiCall]
 
     #print(" ")
@@ -117,7 +181,7 @@ def main(argv):
 
 
 if __name__ == "__main__":
-    generate_map("./data/uniq_api.txt")
+    #generate_map("./data/uniq_api.txt")
     #print(seq_map)
     #generate_map(sys.argv[1:])
     #api_csv(sys.argv[1:])
