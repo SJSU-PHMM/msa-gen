@@ -6,7 +6,7 @@ import pandas as pd
 
 seq_map =  {
             'AdjustTokenPrivileges': '!',
-            'AreAnyAccessesGranted': '\'',
+            'AreAnyAccessesGranted': '\"',
             'bind': '#',
             'CheckRemoteDebuggerPresent': '$',
             'connect': '%',
@@ -155,7 +155,7 @@ def main(argv):
     virus_name = ''
     count = 0
     # Strips the newline character
-    print(seq_map);
+    #print(seq_map);
     for line in Lines:
         if "Executing: " in line:
             #Pretty sureExecuting is a Sandboxie/BSA message, not from the Malware itself
@@ -166,7 +166,7 @@ def main(argv):
             continue
         count += 1
         apiCall = line[0:line.find('(')]
-        print(apiCall)
+        #print(apiCall)
         seq = seq + seq_map[apiCall]
 
     #print(" ")
