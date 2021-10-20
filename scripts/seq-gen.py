@@ -4,7 +4,7 @@ import sys
 import os
 import pandas as pd
 
-seq_map =  {
+old_seq_map =  {
             'AdjustTokenPrivileges': '!',
             'AreAnyAccessesGranted': '\"',
             'bind': '#',
@@ -87,7 +87,105 @@ seq_map =  {
             'VirtualAllocEx': 'q',
             'VirtualQueryEx': 'r',
             'WriteProcessMemory': 's',
-            'SetProcessDEPPolicy':'t'
+            'SetProcessDEPPolicy':'t',
+            'OutputDebugString':'u',
+            'StartService':'v',
+            'CreateService':'w',
+            'ControlService':'x',
+            'DeleteService':'y'
+        }
+
+#Update mapping to use only Characters and Numbers
+#This helps in Substitution Matrix as well as in creating an MSA that encompasses all Characters. 
+seq_map = {
+            'AdjustTokenPrivileges': 'W',
+            'AreAnyAccessesGranted': '*',
+            'bind': '*',
+            'CheckRemoteDebuggerPresent': '0',
+            'connect': '*',
+            'ConnectNamedPipe': '*',
+            'ConnectServerWMI': '*',
+            'Copy': '1',
+            'CreateDirectory': '*',
+            'CreateEvent': '*',
+            'CreateFile': '*',
+            'CreateFileMapping': '*',
+            'CreateMutex': 'U',
+            'CreateNamedPipe': '*',
+            'CreateProcess': 'L',
+            'CreateRemoteThread': '*',
+            'CreateThread': 'K',
+            'CreateToolhelp32Snapshot': 'M',
+            'CryptDecrypt': '*',
+            'CryptEncrypt': '*',
+            'CryptHashData': '*',
+            'DeleteFile': '*',
+            'DeleteUrlCacheEntry': '*',
+            'ExecQueryWMI': 'S',
+            'ExitProcess': '2',
+            'FindNextFile': '*',
+            'FindWindow': 'T',
+            'FreeLibrary': '*',
+            'GetAsyncKeyState': '*',
+            'GetComputerName': '*',
+            'GetCurrentHwProfile': '*',
+            'GetFileAttributes': '*',
+            'GetForegroundWindow': '*',
+            'GetKeyboardState': '*',
+            'GetKeyState': '*',
+            'GetModuleHandle': 'F',
+            'GetProcessDEPPolicy': '8',
+            'GetProcessImageFileName': 'Y',
+            'GetSystemDefaultLangID': '*',
+            'GetUserName': '*',
+            'GetVolumeInformation': '*',
+            'HttpOpenRequest': '*',
+            'HttpSendRequest': '*',
+            'InternetConnect': '*',
+            'InternetOpen': '*',
+            'InternetReadFile': '*',
+            'InternetSetOption': '*',
+            'IsDebuggerPresent': '*',
+            'LdrFindEntryForAddress': 'E',
+            'lstrcmpi': '5',
+            'Move': '*',
+            'NetLocalGroupDel': '*',
+            'NetLocalGroupDelMembers': '*',
+            'NtQueryInformationProcess': '*',
+            'OpenFile': 'V',
+            'OpenMutex': '*',
+            'OpenProcess': 'I',
+            'OpenProcessToken': 'H', 
+            'OpenSCManager': 'Z',
+            'OpenService': '7',
+            'QueryFullProcessImageName': '4',
+            'QueryProcessInformation': 'D',
+            'QuerySystemInformation': 'G',
+            'QueueUserAPC': 'Q',
+            'ReadProcessMemory': 'A', 
+            'RegCloseKey': 'R',
+            'RegCreateKeyEx': '*',
+            'RegEnumValue': 'O',
+            'RegOpenKeyEx': 'P',
+            'RegSetValueEx': '*',
+            'RemoveDirectory': '*',
+            'ResumeThread': 'N',
+            'SetNamedSecurityInfo': '*',
+            'SetSecurityInfo': '*',
+            'SetTimer': '*',
+            'Sleep': '3',
+            'SuspendThread': 'X',
+            'SystemParametersInfo': '9',
+            'TerminateProcess': '6',
+            'VirtualAllocEx': 'B',
+            'VirtualQueryEx': 'C',
+            'WriteProcessMemory': 'J',
+            'SetProcessDEPPolicy':'*',
+            'OutputDebugString':'*',
+            'StartService':'*',
+            'CreateService':'*',
+            'ControlService':'*',
+            'DeleteService':'*'
         }
 
 ascii_value = 33
@@ -140,13 +238,6 @@ def parse_virus_log(argv):
         api_sequence.append(seq_map[apiCall])
     return api_sequence
 
-    print(" ")
-    print(" ")
-    print("Getting Sequence...")
-    print('Final Sequence: '+seq)
-    print(" ")
-    print(" ")
-
 def main(argv):
     inputfile = argv[0]
     file1 = open(inputfile, 'r')
@@ -163,6 +254,7 @@ def main(argv):
             if not virus_name:
                 virus_path = line.split("\\")[-1]
                 virus_name = os.path.basename(virus_path).strip()
+                virus_name = inputfile[16:48]
             continue
         count += 1
         apiCall = line[0:line.find('(')]
