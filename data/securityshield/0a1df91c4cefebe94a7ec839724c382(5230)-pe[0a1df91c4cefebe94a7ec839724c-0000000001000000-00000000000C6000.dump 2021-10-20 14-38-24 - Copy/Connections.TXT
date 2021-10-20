@@ -1,0 +1,2 @@
+DNS Query(tile-service.weather.microsoft.com)
+DNS Query(umwatson.events.data.microsoft.com)

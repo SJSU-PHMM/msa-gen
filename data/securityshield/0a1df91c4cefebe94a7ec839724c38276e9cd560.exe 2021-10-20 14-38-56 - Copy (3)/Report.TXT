@@ -1,0 +1,22 @@
+
+ Report generated with Buster Sandbox Analyzer 1.91 at 14:38:56 on 20/10/2021
+
+ [ General information ]
+   * Analysis duration: 00:00:06
+   * File name: C:\Users\long1-1903\Downloads\securityshield\securityshield\0a1df91c4cefebe94a7ec839724c38276e9cd560.EXE
+
+ [ Changes to filesystem ]
+   * No changes
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{e91cef1a-0000-0000-0000-501f00000000}
+          old value empty
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+
+ [ Network services ]
+   * No changes
+
+ [ Process/window/string information ]
+   * No changes

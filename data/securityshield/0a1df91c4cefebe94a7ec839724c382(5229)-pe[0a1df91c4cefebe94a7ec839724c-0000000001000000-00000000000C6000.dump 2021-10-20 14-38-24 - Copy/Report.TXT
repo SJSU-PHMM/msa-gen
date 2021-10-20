@@ -1,0 +1,23 @@
+
+ Report generated with Buster Sandbox Analyzer 1.91 at 14:38:24 on 20/10/2021
+
+ [ General information ]
+   * Analysis duration: 00:00:07
+   * File name: C:\Users\long1-1903\Downloads\securityshield\securityshield\0a1df91c4cefebe94a7ec839724c382(5228)-pe[0a1df91c4cefebe94a7ec839724c-0000000001000000-00000000000C6000.EXE
+
+ [ Changes to filesystem ]
+   * No changes
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{e91cef1a-0000-0000-0000-501f00000000}
+          old value empty
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+
+ [ Network services ]
+   * Queries DNS "tile-service.weather.microsoft.com".
+   * Queries DNS "umwatson.events.data.microsoft.com".
+
+ [ Process/window/string information ]
+   * No changes

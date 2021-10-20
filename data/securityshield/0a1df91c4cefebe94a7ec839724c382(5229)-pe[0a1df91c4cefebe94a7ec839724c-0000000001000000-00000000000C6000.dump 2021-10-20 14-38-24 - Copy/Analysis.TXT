@@ -1,0 +1,10 @@
+
+Report generated with Buster Sandbox Analyzer 1.91 at 14:38:24 on 20/10/2021
+
+Detailed report of suspicious malware actions:
+
+Connected to WWW
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+Queried DNS: tile-service.weather.microsoft.com
+Queried DNS: umwatson.events.data.microsoft.com
+Traces of Max++
