@@ -185,7 +185,11 @@ seq_map = {
             'StartService':'*',
             'CreateService':'*',
             'ControlService':'*',
-            'DeleteService':'*'
+            'DeleteService':'*',
+            'GetKeyboardLayoutList':'*',
+            'GetWindowTextLength':'*',
+             'SetWindowPos':'*',
+             'DeviceIoControl':'*'
         }
 
 ascii_value = 33

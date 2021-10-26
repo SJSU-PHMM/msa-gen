@@ -7,4 +7,5 @@ find ../data/cridex/ -iname "log_api.txt"  -exec python seq-gen.py {} \; &> ../d
 find ../data/Injector_Trojan/ -iname "log_api.txt"  -exec python seq-gen.py {} \; &> ../data/sequences/Injector_Trojan_ver2.txt
 find ../data/zbot/ -iname "log_api.txt"  -exec python seq-gen.py {} \; &> ../data/sequences/zbot_ver2.txt
 find ../data/zeroaccess/ -iname "log_api.txt"  -exec python seq-gen.py {} \; &> ../data/sequences/zeroaccess_ver2.txt
+find ../data/securityshield/ -iname "log_api.txt"  -exec python seq-gen.py {} \; &> ../data/sequences/securityshield_ver2.txt
 find ../data/trojan/ -exec python seq-gen.py {} \; &> ../data/sequences/trojan_ver2.txt
