@@ -1,0 +1,73 @@
+Nodes:
+0: FGGDKNB80DDGBBBBBHDEBJNFGGDKNBDBEB9DFBHFDBDDBTF4DBBI4DHDDIYDDHBNDMBBGDDDHWW3BBHDEBDBBBHBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBDDBBBMGBXDEEEEEEEEEEEEEEEEEG8DGGGDID4HDDBGGFGFBIFHHFBFZ7QEELHDN3BGB7B3B266
+1: FGGDKNFBFBHBFFDNEXBBBB9DHHBBGBB*GDDGFDDFFSSSSSSSSSSSSSSF2*6
+2: FGGDKNXBFFBBHBFFDBBB9DHHBBGBB*GDDGFDDFFSSSSSSSSSSSSSSF2*6
+3: FGGDKNHBBBB9DBHHBBBGBFBFDB*GDDGFDDFFSSSSSSSSSSSSSS*F2*6
+4: FGGDKNBHBBBBBB9DHHBBG3MBGB3***FFGDDBGBBDBIBF8HZ7QBD326
+5: FGGDKNHBBBBBB9DBHHBBG3MBGB3***FFGDDBGDBIBF8BBHZ7QD26
+6: FGGDKNBHBBBBB9DBHHBBGB3MBGB3***FFGDDBGDBIF8BHZ7QD26
+7: FGGDKN*FHGDDB8B*BBBB9DFBHHB33BGBFBDBDGBDDFF*F2*6
+8: FGGDKN*FHGDDB8BBBB9DFBHHBB33BGBFBDBDGDDFF*F2*6
+9: FGGDKNFHGDDBBBBB9DFBHHB33BBGBFBDBDGDDFF*F2*6
+
+MSA Order:
+1: FGGDKNFBFBHBFFDNEXBBBB9DHHBBGBB*GDDGFDDFFSSSSSSSSSSSSSSF2*6
+2: FGGDKNXBFFBBHBFFDBBB9DHHBBGBB*GDDGFDDFFSSSSSSSSSSSSSSF2*6
+3: FGGDKNHBBBB9DBHHBBBGBFBFDB*GDDGFDDFFSSSSSSSSSSSSSS*F2*6
+4: FGGDKNBHBBBBBB9DHHBBG3MBGB3***FFGDDBGBBDBIBF8HZ7QBD326
+5: FGGDKNHBBBBBB9DBHHBBG3MBGB3***FFGDDBGDBIBF8BBHZ7QD26
+6: FGGDKNBHBBBBB9DBHHBBGB3MBGB3***FFGDDBGDBIF8BHZ7QD26
+7: FGGDKN*FHGDDB8B*BBBB9DFBHHB33BGBFBDBDGBDDFF*F2*6
+8: FGGDKN*FHGDDB8BBBB9DFBHHBB33BGBFBDBDGDDFF*F2*6
+9: FGGDKNFHGDDBBBBB9DFBHHB33BBGBFBDBDGDDFF*F2*6
+0: FGGDKNB80DDGBBBBBHDEBJNFGGDKNBDBEB9DFBHFDBDDBTF4DBBI4DHDDIYDDHBNDMBBGDDDHWW3BBHDEBDBBBHBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBDDBBBMGBXDEEEEEEEEEEEEEEEEEG8DGGGDID4HDDBGGFGFBIFHHFBFZ7QEELHDN3BGB7B3B266
+
+Minimum Spanning Tree:
+Edges in the constructed MST
+1 -- 2 == -500
+5 -- 6 == -465
+4 -- 5 == -450
+7 -- 8 == -430
+8 -- 9 == -410
+2 -- 3 == -400
+3 -- 4 == -225
+1 -- 9 == -145
+0 -- 4 == 435
+Minimum Spanning Tree -2590
+
+MSA Alignment before last alignment:
+1: FGGDKN---------FBFB-HB--FFDN---EXBBBB9D--HHB-------B-GB--------B*GDD-GFD--DFFSSSSSSSSSSSSSS----F-----------------2*6
+2: FGGDKNXBFFB-------B-HB--FFD------BBB-9D--HHB-------B-GB--------B*GDD-GFD--DFFSSSSSSSSSSSSSS----F-----------------2*6
+3: FGGDKN--------------HB-----------BBB-9D-BHHBB------B-GB----FBFDB*GDD-GFD--DFFSSSSSSSSSSSSSS*---F-----------------2*6
+4: FGGDKN------------B-HB-----BB----BBB-9D--HHBB-G-3M-B-GB3***F-F---GDDBG--BBD-----------------BIBF8--HZ7QBD-------32-6
+5: FGGDKN--------------HB-----BB----BBB-9D-BHHBB-G-3M-B-GB3***F-F---GDDBG----D-----------------BIBF8BBHZ7Q-D--------2-6
+6: FGGDKN------------B-HB-----BB----BB--9D-BHHBB-GB3M-B-GB3***F-F---GDDBG----D-----------------BI-F8B-HZ7Q-D--------2-6
+7: FGGDKN------*FHGDDB8-B*----BB----BB--9DFBHH----B3-3B-GB------F------B-----D-----------------B-----------DGBDDFF*F2*6
+8: FGGDKN------*FHGDDB8-B-----BB----B---9DFBHH-B--B3-3B-GB------F------B-----D-----------------B-----------DGDDFF-*F2*6
+9: FGGDKN-------FHGDDB--B-----BB----B---9DFBHH-B---3-3BBGB------F------B-----D-----------------B-----------DGDDFF-*F2*6
+0: FGGDKNB80DDGBBBBBHDEBJNFGGDKNBDBEB9DFBHFDBDDBTF4DBBI4DHDDIYDDHBNDMBBGDDDHWW3BBHDEBDBBBHBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBDDBBBMGBXDEEEEEEEEEEEEEEEEEG8DGGGDID4HDDBGGFGFBIFHHFBFZ7QEELHDN3BGB7B3B266
+
+MSA Alignment:
+1: FGGDKN-------F------BFB-HB--FFDN---EXBBBB-----------------9D--H------------------H-------B------------------B--GB--------B*GDD-GFD--DFFSSSSSSSSSSSSSS----F---------------------------------------------------------------------------------------------------------------------------------------2*-6
+2: FGGDKNXBFFB-----------B-HB--FFD------BBB------------------9D--H------------------H-------B------------------B--GB--------B*GDD-GFD--DFFSSSSSSSSSSSSSS----F---------------------------------------------------------------------------------------------------------------------------------------2*-6
+3: FGGDKN------------------HB-----------BBB------------------9D-BH------------------H-------BB-----------------B--GB----FBFDB*GDD-GFD--DFFSSSSSSSSSSSSSS*---F---------------------------------------------------------------------------------------------------------------------------------------2*-6
+4: FGGDKN----------------B-HB-----BB----BBB------------------9D--H------------------H-------BB--G----------3-M-B--GB3***F-F---GDDBG--BBD-----------------BIBF8--HZ7QBD----------------------------------------------------------------------------------------------------------------------------3-2--6
+5: FGGDKN------------------HB-----BB----BBB------------------9D-BH------------------H-------BB--G----------3-M-B--GB3***F-F---GDDBG----D------------------------------------------------------------------B------------IBF8BBHZ7Q-D-----------------------------------------------------------------2--6
+6: FGGDKN----------------B-HB-----BB----BB-------------------9D-BH------------------H-------BB--G--B-------3-M-B--GB3***F-F---GDDBG----D------------------------------------------------------------------B------------I-F8B-HZ7Q-D-----------------------------------------------------------------2--6
+7: FGGDKN------*FHG----DDB8-B*----BB----BB-------------------9DFBH------------------H--------------B-------3--3B--GB------F------B-----D------------------------------------------------------------------B-----------------------DG--B-------------------D---D----------FF-*F----------------------2*-6
+8: FGGDKN------*FHG----DDB8-B-----BB----B--------------------9DFBH------------------H--------B-----B-------3--3B--GB------F------B-----D------------------------------------------------------------------B-----------------------DG--D-------------------D-------------FF--*F----------------------2*-6
+9: FGGDKN-------FHG----DDB--B-----BB----B--------------------9DFBH------------------H--------B-------------3--3B-BGB------F------B-----D------------------------------------------------------------------B-----------------------DG--D-------------------D-------------FF--*F----------------------2*-6
+0: FGGDKN-----------B80DDG--B-----BB----BB--HDEBJNFGGDKNBDBEB9DFBHF-D-BDD-BTF4DBBI4DHDDIYDDH-BND-MBBGDDDHWW3B--BH----------------------D------------------------------EBDBBBHBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBDDBBBM------------GBXDEEEEEEEEEEEEEEEEEG8DGGGDID4HDDBGGFGFBIFHHFBFZ7QEELHDN3BGB7B3B2-66
+
+Final MSA Order:
+1 : FGGDKN-----------B80DD-G---B------BB----BB--HDEBJNFGGDKNBDBEB9DFBHF-D-BDD-BTF4DBBI4DHDDIYDDH-BND-MBBGDDDHWW3B--BH----------------------D------------------------------EBDBBBHBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBBDDBBBM------------GBXD-EEEEEEEEEEEEEEEEEG8DGGGDID4HDDBGGFGFBI-FHHFBFZ7QEELHDN3BGB7B3B2-66
+2 : FGGDKN-------F---B----F-B-HB--FFDN----EXBBBB-----------------9D--H------------------H-------B------------------B--GB--------B*GDD-GFD--DFFSSSSSSSSSSSSSS----F-----------------------------------------------------------------------------------------------------------------------------------------2*-6
+3 : FGGDKNXBFFB-------------B-HB--FFD-------BBB------------------9D--H------------------H-------B------------------B--GB--------B*GDD-GFD--DFFSSSSSSSSSSSSSS----F-----------------------------------------------------------------------------------------------------------------------------------------2*-6
+4 : FGGDKN--------------------HB------------BBB------------------9D-BH------------------H-------BB-----------------B--GB----FBFDB*GDD-GFD--DFFSSSSSSSSSSSSSS*---F-----------------------------------------------------------------------------------------------------------------------------------------2*-6
+5 : FGGDKN------------------B-HB------BB----BBB------------------9D--H------------------H-------BB--G----------3-M-B--GB3***F-F---GDDBG--BBD-----------------BIBF8--HZ7QBD------------------------------------------------------------------------------------------------------------------------------3-2--6
+6 : FGGDKN--------------------HB------BB----BBB------------------9D-BH------------------H-------BB--G----------3-M-B--GB3***F-F---GDDBG----D------------------------------------------------------------------B------------IBF8BBHZ7Q-D-------------------------------------------------------------------2--6
+7 : FGGDKN------------------B-HB------BB----BB-------------------9D-BH------------------H-------BB--G--B-------3-M-B--GB3***F-F---GDDBG----D------------------------------------------------------------------B------------I-F8B-HZ7Q-D-------------------------------------------------------------------2--6
+8 : FGGDKN------*FHG----DD--B8-B*-----BB----BB-------------------9DFBH------------------H--------------B-------3--3B--GB------F------B-----D------------------------------------------------------------------B-----------------------DG---B-------------------D---D---------F-F--*F----------------------2*-6
+9 : FGGDKN------*FHG----DD--B8-B------BB----B--------------------9DFBH------------------H--------B-----B-------3--3B--GB------F------B-----D------------------------------------------------------------------B-----------------------DG--D--------------------D-------------F-F--*F----------------------2*-6
+10: FGGDKN-------FHG----DD--B--B------BB----B--------------------9DFBH------------------H--------B-------------3--3B-BGB------F------B-----D------------------------------------------------------------------B-----------------------DG--D--------------------D-------------F-F--*F----------------------2*-6
+
