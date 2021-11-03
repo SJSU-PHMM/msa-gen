@@ -21,10 +21,7 @@ msa_validator = msa.split('\n')
 for index in range(len(msa_validator[0])):
     new_char = msa_validator[0][index]
     for seq_index in range(1, len(msa_validator)-1):
-        if msa_validator[seq_index][index] in '-':
-            #can never cause conflicts as it is a spacer character
-            continue
-        if msa_validator[seq_index][index] not in new_char:
+        if msa_validator[seq_index][index] not in new_char+'-':
             if new_char in '-':
                 new_char = msa_validator[seq_index][index]
             else:
