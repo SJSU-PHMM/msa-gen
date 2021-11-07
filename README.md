@@ -22,7 +22,7 @@ This is a Python project to generate MSA from Virus API Logs.
 ### Main Scripts Used ###
 
 ```
-python3 scripts/generate_sequence.sh
+./scripts/generate_sequence.sh
 ```
 
 ```
