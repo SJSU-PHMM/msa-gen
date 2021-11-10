@@ -1,4 +1,4 @@
-Script to generate sequence from API call log
+Script to generate Multiple Sequence Alignment (MSA) from API call log
 ======================
 
 ## What does this project do? ##
