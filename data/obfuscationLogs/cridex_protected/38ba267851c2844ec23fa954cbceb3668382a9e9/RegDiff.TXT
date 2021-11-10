@@ -1,0 +1,8 @@
+machine\software\microsoft\Windows\Windows Error Reporting\DontShowUI = 00000001
+machine\software\microsoft\Windows\Windows Error Reporting\LocalDumps = created registry key
+machine\software\WOW6432Node\Microsoft\IdentityCRL\ClockData\ClockTimeSeconds = AC798B6100000000
+machine\software\WOW6432Node\Microsoft\IdentityCRL\ClockData\TickCount = 0A56220000000000
+machine\software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\AmiOverridePath = empty value key
+user\current\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{c6a579f2-0000-0000-0000-300300000000}\NukeOnDelete = 00000001
+user\current\software\Microsoft\Windows\CurrentVersion\Run\KB00296128.exe = "C:\Users\joa\AppData\Roaming\KB00296128.exe"
+user\current\software\SandboxAutoExec  = 31

@@ -1,0 +1,11 @@
+machine\software\microsoft\Windows\Windows Error Reporting\DontShowUI = 00000001
+machine\software\microsoft\Windows\Windows Error Reporting\LocalDumps = created registry key
+machine\software\WOW6432Node\Microsoft\IdentityCRL\ClockData\ClockTimeSeconds = A07A8B6100000000
+machine\software\WOW6432Node\Microsoft\IdentityCRL\ClockData\TickCount = F70C260000000000
+machine\software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\AmiHivePermissionsCorrect = empty value key
+machine\software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\AmiHiveOwnerCorrect = empty value key
+user\current\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{c6a579f2-0000-0000-0000-300300000000}\NukeOnDelete = 00000001
+user\current\software\Microsoft\Windows\CurrentVersion\Run\KB00536128.exe = "C:\Users\joa\AppData\Roaming\KB00536128.exe"
+user\current\software\Microsoft\Windows NT\C7557A1BF = created registry key
+user\current\software\Microsoft\Windows NT\S3B8A8FD0 = created registry key
+user\current\software\SandboxAutoExec  = 31

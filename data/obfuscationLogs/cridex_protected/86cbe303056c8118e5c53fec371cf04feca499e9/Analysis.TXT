@@ -1,0 +1,44 @@
+
+Report generated with Buster Sandbox Analyzer 1.91 at 23:52:10 on 09/11/2021
+
+Detailed report of suspicious malware actions:
+
+Checked for debuggers
+Code injection in process: C:\Users\joa\AppData\Roaming\KB00536128.exe
+Code injection in process: C:\Windows\SysWOW64\cmd.exe
+Code injection in process: C:\Windows\SysWOW64\WerFault.exe
+Connected to WWW
+Created a mutex named: Local\XMI00000F30
+Created a mutex named: Local\XMI00001638
+Created a mutex named: Local\XMM00000F30
+Created a mutex named: Local\XMM00001638
+Created a mutex named: Local\XMQE527313F
+Created a mutex named: Local\XMRE527313F
+Created a mutex named: Local\XMSE527313F
+Created an event named: Local\XMBE527313F
+Created an event named: Local\XME00000F30
+Created an event named: Local\XME00001638
+Created process: C:\Users\joa\AppData\Roaming\KB00536128.exe, null, null
+Created process: null, "C:\Windows\system32\cmd.exe" /c "C:\Users\joa\AppData\Local\Temp\exp75A9.tmp.bat", null
+Defined file type created: C:\Users\joa\AppData\Roaming\KB00536128.exe
+Defined registry AutoStart location created or modified: user\current\software\Microsoft\Windows\CurrentVersion\Run\KB00536128.exe = "C:\Users\joa\AppData\Roaming\KB00536128.exe"
+Detected Anti-Malware Analyzer routine: Disk information query
+Detected keylogger functionality
+Detected privilege modification
+Detected process privilege elevation
+Enumerated running processes
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+File copied itself
+File deleted itself
+Got computer name
+Got input locale identifiers
+Got user name information
+Got volume information
+Hid from debuggers
+Internet connection: C:\Windows\SysWOW64\WerFault.exe Connects to "20.189.173.22" on port 443 (TCP - HTTPS)
+Modified access control lists (ACLs) of files
+Opened a service named: CryptSvc
+Opened a service named: WinHttpAutoProxySvc
+Queried DNS: umwatson.events.data.microsoft.com
+Queried DNS: v10.events.data.microsoft.com
+Traces of Max++

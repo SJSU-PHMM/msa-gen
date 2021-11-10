@@ -1,0 +1,69 @@
+
+ Report generated with Buster Sandbox Analyzer 1.91 at 23:52:10 on 09/11/2021
+
+ [ General information ]
+   * File name: C:\Users\joa\Downloads\malware\cridex\cridex_protected\86cbe303056c8118e5c53fec371cf04feca499e9.exe
+
+ [ Changes to filesystem ]
+   * Modifies file C:\Windows\system32\CatRoot2\dberr.txt
+   * Modifies file C:\Windows\system32\CatRoot2\edb.chk
+   * Creates file C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_KB00536128.exe_339aa882d38ef15863bb82c9f54b1a82ffb56a1_3cb353c8_bcd4b70b-3852-4719-b0e3-6600a74b6d20\Report.wer
+   * Creates file C:\Users\joa\AppData\Local\CrashDumps\KB00536128.exe.5688.dmp
+   * Creates file (empty) C:\Users\joa\AppData\Local\Temp\exp75A9.tmp
+   * Creates file C:\Users\joa\AppData\Roaming\KB00536128.exe
+   * Deletes file C:\Users\joa\Downloads\malware\cridex\cridex_protected\86cbe303056c8118e5c53fec371cf04feca499e9.exe
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Creates value "ClockTimeSeconds=A07A8B6100000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\IdentityCRL\ClockData
+   * Creates value "TickCount=F70C260000000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\IdentityCRL\ClockData
+   * Empties value "AmiHivePermissionsCorrect" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\AppCompatFlags
+         old value "AmiHivePermissionsCorrect=00000001"
+   * Empties value "AmiHiveOwnerCorrect" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\AppCompatFlags
+         old value "AmiHiveOwnerCorrect=00000001"
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{c6a579f2-0000-0000-0000-300300000000}
+          old value empty
+   * Creates value "KB00536128.exe="C:\Users\joa\AppData\Roaming\KB00536128.exe"" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Run
+   * Creates Registry key HKEY_CURRENT_USER\software\Microsoft\Windows NT\C7557A1BF
+   * Creates Registry key HKEY_CURRENT_USER\software\Microsoft\Windows NT\S3B8A8FD0
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+
+ [ Network services ]
+   * Queries DNS "umwatson.events.data.microsoft.com".
+   * Queries DNS "v10.events.data.microsoft.com".
+   * C:\Windows\SysWOW64\WerFault.exe Connects to "20.189.173.22" on port 443 (TCP - HTTPS).
+
+ [ Process/window/string information ]
+   * Keylogger functionality.
+   * Gets user name information.
+   * Gets input locale identifiers.
+   * Gets volume information.
+   * Gets computer name.
+   * Checks for debuggers.
+   * Hides from debuggers.
+   * Modifies access control lists (ACLs) of files.
+   * Anti-Malware Analyzer routine: Disk information query.
+   * Enumerates running processes.
+   * Creates an event named "Local\XME00000F30".
+   * Creates a mutex "Local\XMM00000F30".
+   * Creates a mutex "Local\XMI00000F30".
+   * Creates process "null, "C:\Windows\system32\cmd.exe" /c "C:\Users\joa\AppData\Local\Temp\exp75A9.tmp.bat", null".
+   * Injects code into process "C:\Windows\SysWOW64\cmd.exe".
+   * Creates process "C:\Users\joa\AppData\Roaming\KB00536128.exe, null, null".
+   * Injects code into process "C:\Users\joa\AppData\Roaming\KB00536128.exe".
+   * Creates an event named "Local\XME00001638".
+   * Creates a mutex "Local\XMM00001638".
+   * Creates a mutex "Local\XMI00001638".
+   * Enables privilege SeSecurityPrivilege.
+   * Creates a mutex "Local\XMRE527313F".
+   * Injects code into process "C:\Windows\SysWOW64\WerFault.exe".
+   * Creates a mutex "Local\XMSE527313F".
+   * Enables privilege SeRestorePrivilege.
+   * Enables privilege SeBackupPrivilege.
+   * Opens a service named "WinHttpAutoProxySvc".
+   * Opens a service named "CryptSvc".
+   * Creates a mutex "Local\XMQE527313F".
+   * Creates an event named "Local\XMBE527313F".
+   * Enables process privileges.
+   * Sleeps 86 seconds.

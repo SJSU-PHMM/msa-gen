@@ -1,0 +1,72 @@
+
+ Report generated with Buster Sandbox Analyzer 1.91 at 23:46:11 on 09/11/2021
+
+ [ General information ]
+   * File name: C:\Users\joa\Downloads\malware\cridex\cridex_protected\8b592b4413cfa168cd704d9943812ffb0b941430.exe
+
+ [ Changes to filesystem ]
+   * Modifies file C:\Windows\system32\CatRoot2\dberr.txt
+   * Modifies file C:\Windows\system32\CatRoot2\edb.chk
+   * Creates file C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_8b592b4413cfa168_8bef329b42daac1fb2ff6b391da0525a12294661_cfbbe7e3_94e0efc9-e632-4993-9bdb-f59f5e01aa17\Report.wer
+   * Creates file C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_kb00536128.exe_6c77411b2afcceeda66eafc31347c4a6e40dd_c8f198f6_44803f23-655e-47c3-b8b6-d30015f49d18\Report.wer
+   * Creates file C:\Users\joa\AppData\Local\CrashDumps\8b592b4413cfa168cd704d9943812ffb0b941430.exe.5768.dmp
+   * Creates file C:\Users\joa\AppData\Local\CrashDumps\KB00536128.exe.1768.dmp
+   * Creates file (empty) C:\Users\joa\AppData\Local\Temp\exp3542.tmp
+   * Creates file C:\Users\joa\AppData\Roaming\KB00536128.exe
+   * Deletes file C:\Users\joa\Downloads\malware\cridex\cridex_protected\8b592b4413cfa168cd704d9943812ffb0b941430.exe
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Creates value "ClockTimeSeconds=E8788B6100000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\IdentityCRL\ClockData
+   * Creates value "TickCount=7F571F0000000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\IdentityCRL\ClockData
+   * Empties value "AmiHivePermissionsCorrect" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\AppCompatFlags
+         old value "AmiHivePermissionsCorrect=00000001"
+   * Empties value "AmiHiveOwnerCorrect" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\AppCompatFlags
+         old value "AmiHiveOwnerCorrect=00000001"
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{c6a579f2-0000-0000-0000-300300000000}
+          old value empty
+   * Creates value "KB00536128.exe="C:\Users\joa\AppData\Roaming\KB00536128.exe"" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Run
+   * Creates Registry key HKEY_CURRENT_USER\software\Microsoft\Windows NT\C7557A1BF
+   * Creates Registry key HKEY_CURRENT_USER\software\Microsoft\Windows NT\S3B8A8FD0
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+
+ [ Network services ]
+   * Queries DNS "umwatson.events.data.microsoft.com".
+   * C:\Windows\SysWOW64\WerFault.exe Connects to "52.182.143.212" on port 443 (TCP - HTTPS).
+   * C:\Windows\SysWOW64\WerFault.exe Connects to "20.42.73.29" on port 443 (TCP - HTTPS).
+
+ [ Process/window/string information ]
+   * Keylogger functionality.
+   * Gets user name information.
+   * Gets input locale identifiers.
+   * Gets volume information.
+   * Gets computer name.
+   * Encrypts data.
+   * Checks for debuggers.
+   * Hides from debuggers.
+   * Modifies access control lists (ACLs) of files.
+   * Anti-Malware Analyzer routine: Disk information query.
+   * Enumerates running processes.
+   * Injects code into process "C:\Windows\SysWOW64\WerFault.exe".
+   * Creates an event named "Local\XME00001AD4".
+   * Creates a mutex "Local\XMM00001AD4".
+   * Creates a mutex "Local\XMI00001AD4".
+   * Creates process "null, "C:\Windows\system32\cmd.exe" /c "C:\Users\joa\AppData\Local\Temp\exp3542.tmp.bat", null".
+   * Injects code into process "C:\Windows\SysWOW64\cmd.exe".
+   * Creates process "C:\Users\joa\AppData\Roaming\KB00536128.exe, null, null".
+   * Injects code into process "C:\Users\joa\AppData\Roaming\KB00536128.exe".
+   * Enables privilege SeRestorePrivilege.
+   * Enables privilege SeBackupPrivilege.
+   * Opens a service named "WinHttpAutoProxySvc".
+   * Opens a service named "CryptSvc".
+   * Creates an event named "Local\XME000006F0".
+   * Creates a mutex "Local\XMM000006F0".
+   * Creates a mutex "Local\XMI000006F0".
+   * Creates a mutex "Local\XMQE527313F".
+   * Creates an event named "Local\XMBE527313F".
+   * Enables privilege SeSecurityPrivilege.
+   * Creates a mutex "Local\XMRE527313F".
+   * Creates a mutex "Local\XMSE527313F".
+   * Enables process privileges.
+   * Sleeps 74 seconds.

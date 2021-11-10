@@ -1,0 +1,56 @@
+
+ Report generated with Buster Sandbox Analyzer 1.91 at 23:49:14 on 09/11/2021
+
+ [ General information ]
+   * File name: C:\Users\joa\Downloads\malware\cridex\cridex_protected\38ba267851c2844ec23fa954cbceb3668382a9e9.exe
+
+ [ Changes to filesystem ]
+   * Modifies file C:\Windows\system32\CatRoot2\dberr.txt
+   * Modifies file C:\Windows\system32\CatRoot2\edb.chk
+   * Creates file C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_KB00296128.exe_4f87cb24e175a0536b3d6014d4d8e58dcc6a3029_25e10e4e_c04b0350-b1ed-47b1-87f0-d7ffda74866b\Report.wer
+   * Creates file C:\Users\joa\AppData\Local\CrashDumps\KB00296128.exe.5724.dmp
+   * Creates file (empty) C:\Users\joa\AppData\Local\Temp\POSF934.tmp
+   * Creates file C:\Users\joa\AppData\Roaming\KB00296128.exe
+   * Deletes file C:\Users\joa\Downloads\malware\cridex\cridex_protected\38ba267851c2844ec23fa954cbceb3668382a9e9.exe
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Creates value "ClockTimeSeconds=AC798B6100000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\IdentityCRL\ClockData
+   * Creates value "TickCount=0A56220000000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\IdentityCRL\ClockData
+   * Empties value "AmiOverridePath" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\AppCompatFlags
+         old value "AmiOverridePath=C:\Windows\AppCompat\Programs\Amcache.hve.tmp"
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{c6a579f2-0000-0000-0000-300300000000}
+          old value empty
+   * Creates value "KB00296128.exe="C:\Users\joa\AppData\Roaming\KB00296128.exe"" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Run
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+
+ [ Network services ]
+   * Queries DNS "umwatson.events.data.microsoft.com".
+   * C:\Windows\SysWOW64\WerFault.exe Connects to "104.208.16.94" on port 443 (TCP - HTTPS).
+
+ [ Process/window/string information ]
+   * Keylogger functionality.
+   * Gets user name information.
+   * Gets input locale identifiers.
+   * Gets volume information.
+   * Gets computer name.
+   * Hides from debuggers.
+   * Modifies access control lists (ACLs) of files.
+   * Anti-Malware Analyzer routine: Disk information query.
+   * Enumerates running processes.
+   * Creates an event named "Local\E000016A0".
+   * Creates a mutex "Local\M000016A0".
+   * Creates a mutex "Local\I000016A0".
+   * Creates process "C:\Users\joa\AppData\Roaming\KB00296128.exe, null, null".
+   * Injects code into process "C:\Users\joa\AppData\Roaming\KB00296128.exe".
+   * Creates process "null, "C:\Windows\system32\cmd.exe" /c "C:\Users\joa\AppData\Local\Temp\POSF934.tmp.BAT", null".
+   * Injects code into process "C:\Windows\SysWOW64\cmd.exe".
+   * Creates an event named "Local\E0000165C".
+   * Creates a mutex "Local\M0000165C".
+   * Creates a mutex "Local\I0000165C".
+   * Enables privilege SeDebugPrivilege.
+   * Opens a service named "WinHttpAutoProxySvc".
+   * Opens a service named "CryptSvc".
+   * Enables process privileges.
+   * Sleeps 36 seconds.

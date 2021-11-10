@@ -1,0 +1,40 @@
+
+ Report generated with Buster Sandbox Analyzer 1.91 at 23:38:53 on 09/11/2021
+
+ [ General information ]
+   * File name: C:\Users\joa\Downloads\malware\cridex\cridex_protected\0ae1e22a346ff7c92ad85a0598af4fb0c0f60b9f.exe
+
+ [ Changes to filesystem ]
+   * Modifies file C:\Windows\system32\CatRoot2\dberr.txt
+   * Modifies file C:\Windows\system32\CatRoot2\edb.chk
+   * Creates file C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_0ae1e22a346ff7c9_6af1efe37d79db6b4f455b786468113a04133b_327bf44b_8589af1d-e92c-4328-b439-577465839f1d\Report.wer
+   * Creates file C:\Users\joa\AppData\Local\CrashDumps\0ae1e22a346ff7c92ad85a0598af4fb0c0f60b9f.exe.6048.dmp
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Creates value "ClockTimeSeconds=27778B6100000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\IdentityCRL\ClockData
+   * Creates value "TickCount=1E7F180000000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\IdentityCRL\ClockData
+   * Empties value "AmiOverridePath" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\AppCompatFlags
+         old value "AmiOverridePath=C:\Windows\AppCompat\Programs\Amcache.hve.tmp"
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{c6a579f2-0000-0000-0000-300300000000}
+          old value empty
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+
+ [ Network services ]
+   * Queries DNS "umwatson.events.data.microsoft.com".
+   * C:\Windows\SysWOW64\WerFault.exe Connects to "52.168.117.173" on port 443 (TCP - HTTPS).
+
+ [ Process/window/string information ]
+   * Keylogger functionality.
+   * Gets user name information.
+   * Gets input locale identifiers.
+   * Gets computer name.
+   * Checks for debuggers.
+   * Hides from debuggers.
+   * Anti-Malware Analyzer routine: Disk information query.
+   * Enumerates running processes.
+   * Injects code into process "C:\Windows\SysWOW64\WerFault.exe".
+   * Opens a service named "WinHttpAutoProxySvc".
+   * Opens a service named "CryptSvc".
+   * Sleeps 42 seconds.

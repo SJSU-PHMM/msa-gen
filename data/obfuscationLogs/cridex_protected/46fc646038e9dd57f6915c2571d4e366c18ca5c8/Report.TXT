@@ -1,0 +1,44 @@
+
+ Report generated with Buster Sandbox Analyzer 1.91 at 23:50:42 on 09/11/2021
+
+ [ General information ]
+   * File name: C:\Users\joa\Downloads\malware\cridex\cridex_protected\46fc646038e9dd57f6915c2571d4e366c18ca5c8.exe
+
+ [ Changes to filesystem ]
+   * Creates file (empty) C:\Users\joa\AppData\Local\Temp\exp42EA.tmp
+   * Creates file C:\Users\joa\AppData\Roaming\KB00536128.exe
+   * Deletes file C:\Users\joa\Downloads\malware\cridex\cridex_protected\46fc646038e9dd57f6915c2571d4e366c18ca5c8.exe
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{c6a579f2-0000-0000-0000-300300000000}
+          old value empty
+   * Creates value "KB00536128.exe="C:\Users\joa\AppData\Roaming\KB00536128.exe"" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Run
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+
+ [ Network services ]
+   * No changes
+
+ [ Process/window/string information ]
+   * Keylogger functionality.
+   * Gets user name information.
+   * Gets input locale identifiers.
+   * Gets volume information.
+   * Gets computer name.
+   * Hides from debuggers.
+   * Modifies access control lists (ACLs) of files.
+   * Anti-Malware Analyzer routine: Disk information query.
+   * Enumerates running processes.
+   * Creates an event named "Local\XME00001764".
+   * Creates a mutex "Local\XMM00001764".
+   * Creates a mutex "Local\XMI00001764".
+   * Creates process "C:\Users\joa\AppData\Roaming\KB00536128.exe, null, null".
+   * Injects code into process "C:\Users\joa\AppData\Roaming\KB00536128.exe".
+   * Creates process "null, "C:\Windows\system32\cmd.exe" /c "C:\Users\joa\AppData\Local\Temp\exp42EA.tmp.bat", null".
+   * Injects code into process "C:\Windows\SysWOW64\cmd.exe".
+   * Creates an event named "Local\XME000014BC".
+   * Creates a mutex "Local\XMM000014BC".
+   * Creates a mutex "Local\XMI000014BC".
+   * Creates a mutex "Local\XMRE527313F".
+   * Sleeps 4 seconds.

@@ -1,0 +1,31 @@
+
+Report generated with Buster Sandbox Analyzer 1.91 at 23:50:42 on 09/11/2021
+
+Detailed report of suspicious malware actions:
+
+Code injection in process: C:\Users\joa\AppData\Roaming\KB00536128.exe
+Code injection in process: C:\Windows\SysWOW64\cmd.exe
+Created a mutex named: Local\XMI000014BC
+Created a mutex named: Local\XMI00001764
+Created a mutex named: Local\XMM000014BC
+Created a mutex named: Local\XMM00001764
+Created a mutex named: Local\XMRE527313F
+Created an event named: Local\XME000014BC
+Created an event named: Local\XME00001764
+Created process: C:\Users\joa\AppData\Roaming\KB00536128.exe, null, null
+Created process: null, "C:\Windows\system32\cmd.exe" /c "C:\Users\joa\AppData\Local\Temp\exp42EA.tmp.bat", null
+Defined file type created: C:\Users\joa\AppData\Roaming\KB00536128.exe
+Defined registry AutoStart location created or modified: user\current\software\Microsoft\Windows\CurrentVersion\Run\KB00536128.exe = "C:\Users\joa\AppData\Roaming\KB00536128.exe"
+Detected Anti-Malware Analyzer routine: Disk information query
+Detected keylogger functionality
+Enumerated running processes
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+File copied itself
+File deleted itself
+Got computer name
+Got input locale identifiers
+Got user name information
+Got volume information
+Hid from debuggers
+Modified access control lists (ACLs) of files
+Traces of Max++

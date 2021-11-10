@@ -1,0 +1,3 @@
++ C:\Users\joa\AppData\Local\Temp\exp42EA.tmp
++ C:\Users\joa\AppData\Roaming\KB00536128.exe
+- C:\Users\joa\Downloads\malware\cridex\cridex_protected\46fc646038e9dd57f6915c2571d4e366c18ca5c8.exe

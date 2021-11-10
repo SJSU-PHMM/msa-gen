@@ -1,0 +1,13 @@
+machine\software\microsoft\Windows\Windows Error Reporting\DontShowUI = 00000001
+machine\software\microsoft\Windows\Windows Error Reporting\LocalDumps = created registry key
+machine\software\WOW6432Node\Microsoft\IdentityCRL\ClockData\ClockTimeSeconds = 42788B6100000000
+machine\software\WOW6432Node\Microsoft\IdentityCRL\ClockData\TickCount = F6CD1C0000000000
+machine\software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\AmiHivePermissionsCorrect = empty value key
+machine\software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\AmiHiveOwnerCorrect = empty value key
+machine\software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\{11517B7C-E79D-4e20-961B-75A811715ADD}\CreatingCommand = C:\Windows\SysWOW64\WerFault.exe -u -p 4900 -s 1040
+machine\software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\AppCompatFlags\{11517B7C-E79D-4e20-961B-75A811715ADD}\CreatingModule = C:\Windows\SYSTEM32\aepic.dll
+user\current\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{c6a579f2-0000-0000-0000-300300000000}\NukeOnDelete = 00000001
+user\current\software\Microsoft\Windows\CurrentVersion\Run\KB00536128.exe = "C:\Users\joa\AppData\Roaming\KB00536128.exe"
+user\current\software\Microsoft\Windows NT\C7557A1BF = created registry key
+user\current\software\Microsoft\Windows NT\S3B8A8FD0 = created registry key
+user\current\software\SandboxAutoExec  = 31

@@ -1,0 +1,12 @@
+~ C:\Windows\system32\CatRoot2\dberr.txt
+~ C:\Windows\system32\CatRoot2\edb.chk
+? C:\Windows\system32\CatRoot2\edb.log
+? C:\Windows\system32\CatRoot2\{127D0A1D-4EF2-11D1-8608-00C04FC295EE}\catdb
+? C:\Windows\system32\CatRoot2\{127D0A1D-4EF2-11D1-8608-00C04FC295EE}\catdb.jfm
+? C:\Windows\system32\CatRoot2\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\catdb
+? C:\Windows\system32\CatRoot2\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\catdb.jfm
++ C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_KB00536128.exe_15e88362ad8889a47f435a8439fc5c5a29d21d5_24b4fc74_13855f39-6978-43a2-9875-4f523332f773\Report.wer
++ C:\Users\joa\AppData\Local\CrashDumps\KB00536128.exe.2380.dmp
++ C:\Users\joa\AppData\Local\Temp\exp1AE3.tmp
++ C:\Users\joa\AppData\Roaming\KB00536128.exe
+- C:\Users\joa\Downloads\malware\cridex\cridex_protected\399f486696c1997dc4ae459800398b913a7a5925.exe
