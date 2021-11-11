@@ -1,0 +1,26 @@
+
+Report generated with Buster Sandbox Analyzer 1.91 at 09:15:48 on 11/11/2021
+
+Detailed report of suspicious malware actions:
+
+Detected Anti-Malware Analyzer routine: Disk information query
+Detected keylogger functionality
+Enumerated running processes
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+Got computer name
+Got input locale identifiers
+Got user name information
+Hid from debuggers
+Queried DNS: aus5.mozilla.org
+Queried DNS: cs9.wac.phicdn.net
+Queried DNS: firefox.settings.services.mozilla.com
+Queried DNS: g.live.com
+Queried DNS: graph.microsoft.com
+Queried DNS: incoming.telemetry.mozilla.org
+Queried DNS: ocsp.digicert.com
+Queried DNS: oneclient.sfx.ms
+Queried DNS: prod.balrog.prod.cloudops.mozgcp.net
+Queried DNS: self.events.data.microsoft.com
+Queried DNS: settings-win.data.microsoft.com
+Queried DNS: v10.events.data.microsoft.com
+Traces of Max++

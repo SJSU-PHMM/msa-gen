@@ -1,0 +1,14 @@
+
+Report generated with Buster Sandbox Analyzer 1.91 at 09:17:25 on 11/11/2021
+
+Detailed report of suspicious malware actions:
+
+Detected Anti-Malware Analyzer routine: Disk information query
+Detected keylogger functionality
+Enumerated running processes
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+Got computer name
+Got input locale identifiers
+Got user name information
+Hid from debuggers
+Traces of Max++

@@ -1,0 +1,31 @@
+
+ Report generated with Buster Sandbox Analyzer 1.91 at 09:19:47 on 11/11/2021
+
+ [ General information ]
+   * File name: C:\Users\joa\Downloads\malware\winwebsec\winwebsec_protected\0ad86c27ba8373b24d9093450265b77a29c9fc30.exe
+
+ [ Changes to filesystem ]
+   * Creates file C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_0ad86c27ba8373b2_fedb205a2777a6733d53d393f12d626821b835f6_d910d622_c0473975-3dd1-44da-b55e-91f146dc66ec\Report.wer
+   * Creates file C:\Users\joa\AppData\Local\CrashDumps\0ad86c27ba8373b24d9093450265b77a29c9fc30.exe.6704.dmp
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Empties value "AmiOverridePath" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\AppCompatFlags
+         old value "AmiOverridePath=C:\Windows\AppCompat\Programs\Amcache.hve.tmp"
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{c6a579f2-0000-0000-0000-300300000000}
+          old value empty
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+
+ [ Network services ]
+   * No changes
+
+ [ Process/window/string information ]
+   * Keylogger functionality.
+   * Gets user name information.
+   * Gets input locale identifiers.
+   * Gets computer name.
+   * Hides from debuggers.
+   * Anti-Malware Analyzer routine: Disk information query.
+   * Enumerates running processes.
+   * Opens a service named "AudioSrv".

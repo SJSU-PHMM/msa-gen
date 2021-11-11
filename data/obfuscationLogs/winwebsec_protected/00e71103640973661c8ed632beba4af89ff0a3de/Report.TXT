@@ -1,0 +1,38 @@
+
+ Report generated with Buster Sandbox Analyzer 1.91 at 09:15:48 on 11/11/2021
+
+ [ General information ]
+   * File name: C:\Users\joa\Downloads\malware\winwebsec\winwebsec_protected\00e71103640973661c8ed632beba4af89ff0a3de.exe
+
+ [ Changes to filesystem ]
+   * No changes
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{c6a579f2-0000-0000-0000-300300000000}
+          old value empty
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+
+ [ Network services ]
+   * Queries DNS "settings-win.data.microsoft.com".
+   * Queries DNS "v10.events.data.microsoft.com".
+   * Queries DNS "firefox.settings.services.mozilla.com".
+   * Queries DNS "incoming.telemetry.mozilla.org".
+   * Queries DNS "g.live.com".
+   * Queries DNS "oneclient.sfx.ms".
+   * Queries DNS "aus5.mozilla.org".
+   * Queries DNS "prod.balrog.prod.cloudops.mozgcp.net".
+   * Queries DNS "ocsp.digicert.com".
+   * Queries DNS "cs9.wac.phicdn.net".
+   * Queries DNS "self.events.data.microsoft.com".
+   * Queries DNS "graph.microsoft.com".
+
+ [ Process/window/string information ]
+   * Keylogger functionality.
+   * Gets user name information.
+   * Gets input locale identifiers.
+   * Gets computer name.
+   * Hides from debuggers.
+   * Anti-Malware Analyzer routine: Disk information query.
+   * Enumerates running processes.

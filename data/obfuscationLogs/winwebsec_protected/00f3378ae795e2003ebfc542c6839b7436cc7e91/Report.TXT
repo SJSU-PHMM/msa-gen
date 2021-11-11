@@ -1,0 +1,46 @@
+
+ Report generated with Buster Sandbox Analyzer 1.91 at 09:18:45 on 11/11/2021
+
+ [ General information ]
+   * File name: C:\Users\joa\Downloads\malware\winwebsec\winwebsec_protected\00f3378ae795e2003ebfc542c6839b7436cc7e91.exe
+
+ [ Changes to filesystem ]
+   * Creates file C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_00f3378ae795e200_6e7e1f9c91589254c9795f14848af11abd61ea8_33f50904_af2b4c32-69e8-41e8-bed1-e7c65e6cedef\Report.wer
+   * Creates file C:\Users\joa\AppData\Local\CrashDumps\00f3378ae795e2003ebfc542c6839b7436cc7e91.exe.5500.dmp
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Creates value "fdwSupport=00000001" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\AudioCompressionManager\DriverCache\msacm.imaadpcm
+   * Creates value "cFormatTags=00000002" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\AudioCompressionManager\DriverCache\msacm.imaadpcm
+   * Creates value "aFormatTagCache=01000000100000001100000014000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\AudioCompressionManager\DriverCache\msacm.imaadpcm
+   * Creates value "fdwSupport=00000001" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\AudioCompressionManager\DriverCache\msacm.l3acm
+   * Creates value "cFormatTags=00000002" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\AudioCompressionManager\DriverCache\msacm.l3acm
+   * Creates value "aFormatTagCache=0100000010000000550000001E000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\AudioCompressionManager\DriverCache\msacm.l3acm
+   * Creates value "fdwSupport=00000001" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\AudioCompressionManager\DriverCache\msacm.msadpcm
+   * Creates value "cFormatTags=00000002" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\AudioCompressionManager\DriverCache\msacm.msadpcm
+   * Creates value "aFormatTagCache=01000000100000000200000032000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\AudioCompressionManager\DriverCache\msacm.msadpcm
+   * Creates value "fdwSupport=00000001" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\AudioCompressionManager\DriverCache\msacm.msg711
+   * Creates value "cFormatTags=00000003" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\AudioCompressionManager\DriverCache\msacm.msg711
+   * Creates value "aFormatTagCache=010000001000000006000000120000000700000012000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\AudioCompressionManager\DriverCache\msacm.msg711
+   * Creates value "fdwSupport=00000001" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\AudioCompressionManager\DriverCache\msacm.msgsm610
+   * Creates value "cFormatTags=00000002" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\AudioCompressionManager\DriverCache\msacm.msgsm610
+   * Creates value "aFormatTagCache=01000000100000003100000014000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\AudioCompressionManager\DriverCache\msacm.msgsm610
+   * Empties value "AmiOverridePath" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\AppCompatFlags
+         old value "AmiOverridePath=C:\Windows\AppCompat\Programs\Amcache.hve.tmp"
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{c6a579f2-0000-0000-0000-300300000000}
+          old value empty
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+
+ [ Network services ]
+   * No changes
+
+ [ Process/window/string information ]
+   * Keylogger functionality.
+   * Gets user name information.
+   * Gets input locale identifiers.
+   * Gets computer name.
+   * Hides from debuggers.
+   * Anti-Malware Analyzer routine: Disk information query.
+   * Enumerates running processes.
+   * Sleeps 2 seconds.
