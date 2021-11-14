@@ -188,8 +188,9 @@ seq_map = {
             'DeleteService':'*',
             'GetKeyboardLayoutList':'*',
             'GetWindowTextLength':'*',
-             'SetWindowPos':'*',
-             'DeviceIoControl':'*'
+            'SetWindowPos':'*',
+            'DeviceIoControl':'*',
+            'NtSetInformationThread':'*'
         }
 
 ascii_value = 33
