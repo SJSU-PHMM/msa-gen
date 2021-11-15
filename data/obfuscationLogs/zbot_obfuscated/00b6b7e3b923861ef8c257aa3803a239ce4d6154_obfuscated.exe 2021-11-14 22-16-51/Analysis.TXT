@@ -1,0 +1,11 @@
+
+Report generated with Buster Sandbox Analyzer 1.92 at 22:16:51 on 14/11/2021
+
+Detailed report of suspicious malware actions:
+
+Checked for debuggers
+Detected privilege modification
+Detected process privilege elevation
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+Got user name information
+Queried DNS: edge.microsoft.com

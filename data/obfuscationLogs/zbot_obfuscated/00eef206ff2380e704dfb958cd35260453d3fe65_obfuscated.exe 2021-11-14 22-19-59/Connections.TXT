@@ -1,0 +1,2 @@
+DNS Query(api.msn.com)
+DNS Query(assets.msn.com)

@@ -1,0 +1,4 @@
+DNS Query(checkappexec.microsoft.com)
+DNS Query(api.edgeoffer.microsoft.com)
+DNS Query(config.edge.skype.com)
+DNS Query(www.bing.com)

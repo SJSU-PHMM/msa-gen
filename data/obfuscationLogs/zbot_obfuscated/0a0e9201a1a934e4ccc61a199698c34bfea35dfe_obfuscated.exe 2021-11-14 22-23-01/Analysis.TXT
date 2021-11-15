@@ -1,0 +1,16 @@
+
+Report generated with Buster Sandbox Analyzer 1.92 at 22:23:01 on 14/11/2021
+
+Detailed report of suspicious malware actions:
+
+Code injection in process: C:\Windows\SysWOW64\cmd.exe
+Created process: null, "C:\Users\User\AppData\Local\Temp\abcd.bat"     "C:\Users\User\Downloads\obfuscation\obfuscated\zbot\0a0e9201a1a934e4ccc61a199698c34bfea35dfe_obfuscated.EXE"   , C:\Users\User\Downloads\obfuscation\obfuscated\zbot
+Detected Anti-Malware Analyzer routine: Norman Sandbox detection
+Detected privilege modification
+Detected process privilege elevation
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+File deleted itself
+FTP information stealer
+Mail information stealer
+Queried DNS: sightspeedrealvideo.biz
+Traces of Max++

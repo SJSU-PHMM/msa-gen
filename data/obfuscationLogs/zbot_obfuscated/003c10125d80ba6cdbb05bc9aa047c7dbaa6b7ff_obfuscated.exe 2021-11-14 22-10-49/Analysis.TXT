@@ -1,0 +1,27 @@
+
+Report generated with Buster Sandbox Analyzer 1.92 at 22:10:49 on 14/11/2021
+
+Detailed report of suspicious malware actions:
+
+Checked for debuggers
+Detected privilege modification
+Detected process privilege elevation
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+Queried DNS: edge.microsoft.com
+Queried DNS: fonts.googleapis.com
+Queried DNS: fonts.gstatic.com
+Queried DNS: googleads.g.doubleclick.net
+Queried DNS: i.ytimg.com
+Queried DNS: nav.smartscreen.microsoft.com
+Queried DNS: r.bing.com
+Queried DNS: r4---sn-n4v7sn7l.googlevideo.com
+Queried DNS: r4---sn-o097znze.googlevideo.com
+Queried DNS: smartscreen-prod.microsoft.com
+Queried DNS: static.doubleclick.net
+Queried DNS: suggestqueries-clients6.youtube.com
+Queried DNS: www.bing.com
+Queried DNS: www.google.com
+Queried DNS: www.gstatic.com
+Queried DNS: www.youtube.com
+Queried DNS: youtube.com
+Queried DNS: yt3.ggpht.com

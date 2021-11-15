@@ -1,0 +1,48 @@
+
+ Report generated with Buster Sandbox Analyzer 1.92 at 22:24:35 on 14/11/2021
+
+ [ General information ]
+   * Analysis duration: 00:03:00
+   * File name: C:\Users\User\Downloads\obfuscation\obfuscated\zbot\0aa5a32039d465ddb1a4133dfe7fd2905701512a_obfuscated.EXE
+
+ [ Changes to filesystem ]
+   * No changes
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{8e1bb712-0000-0000-0000-300300000000}
+          old value empty
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+   * Creates value "HWID=7B41454239303844422D343535412D343841462D423135392D3245304239304441414430447D" in key HKEY_CURRENT_USER\software\WinRAR
+
+ [ Network services ]
+   * Queries DNS "github.com".
+   * Queries DNS "github.githubassets.com".
+   * Queries DNS "nav.smartscreen.microsoft.com".
+   * Queries DNS "avatars.githubusercontent.com".
+   * Queries DNS "github-cloud.s3.amazonaws.com".
+   * Queries DNS "user-images.githubusercontent.com".
+   * Queries DNS "camo.githubusercontent.com".
+   * Queries DNS "collector.githubapp.com".
+   * Queries DNS "api.github.com".
+   * Queries DNS "alive.github.com".
+   * Queries DNS "az700632.vo.msecnd.net".
+   * Queries DNS "visualstudio-devdiv-c2s.msedge.net".
+   * Queries DNS "az667904.vo.msecnd.net".
+   * Queries DNS "github.atom.io".
+   * Queries DNS "github-atom-io-herokuapp-com.freetls.fastly.net".
+
+ [ Process/window/string information ]
+   * Gets user name information.
+   * Checks for debuggers.
+   * Enables privilege SeImpersonatePrivilege.
+   * Enables privilege SeTcbPrivilege.
+   * Enables privilege SeChangeNotifyPrivilege.
+   * Enables privilege SeCreateTokenPrivilege.
+   * Enables privilege SeBackupPrivilege.
+   * Enables privilege SeRestorePrivilege.
+   * Enables privilege SeIncreaseQuotaPrivilege.
+   * Enables privilege SeAssignPrimaryTokenPrivilege.
+   * Enables process privileges.
+   * Sleeps 30 seconds.

@@ -1,0 +1,11 @@
+
+Report generated with Buster Sandbox Analyzer 1.92 at 22:24:12 on 14/11/2021
+
+Detailed report of suspicious malware actions:
+
+Connected to WWW
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+Queried DNS: api.edgeoffer.microsoft.com
+Queried DNS: checkappexec.microsoft.com
+Queried DNS: config.edge.skype.com
+Queried DNS: www.bing.com

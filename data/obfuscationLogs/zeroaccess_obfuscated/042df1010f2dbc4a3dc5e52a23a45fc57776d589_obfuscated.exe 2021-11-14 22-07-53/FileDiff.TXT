@@ -1,0 +1,10 @@
+~ C:\Windows\system32\CatRoot2\dberr.txt
+~ C:\Windows\system32\CatRoot2\edb.chk
+? C:\Windows\system32\CatRoot2\edb.log
+= C:\Windows\system32\CatRoot2\edb0000E.log
+? C:\Windows\system32\CatRoot2\{127D0A1D-4EF2-11D1-8608-00C04FC295EE}\catdb
+? C:\Windows\system32\CatRoot2\{127D0A1D-4EF2-11D1-8608-00C04FC295EE}\catdb.jfm
+? C:\Windows\system32\CatRoot2\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\catdb
+? C:\Windows\system32\CatRoot2\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\catdb.jfm
++ C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_042df1010f2dbc4a_d29cbfb65d519dca1ce2ffc95f844bbadacc2f35_c7985537_bfa3c585-900d-46c1-84b7-5bdf344c4daa\Report.wer
++ C:\Users\User\AppData\Local\CrashDumps\042df1010f2dbc4a3dc5e52a23a45fc57776d589_obfuscated.EXE.4128.dmp

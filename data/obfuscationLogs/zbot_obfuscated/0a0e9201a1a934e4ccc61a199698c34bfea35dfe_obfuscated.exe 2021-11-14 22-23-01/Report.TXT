@@ -1,0 +1,88 @@
+
+ Report generated with Buster Sandbox Analyzer 1.92 at 22:23:01 on 14/11/2021
+
+ [ General information ]
+   * Analysis duration: 00:00:31
+   * File name: C:\Users\User\Downloads\obfuscation\obfuscated\zbot\0a0e9201a1a934e4ccc61a199698c34bfea35dfe_obfuscated.EXE
+
+ [ Changes to filesystem ]
+   * Deletes file C:\Users\User\Downloads\obfuscation\obfuscated\zbot\0a0e9201a1a934e4ccc61a199698c34bfea35dfe_obfuscated.EXE
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{8e1bb712-0000-0000-0000-300300000000}
+          old value empty
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+   * Creates value "HWID=7B46453844363135452D463232382D344237352D383645392D3332413138353238314437387D" in key HKEY_CURRENT_USER\software\WinRAR
+
+ [ Network services ]
+   * Queries DNS "sightspeedrealvideo.biz".
+
+ [ Process/window/string information ]
+   * Enables privilege SeImpersonatePrivilege.
+   * Enables privilege SeTcbPrivilege.
+   * Enables privilege SeChangeNotifyPrivilege.
+   * Enables privilege SeCreateTokenPrivilege.
+   * Enables privilege SeBackupPrivilege.
+   * Enables privilege SeRestorePrivilege.
+   * Enables privilege SeIncreaseQuotaPrivilege.
+   * Enables privilege SeAssignPrimaryTokenPrivilege.
+   * Creates process "null, "C:\Users\User\AppData\Local\Temp\abcd.bat"     "C:\Users\User\Downloads\obfuscation\obfuscated\zbot\0a0e9201a1a934e4ccc61a199698c34bfea35dfe_obfuscated.EXE"   , C:\Users\User\Downloads\obfuscation\obfuscated\zbot".
+   * Injects code into process "C:\Windows\SysWOW64\cmd.exe".
+   * Enables process privileges.
+   * Contains string FTP information stealer ("32BitFtp.ini")
+   * Contains string FTP information stealer ("3D-FTP")
+   * Contains string FTP information stealer ("ALFTP")
+   * Contains string FTP information stealer ("BitKinex")
+   * Contains string FTP information stealer ("BlazeFtp")
+   * Contains string FTP information stealer ("BPFTP")
+   * Contains string FTP information stealer ("Bullet Proof FTP")
+   * Contains string FTP information stealer ("BulletProof")
+   * Contains string FTP information stealer ("ClassicFTP")
+   * Contains string FTP information stealer ("COREFTP")
+   * Contains string FTP information stealer ("CuteFTP")
+   * Contains string FTP information stealer ("DeluxeFTP")
+   * Contains string FTP information stealer ("EasyFTP")
+   * Contains string FTP information stealer ("FFFTP")
+   * Contains string FTP information stealer ("FileZilla.xml")
+   * Contains string FTP information stealer ("fireFTPsites.dat")
+   * Contains string FTP information stealer ("FlashFXP")
+   * Contains string FTP information stealer ("FreshFTP")
+   * Contains string FTP information stealer ("Frigate3")
+   * Contains string FTP information stealer ("FTP Explorer")
+   * Contains string FTP information stealer ("FTPClient")
+   * Contains string FTP information stealer ("FTPGetter")
+   * Contains string FTP information stealer ("FTPInfo")
+   * Contains string FTP information stealer ("ftplist.txt")
+   * Contains string FTP information stealer ("FTPNow")
+   * Contains string FTP information stealer ("FTPRush")
+   * Contains string FTP information stealer ("ftpshell.fsi")
+   * Contains string FTP information stealer ("FTPVoyager.ftp")
+   * Contains string FTP information stealer ("GoFTP")
+   * Contains string FTP information stealer ("GPSoftware\Directory Opus")
+   * Contains string FTP information stealer ("Ipswitch\WS_FTP")
+   * Contains string FTP information stealer ("LeapFTP")
+   * Contains string FTP information stealer ("LinasFTP")
+   * Contains string FTP information stealer ("NovaFTP")
+   * Contains string FTP information stealer ("NppFTP.xml")
+   * Contains string FTP information stealer ("PuTTY\Sessions")
+   * Contains string FTP information stealer ("Robo-FTP")
+   * Contains string FTP information stealer ("sites.xml")
+   * Contains string FTP information stealer ("SmartFTP")
+   * Contains string FTP information stealer ("Software\Far*\Host")
+   * Contains string FTP information stealer ("Staff-FTP")
+   * Contains string FTP information stealer ("TurboFTP")
+   * Contains string FTP information stealer ("UltraFXP")
+   * Contains string FTP information stealer ("wcx_ftp.ini")
+   * Contains string FTP information stealer ("WinFTP")
+   * Contains string FTP information stealer ("WinZip\FTP")
+   * Contains string FTP information stealer ("wiseftpsrvs.ini")
+   * Contains string Mail information stealer ("account.cfg")
+   * Contains string Mail information stealer ("accounts.ini")
+   * Contains string Mail information stealer ("Mailbox.ini")
+   * Contains string Mail information stealer ("outlook account manager passwords")
+   * Contains string Mail information stealer ("PocoSystem.ini")
+   * Contains string Mail information stealer ("The Bat!\Users depot")
+   * Contains string Detected Anti-Malware Analyzer routine: Norman Sandbox detection ("CurrentUser")
+   * Sleeps 20 seconds.

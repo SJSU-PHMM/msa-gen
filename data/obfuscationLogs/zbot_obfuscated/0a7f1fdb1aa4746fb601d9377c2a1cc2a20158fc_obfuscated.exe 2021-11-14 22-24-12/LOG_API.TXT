@@ -1,0 +1,7 @@
+Executing: C:\Users\User\Downloads\obfuscation\obfuscated\zbot\0a7f1fdb1aa4746fb601d9377c2a1cc2a20158fc_obfuscated.EXE
+GetModuleHandle(ntdll) [c:\users\user\downloads\obfuscation\obfuscated\zbot\0a7f1fdb1aa4746fb601d9377c2a1cc2a20158fc_obfuscated.exe]
+QuerySystemInformation(SystemBasicInformation) [c:\users\user\downloads\obfuscation\obfuscated\zbot\0a7f1fdb1aa4746fb601d9377c2a1cc2a20158fc_obfuscated.exe]
+QuerySystemInformation(SystemProcessorInformation) [c:\users\user\downloads\obfuscation\obfuscated\zbot\0a7f1fdb1aa4746fb601d9377c2a1cc2a20158fc_obfuscated.exe]
+QueryProcessInformation(C:\Users\User\Downloads\obfuscation\obfuscated\zbot\0a7f1fdb1aa4746fb601d9377c2a1cc2a20158fc_obfuscated.EXE, ProcessImageInformation) [c:\users\user\downloads\obfuscation\obfuscated\zbot\0a7f1fdb1aa4746fb601d9377c2a1cc2a20158fc_obfuscated.exe]
+CreateThread() [c:\users\user\downloads\obfuscation\obfuscated\zbot\0a7f1fdb1aa4746fb601d9377c2a1cc2a20158fc_obfuscated.exe]
+ResumeThread(9960) [c:\users\user\downloads\obfuscation\obfuscated\zbot\0a7f1fdb1aa4746fb601d9377c2a1cc2a20158fc_obfuscated.exe]

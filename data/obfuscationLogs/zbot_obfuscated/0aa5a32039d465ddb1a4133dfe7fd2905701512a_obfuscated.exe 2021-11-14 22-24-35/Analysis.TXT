@@ -1,0 +1,26 @@
+
+Report generated with Buster Sandbox Analyzer 1.92 at 22:24:35 on 14/11/2021
+
+Detailed report of suspicious malware actions:
+
+Checked for debuggers
+Connected to WWW
+Detected privilege modification
+Detected process privilege elevation
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+Got user name information
+Queried DNS: alive.github.com
+Queried DNS: api.github.com
+Queried DNS: avatars.githubusercontent.com
+Queried DNS: az667904.vo.msecnd.net
+Queried DNS: az700632.vo.msecnd.net
+Queried DNS: camo.githubusercontent.com
+Queried DNS: collector.githubapp.com
+Queried DNS: github.atom.io
+Queried DNS: github.com
+Queried DNS: github.githubassets.com
+Queried DNS: github-atom-io-herokuapp-com.freetls.fastly.net
+Queried DNS: github-cloud.s3.amazonaws.com
+Queried DNS: nav.smartscreen.microsoft.com
+Queried DNS: user-images.githubusercontent.com
+Queried DNS: visualstudio-devdiv-c2s.msedge.net

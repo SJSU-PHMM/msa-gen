@@ -1,0 +1,34 @@
+
+ Report generated with Buster Sandbox Analyzer 1.92 at 22:13:50 on 14/11/2021
+
+ [ General information ]
+   * Analysis duration: 00:03:00
+   * File name: C:\Users\User\Downloads\obfuscation\obfuscated\zbot\00475573fe331e89916a27a9207f446bacfcf96a_obfuscated.EXE
+
+ [ Changes to filesystem ]
+   * No changes
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{8e1bb712-0000-0000-0000-300300000000}
+          old value empty
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+   * Creates value "HWID=7B37353033454641432D443742352D344145322D393733462D3034364334383038374532317D" in key HKEY_CURRENT_USER\software\WinRAR
+
+ [ Network services ]
+   * No changes
+
+ [ Process/window/string information ]
+   * Gets user name information.
+   * Checks for debuggers.
+   * Enables privilege SeImpersonatePrivilege.
+   * Enables privilege SeTcbPrivilege.
+   * Enables privilege SeChangeNotifyPrivilege.
+   * Enables privilege SeCreateTokenPrivilege.
+   * Enables privilege SeBackupPrivilege.
+   * Enables privilege SeRestorePrivilege.
+   * Enables privilege SeIncreaseQuotaPrivilege.
+   * Enables privilege SeAssignPrimaryTokenPrivilege.
+   * Enables process privileges.
+   * Sleeps 30 seconds.

@@ -1,0 +1,50 @@
+
+ Report generated with Buster Sandbox Analyzer 1.92 at 22:10:49 on 14/11/2021
+
+ [ General information ]
+   * Analysis duration: 00:03:00
+   * File name: C:\Users\User\Downloads\obfuscation\obfuscated\zbot\003c10125d80ba6cdbb05bc9aa047c7dbaa6b7ff_obfuscated.EXE
+
+ [ Changes to filesystem ]
+   * No changes
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{8e1bb712-0000-0000-0000-300300000000}
+          old value empty
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+   * Creates value "HWID=7B39323833323537372D313735342D343245412D423337442D3334454438373144314639397D" in key HKEY_CURRENT_USER\software\WinRAR
+
+ [ Network services ]
+   * Queries DNS "www.bing.com".
+   * Queries DNS "r.bing.com".
+   * Queries DNS "www.youtube.com".
+   * Queries DNS "nav.smartscreen.microsoft.com".
+   * Queries DNS "i.ytimg.com".
+   * Queries DNS "fonts.googleapis.com".
+   * Queries DNS "smartscreen-prod.microsoft.com".
+   * Queries DNS "fonts.gstatic.com".
+   * Queries DNS "googleads.g.doubleclick.net".
+   * Queries DNS "www.google.com".
+   * Queries DNS "yt3.ggpht.com".
+   * Queries DNS "edge.microsoft.com".
+   * Queries DNS "suggestqueries-clients6.youtube.com".
+   * Queries DNS "www.gstatic.com".
+   * Queries DNS "youtube.com".
+   * Queries DNS "static.doubleclick.net".
+   * Queries DNS "r4---sn-n4v7sn7l.googlevideo.com".
+   * Queries DNS "r4---sn-o097znze.googlevideo.com".
+
+ [ Process/window/string information ]
+   * Checks for debuggers.
+   * Enables privilege SeImpersonatePrivilege.
+   * Enables privilege SeTcbPrivilege.
+   * Enables privilege SeChangeNotifyPrivilege.
+   * Enables privilege SeCreateTokenPrivilege.
+   * Enables privilege SeBackupPrivilege.
+   * Enables privilege SeRestorePrivilege.
+   * Enables privilege SeIncreaseQuotaPrivilege.
+   * Enables privilege SeAssignPrimaryTokenPrivilege.
+   * Enables process privileges.
+   * Sleeps 30 seconds.
