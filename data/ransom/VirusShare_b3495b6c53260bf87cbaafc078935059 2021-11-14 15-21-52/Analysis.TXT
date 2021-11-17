@@ -1,0 +1,10 @@
+
+Report generated with Buster Sandbox Analyzer 1.91 at 15:21:52 on 14/11/2021
+
+Detailed report of suspicious malware actions:
+
+Detected keylogger functionality
+Disable Task Manager: user\current\software\microsoft\windows\currentversion\policies\system\disabletaskmgr = 00000001
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+Got input locale identifiers
+Traces of Max++

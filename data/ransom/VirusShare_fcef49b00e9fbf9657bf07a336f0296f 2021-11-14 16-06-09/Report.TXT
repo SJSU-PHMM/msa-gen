@@ -1,0 +1,34 @@
+
+ Report generated with Buster Sandbox Analyzer 1.91 at 16:06:09 on 14/11/2021
+
+ [ General information ]
+   * Analysis duration: 00:00:30
+   * File name: D:\Ransom\VirusShare_fcef49b00e9fbf9657bf07a336f0296f.EXE
+
+ [ Changes to filesystem ]
+   * Deletes file D:\Ransom\VirusShare_fcef49b00e9fbf9657bf07a336f0296f.EXE
+   * Creates hidden folder C:\Users\samod\AppData\Local\Temp
+   * Creates file (empty) C:\Users\samod\AppData\Local\Temp\snphost.exe
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{0c5d2a95-0000-0000-0080-000000000000}
+          old value empty
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{6da28fdf-b9f2-4900-8b93-8571e38a4334}
+          old value empty
+   * Creates value "Shell=C:\Users\samod\AppData\Local\Temp\snphost.exe" in key HKEY_CURRENT_USER\software\Microsoft\Windows NT\CurrentVersion\Winlogon
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+
+ [ Network services ]
+   * No changes
+
+ [ Process/window/string information ]
+   * Keylogger functionality.
+   * Gets input locale identifiers.
+   * Installs a hook procedure that monitors keystroke messages.
+   * Locks screen.
+   * Creates process "C:\Users\samod\AppData\Local\Temp\\snphost.exe, nnn12345, null".
+   * Injects code into process "C:\Users\samod\AppData\Local\Temp\snphost.exe".
+   * Creates process "null, C:\Users\samod\AppData\Local\Temp\snphost.exe, null".
+   * Sleeps 70 seconds.

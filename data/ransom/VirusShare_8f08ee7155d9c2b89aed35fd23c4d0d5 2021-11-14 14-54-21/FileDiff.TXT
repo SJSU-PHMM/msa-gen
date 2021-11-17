@@ -1,0 +1,2 @@
+~ C:\WINDOWS\System32\drivers\etc\hosts
++ C:\Users\samod\AppData\Local\Temp\bcktemp0212.tmp

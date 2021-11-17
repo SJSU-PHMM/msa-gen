@@ -1,0 +1,26 @@
+
+ Report generated with Buster Sandbox Analyzer 1.91 at 14:21:33 on 14/11/2021
+
+ [ General information ]
+   * Analysis duration: 00:00:07
+   * File name: d:\ransom\virusshare_5d4d5720c93384df82e0f73d7b5667f0.dll
+   * File executed by: C:\Windows\System32\rundll32.exe
+
+ [ Changes to filesystem ]
+   * No changes
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{0c5d2a95-0000-0000-0080-000000000000}
+          old value empty
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{6da28fdf-b9f2-4900-8b93-8571e38a4334}
+          old value empty
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+
+ [ Network services ]
+   * No changes
+
+ [ Process/window/string information ]
+   * Checks for debuggers.
+   * Enumerates running processes.

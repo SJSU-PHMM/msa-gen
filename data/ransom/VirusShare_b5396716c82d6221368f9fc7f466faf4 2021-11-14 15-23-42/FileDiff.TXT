@@ -1,0 +1,13 @@
+~ C:\WINDOWS\system32\CatRoot2\dberr.txt
+~ C:\WINDOWS\system32\CatRoot2\edb.chk
+? C:\WINDOWS\system32\CatRoot2\edb.log
+= C:\WINDOWS\system32\CatRoot2\edb00016.log
+? C:\WINDOWS\system32\CatRoot2\{127D0A1D-4EF2-11D1-8608-00C04FC295EE}\catdb
+? C:\WINDOWS\system32\CatRoot2\{127D0A1D-4EF2-11D1-8608-00C04FC295EE}\catdb.jfm
+? C:\WINDOWS\system32\CatRoot2\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\catdb
+? C:\WINDOWS\system32\CatRoot2\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\catdb.jfm
++ C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_VirusShare_b5396_cce189b02137ba3cafecdbacf697356a3ae8d7c_07cae675_a4a5152b-e3d8-430f-bdac-7b99aedaeec9\Report.wer
++ C:\Users\samod\AppData\Local\CrashDumps\VirusShare_b5396716c82d6221368f9fc7f466faf4.EXE.7636.dmp
+~ C:\Users\samod\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\57C8EDB95DF3F0AD4EE2DC2B8CFD4157
+~ C:\Users\samod\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\77EC63BDA74BD0D0E0426DC8F8008506
+~ C:\Users\samod\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData\FB0D848F74F70BB2EAA93746D24D9749

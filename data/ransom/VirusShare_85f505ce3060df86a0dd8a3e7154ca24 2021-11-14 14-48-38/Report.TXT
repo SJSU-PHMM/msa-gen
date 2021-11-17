@@ -1,0 +1,42 @@
+
+ Report generated with Buster Sandbox Analyzer 1.91 at 14:48:38 on 14/11/2021
+
+ [ General information ]
+   * Analysis duration: 00:00:30
+   * File name: D:\Ransom\VirusShare_85f505ce3060df86a0dd8a3e7154ca24.EXE
+
+ [ Changes to filesystem ]
+   * Creates hidden folder C:\Users\samod\AppData\Local\Temp
+   * Creates file (empty) C:\Users\samod\AppData\Local\Temp\6632046.bat
+   * Creates hidden folder C:\Users\samod\AppData\Roaming\jhds56ud56
+   * Creates file (empty) C:\Users\samod\AppData\Roaming\jhds56ud56\dr5j56iud56.exe
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Creates Registry key HKEY_CURRENT_USER\software\Microsoft\Visual Basic\6.0
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{0c5d2a95-0000-0000-0080-000000000000}
+          old value empty
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{6da28fdf-b9f2-4900-8b93-8571e38a4334}
+          old value empty
+   * Creates value "srt6u56us6hty=C:\Users\samod\AppData\Roaming\jhds56ud56\dr5j56iud56.exe" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Run
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+   * Creates value "VirusShare_85f505ce3060df86a0dd8a3e7154ca24.EXE.FriendlyAppName=usci gelano urta reali" in key HKEY_CURRENT_USER\software\classes\Local Settings\Software\Microsoft\Windows\Shell\MuiCache\D:\Ransom
+   * Creates value "VirusShare_85f505ce3060df86a0dd8a3e7154ca24.EXE.ApplicationCompany=lande fuma" in key HKEY_CURRENT_USER\software\classes\Local Settings\Software\Microsoft\Windows\Shell\MuiCache\D:\Ransom
+   * Creates value "dr5j56iud56.exe.FriendlyAppName=usci gelano urta reali" in key HKEY_CURRENT_USER\software\classes\Local Settings\Software\Microsoft\Windows\Shell\MuiCache\C:\Sandbox\samod\DefaultBox\user\current\AppData\Roaming\jhds56ud56
+   * Creates value "dr5j56iud56.exe.ApplicationCompany=lande fuma" in key HKEY_CURRENT_USER\software\classes\Local Settings\Software\Microsoft\Windows\Shell\MuiCache\C:\Sandbox\samod\DefaultBox\user\current\AppData\Roaming\jhds56ud56
+
+ [ Network services ]
+   * No changes
+
+ [ Process/window/string information ]
+   * Gets system default language ID.
+   * Creates process "null, "C:\Users\samod\AppData\Local\Temp\6632046.bat" , D:\Ransom".
+   * Injects code into process "C:\Windows\SysWOW64\cmd.exe".
+   * Opens a service named "PcaSvc".
+   * Starts a service.
+   * Creates process "C:\WINDOWS\system32\reg.exe, REG  ADD "HKCU\Software\Microsoft\Windows\CurrentVersion\Run" /v "srt6u56us6hty" /t REG_SZ /d "C:\Users\samod\AppData\Roaming\jhds56ud56\dr5j56iud56.exe" /f, D:\Ransom".
+   * Injects code into process "C:\Windows\SysWOW64\reg.exe".
+   * Creates process "C:\Users\samod\AppData\Roaming\jhds56ud56\dr5j56iud56.exe, "C:\Users\samod\AppData\Roaming\jhds56ud56\dr5j56iud56.exe" , D:\Ransom".
+   * Injects code into process "C:\Users\samod\AppData\Roaming\jhds56ud56\dr5j56iud56.exe".
+   * Sleeps 20 seconds.

@@ -1,0 +1,14 @@
+
+Report generated with Buster Sandbox Analyzer 1.91 at 14:45:36 on 14/11/2021
+
+Detailed report of suspicious malware actions:
+
+Code injection in process: C:\Windows\SysWOW64\taskkill.exe
+Created process: null, taskkill /F /IM taskmgr.exe, null
+Detected keylogger functionality
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+Got input locale identifiers
+Installs a hook procedure that monitors keystroke messages
+Installs a hook procedure that monitors mouse messages
+Modified screensaver status
+Traces of Max++

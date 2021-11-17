@@ -1,0 +1,37 @@
+
+ Report generated with Buster Sandbox Analyzer 1.91 at 16:02:54 on 14/11/2021
+
+ [ General information ]
+   * Analysis duration: 00:00:30
+   * File name: D:\Ransom\VirusShare_f602e4c27e7fbeb6eb9fce97da06c24d.EXE
+
+ [ Changes to filesystem ]
+   * No changes
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{0c5d2a95-0000-0000-0080-000000000000}
+          old value empty
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{6da28fdf-b9f2-4900-8b93-8571e38a4334}
+          old value empty
+   * Creates value "Shell=D:\Ransom\VirusShare_f602e4c27e7fbeb6eb9fce97da06c24d.EXE" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Run
+   * Creates value "Shell=D:\Ransom\VirusShare_f602e4c27e7fbeb6eb9fce97da06c24d.EXE" in key HKEY_CURRENT_USER\software\Microsoft\Windows NT\CurrentVersion\Winlogon
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+   * Creates value "taskkill.exe.FriendlyAppName=Terminates Processes" in key HKEY_CURRENT_USER\software\classes\Local Settings\Software\Microsoft\Windows\Shell\MuiCache\C:\WINDOWS\SysWOW64
+   * Creates value "taskkill.exe.ApplicationCompany=Microsoft Corporation" in key HKEY_CURRENT_USER\software\classes\Local Settings\Software\Microsoft\Windows\Shell\MuiCache\C:\WINDOWS\SysWOW64
+
+ [ Network services ]
+   * No changes
+
+ [ Process/window/string information ]
+   * Keylogger functionality.
+   * Gets input locale identifiers.
+   * Locks screen.
+   * Creates process "null, taskkill /F /IM explorer.exe, null".
+   * Injects code into process "C:\Windows\SysWOW64\taskkill.exe".
+   * Enables privilege SeDebugPrivilege.
+   * Terminates process "C:\Windows\explorer.exe".
+   * Enables process privileges.
+   * Contains string Traces of AutoStart registry key ("Software\Microsoft\Windows NT\CurrentVersion\Winlogon")
+   * Contains string Traces of AutoStart registry key ("Software\Microsoft\Windows\CurrentVersion\Run")

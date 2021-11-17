@@ -1,0 +1,31 @@
+
+Report generated with Buster Sandbox Analyzer 1.91 at 15:10:51 on 14/11/2021
+
+Detailed report of suspicious malware actions:
+
+Created process: null, D:\Ransom\VirusShare_a49e122b7a5ca135d7a259e24ceeafb6.EXE, null
+Defined file type created: C:\Users\samod\AppData\Roaming\34ayhze5uss5.exe
+Defined file type created: D:\Ransom\dwlGina3.dll
+Defined registry AutoStart location created or modified: machine\software\WOW6432Node\Microsoft\Windows\CurrentVersion\Run\UPuaZWsHqCbSIKP = C:\Users\samod\AppData\Roaming\34ayhze5uss5.exe
+Defined registry AutoStart location created or modified: user\current\software\Microsoft\Windows NT\CurrentVersion\Winlogon\Shell = C:\Users\samod\AppData\Roaming\34ayhze5uss5.exe
+Defined registry AutoStart location created or modified: user\current\software\Microsoft\Windows\CurrentVersion\Run\UPuaZWsHqCbSIKP = C:\Users\samod\AppData\Roaming\34ayhze5uss5.exe
+Deleted activity traces
+Detected keylogger functionality
+Disable registry tools: user\current\software\microsoft\windows\currentversion\policies\system\disableregistrytools = 00000001
+Disable Task Manager: user\current\software\microsoft\windows\currentversion\policies\system\disabletaskmgr = 1
+Enumerated running processes
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+Got computer name
+Got input locale identifiers
+Got system default language ID
+Hid folder from user: C:\Users\samod\AppData\Local\CrashDumps
+Hid folder from user: C:\Users\samod\AppData\Roaming
+IE settings change: user\current\software\microsoft\windows\currentversion\internet settings\zones\0\1400 = 0
+IE settings change: user\current\software\microsoft\windows\currentversion\internet settings\zones\1\1400 = 0
+IE settings change: user\current\software\microsoft\windows\currentversion\internet settings\zones\3\1400 = 0
+Installs a hook procedure that monitors keystroke messages
+Installs a hook procedure that monitors mouse messages
+Internet connection: Connects to "www.leckerfrischekacke.com" on port 80
+Opened a service named: CryptSvc
+Opened a service named: WinHttpAutoProxySvc
+Traces of Max++

@@ -1,0 +1,42 @@
+
+ Report generated with Buster Sandbox Analyzer 1.91 at 16:08:11 on 14/11/2021
+
+ [ General information ]
+   * Analysis duration: 00:00:15
+   * File name: D:\Ransom\VirusShare_fee2096b0db10611943752fb1f739edf.EXE
+
+ [ Changes to filesystem ]
+   * Modifies file C:\WINDOWS\system32\CatRoot2\dberr.txt
+   * Modifies file C:\WINDOWS\system32\CatRoot2\edb.chk
+   * Creates file C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_VirusShare_fee20_1da3b22412dbcb7a2c923c3c8b4d7e68d4c320_0a7c856f_9c57385e-17ab-4df1-ad70-5b065b264acf\Report.wer
+   * Creates hidden folder C:\Users\samod\AppData\Local\CrashDumps
+   * Creates file (empty) C:\Users\samod\AppData\Local\CrashDumps\VirusShare_fee2096b0db10611943752fb1f739edf.EXE.6496.dmp
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Creates value "ClockTimeSeconds=F8A4916100000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\IdentityCRL\ClockData
+   * Creates value "TickCount=3B13AE0000000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\IdentityCRL\ClockData
+   * Empties value "AmiHivePermissionsCorrect" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\AppCompatFlags
+         old value "AmiHivePermissionsCorrect=00000001"
+   * Empties value "AmiHiveOwnerCorrect" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\AppCompatFlags
+         old value "AmiHiveOwnerCorrect=00000001"
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{0c5d2a95-0000-0000-0080-000000000000}
+          old value empty
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{6da28fdf-b9f2-4900-8b93-8571e38a4334}
+          old value empty
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+
+ [ Network services ]
+   * No changes
+
+ [ Process/window/string information ]
+   * Checks for debuggers.
+   * Injects code into process "C:\Windows\SysWOW64\WerFault.exe".
+   * Enumerates running processes.
+   * Enables privilege SeRestorePrivilege.
+   * Enables privilege SeBackupPrivilege.
+   * Opens a service named "WinHttpAutoProxySvc".
+   * Opens a service named "CryptSvc".
+   * Enables process privileges.
+   * Sleeps 30 seconds.

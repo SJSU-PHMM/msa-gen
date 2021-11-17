@@ -1,0 +1,262 @@
+
+ Report generated with Buster Sandbox Analyzer 1.91 at 15:31:48 on 14/11/2021
+
+ [ General information ]
+   * Analysis duration: 00:00:30
+   * File name: D:\Ransom\VirusShare_c409f208c587e7caea5bc4958ae8175a.EXE
+
+ [ Changes to filesystem ]
+   * Creates file C:\WINDOWS\Sound.bat
+   * Creates file (hidden) C:\WINDOWS\Sound.exe
+   * Creates file C:\WINDOWS\SysWOW64\mdsdba.dll
+   * Deletes file C:\WINDOWS\SysWOW64\Taskmgr.exe
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Creates value "(Default)=Driver" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\Ahcache.sys
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\AppInfo
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\AppMgmt
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\AudioEndpointBuilder
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\AudioSrv
+   * Creates value "(Default)=Driver Group" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\Base
+   * Creates value "(Default)=Driver" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\BasicDisplay.sys
+   * Creates value "(Default)=Driver" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\BasicRender.sys
+   * Creates value "(Default)=Driver Group" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\Boot Bus Extender
+   * Creates value "(Default)=Driver Group" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\Boot file system
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\BrokerInfrastructure
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\CBDHSvc
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\CoreMessagingRegistrar
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\CryptSvc
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\DcomLaunch
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\DeviceInstall
+   * Creates value "(Default)=Driver" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\dxgkrnl.sys
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\EFS
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\EventLog
+   * Creates value "(Default)=Driver Group" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\File system
+   * Creates value "(Default)=Driver Group" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\Filter
+   * Creates value "(Default)=Driver" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\FsDepends.sys
+   * Creates value "(Default)=Driver" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\HdAudAddService.Sys
+   * Creates value "(Default)=Driver" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\HdAudBus.Sys
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\HelpSvc
+   * Creates value "(Default)=Driver" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\iai2c.sys
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\KeyIso
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\LSM
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\Netlogon
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\NgcCtnrSvc
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\NgcSvc
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\NTDS
+   * Creates value "(Default)=Driver Group" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\PCI Configuration
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\PlugPlay
+   * Creates value "(Default)=Driver Group" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\PNP Filter
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\Power
+   * Creates value "(Default)=Driver Group" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\Primary disk
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\ProfSvc
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\RpcEptMapper
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\RpcSs
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\sacsvr
+   * Creates value "(Default)=Driver Group" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\SCSI Class
+   * Creates value "(Default)=Driver" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\SerCx2.sys
+   * Creates value "(Default)=Driver" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\sermouse.sys
+   * Creates value "(Default)=Driver" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\SpbCx.sys
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\StateRepository
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\SWPRV
+   * Creates value "(Default)=Driver Group" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\System Bus Extender
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\SystemEventsBroker
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\TabletInputService
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\TBS
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\TrustedInstaller
+   * Creates value "(Default)=Driver" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\uefi.sys
+   * Creates value "(Default)=Driver" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\usbaudio.sys
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\UserManager
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\VDS
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\vmms
+   * Creates value "(Default)=Driver" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\volmgr.sys
+   * Creates value "(Default)=Driver" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\volmgrx.sys
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\WinDefend
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\WinMgmt
+   * Creates value "(Default)=Driver" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\WudfPf
+   * Creates value "(Default)=Driver" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\WudfRd
+   * Creates value "(Default)=Universal Serial Bus controllers" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\{36FC9E60-C465-11CF-8056-444553540000}
+   * Creates value "(Default)=CD-ROM Drive" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\{4D36E965-E325-11CE-BFC1-08002BE10318}
+   * Creates value "(Default)=DiskDrive" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\{4D36E967-E325-11CE-BFC1-08002BE10318}
+   * Creates value "(Default)=Standard floppy disk controller" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\{4D36E969-E325-11CE-BFC1-08002BE10318}
+   * Creates value "(Default)=Hdc" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\{4D36E96A-E325-11CE-BFC1-08002BE10318}
+   * Creates value "(Default)=Keyboard" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\{4D36E96B-E325-11CE-BFC1-08002BE10318}
+   * Creates value "(Default)=Media" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\{4D36E96C-E325-11CE-BFC1-08002BE10318}
+   * Creates value "SafeBootDrivers=00000001" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\{4D36E96C-E325-11CE-BFC1-08002BE10318}
+   * Creates value "(Default)=Mouse" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\{4D36E96F-E325-11CE-BFC1-08002BE10318}
+   * Creates value "(Default)=PCMCIA Adapters" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\{4D36E977-E325-11CE-BFC1-08002BE10318}
+   * Creates value "(Default)=SCSIAdapter" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\{4D36E97B-E325-11CE-BFC1-08002BE10318}
+   * Creates value "(Default)=System" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\{4D36E97D-E325-11CE-BFC1-08002BE10318}
+   * Creates value "(Default)=Floppy disk drive" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\{4D36E980-E325-11CE-BFC1-08002BE10318}
+   * Creates value "(Default)=Volume shadow copy" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\{533C5B84-EC70-11D2-9505-00C04F79DEAF}
+   * Creates value "(Default)=IEEE 1394 Bus host controllers" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\{6BDD1FC1-810F-11D0-BEC7-08002BE2092F}
+   * Creates value "(Default)=Volume" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\{71A27CDD-812A-11D0-BEC7-08002BE2092F}
+   * Creates value "(Default)=Human Interface Devices" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}
+   * Creates value "(Default)=Enhanced Storage Devices" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\{9DA2B80F-F89F-4A49-A5C2-511B085B9E8A}
+   * Creates value "(Default)=SDA Standard Compliant SD Host Controller" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\{A0A588A4-C46F-4B37-B7EA-C82FE89870C6}
+   * Creates value "(Default)=SBP2 IEEE 1394 Devices" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\{D48179BE-EC20-11D1-B6B8-00C04FA372A7}
+   * Creates value "(Default)=SecurityDevices" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\{D94EE5D8-D189-4994-83D2-F68D7D41B0E6}
+   * Creates value "(Default)=Firmware" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\M\{F2E7DD72-6468-4E36-B6F1-6488F42C1B52}
+   * Deletes Registry key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\Minimal
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\AFD
+   * Creates value "(Default)=Driver" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\Ahcache.sys
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\AppInfo
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\AppMgmt
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\AudioEndpointBuilder
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\AudioSrv
+   * Creates value "(Default)=Driver Group" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\Base
+   * Creates value "(Default)=Driver" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\BasicDisplay.sys
+   * Creates value "(Default)=Driver" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\BasicRender.sys
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\BFE
+   * Creates value "(Default)=Driver Group" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\Boot Bus Extender
+   * Creates value "(Default)=Driver Group" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\Boot file system
+   * Creates value "(Default)=Driver" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\bowser
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\BrokerInfrastructure
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\Browser
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\CBDHSvc
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\CoreMessagingRegistrar
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\CryptSvc
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\DcomLaunch
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\DeviceInstall
+   * Creates value "(Default)=Driver" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\dfsc
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\Dhcp
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\DnsCache
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\Dot3Svc
+   * Creates value "(Default)=Driver" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\dxgkrnl.sys
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\Eaphost
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\EFS
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\EventLog
+   * Creates value "(Default)=Driver Group" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\File system
+   * Creates value "(Default)=Driver Group" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\Filter
+   * Creates value "(Default)=Driver" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\FsDepends.sys
+   * Creates value "(Default)=Driver" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\HdAudAddService.Sys
+   * Creates value "(Default)=Driver" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\HdAudBus.Sys
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\HelpSvc
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\IKEEXT
+   * Creates value "(Default)=Driver" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\ipnat.sys
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\KeyIso
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\LanmanServer
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\LanmanWorkstation
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\LmHosts
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\LSM
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\Messenger
+   * Creates value "(Default)=Driver" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\MPSDrv
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\MPSSvc
+   * Creates value "(Default)=Driver" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\mrxsmb
+   * Creates value "(Default)=Driver" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\mrxsmb10
+   * Creates value "(Default)=Driver" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\mrxsmb20
+   * Creates value "(Default)=Driver" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\MsQuic
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\NativeWifiP
+   * Creates value "(Default)=Driver Group" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\NDIS
+   * Creates value "(Default)=Driver Group" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\NDIS Wrapper
+   * Creates value "(Default)=Driver" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\ndiscap
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\Ndisuio
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\NetBIOS
+   * Creates value "(Default)=Driver Group" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\NetBIOSGroup
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\NetBT
+   * Creates value "(Default)=Driver Group" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\NetDDEGroup
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\Netlogon
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\NetMan
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\netprofm
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\NetSetupSvc
+   * Creates value "(Default)=Driver Group" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\Network
+   * Creates value "(Default)=Driver Group" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\NetworkProvider
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\NgcCtnrSvc
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\NgcSvc
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\NlaSvc
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\Nsi
+   * Creates value "(Default)=Driver" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\nsiproxy.sys
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\NTDS
+   * Creates value "(Default)=Driver Group" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\PCI Configuration
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\PlugPlay
+   * Creates value "(Default)=Driver Group" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\PNP Filter
+   * Creates value "(Default)=Driver Group" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\PNP_TDI
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\PolicyAgent
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\Power
+   * Creates value "(Default)=Driver Group" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\Primary disk
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\ProfSvc
+   * Creates value "(Default)=Driver" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\rdbss
+   * Creates value "(Default)=Driver" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\rdpencdd.sys
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\rdsessmgr
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\RpcEptMapper
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\RpcSs
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\sacsvr
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\SCardSvr
+   * Creates value "(Default)=Driver Group" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\SCSI Class
+   * Creates value "(Default)=Driver" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\SerCx2.sys
+   * Creates value "(Default)=Driver" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\sermouse.sys
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\SharedAccess
+   * Creates value "(Default)=Driver" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\SmartcardSimulator
+   * Creates value "(Default)=Driver" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\SpbCx.sys
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\StateRepository
+   * Creates value "(Default)=Driver Group" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\Streams Drivers
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\SWPRV
+   * Creates value "(Default)=Driver Group" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\System Bus Extender
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\SystemEventsBroker
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\TabletInputService
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\TBS
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\Tcpip
+   * Creates value "(Default)=Driver Group" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\TDI
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\TrustedInstaller
+   * Creates value "(Default)=Driver" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\uefi.sys
+   * Creates value "(Default)=Driver" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\usbaudio.sys
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\UserManager
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\VaultSvc
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\VDS
+   * Creates value "(Default)=Driver" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\VirtualSmartcardReader
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\vmms
+   * Creates value "(Default)=Driver" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\volmgr.sys
+   * Creates value "(Default)=Driver" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\volmgrx.sys
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\Wcmsvc
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\WinDefend
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\WinMgmt
+   * Creates value "(Default)=Service" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\Wlansvc
+   * Creates value "(Default)=Driver" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\WudfPf
+   * Creates value "(Default)=Driver" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\WudfRd
+   * Creates value "(Default)=Driver" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\WudfUsbccidDriver
+   * Creates value "(Default)=Universal Serial Bus controllers" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\{36FC9E60-C465-11CF-8056-444553540000}
+   * Creates value "(Default)=CD-ROM Drive" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\{4D36E965-E325-11CE-BFC1-08002BE10318}
+   * Creates value "(Default)=DiskDrive" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\{4D36E967-E325-11CE-BFC1-08002BE10318}
+   * Creates value "(Default)=Standard floppy disk controller" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\{4D36E969-E325-11CE-BFC1-08002BE10318}
+   * Creates value "(Default)=Hdc" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\{4D36E96A-E325-11CE-BFC1-08002BE10318}
+   * Creates value "(Default)=Keyboard" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\{4D36E96B-E325-11CE-BFC1-08002BE10318}
+   * Creates value "(Default)=Media" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\{4D36E96C-E325-11CE-BFC1-08002BE10318}
+   * Creates value "SafeBootDrivers=00000001" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\{4D36E96C-E325-11CE-BFC1-08002BE10318}
+   * Creates value "(Default)=Mouse" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\{4D36E96F-E325-11CE-BFC1-08002BE10318}
+   * Creates value "(Default)=Net" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\{4D36E972-E325-11CE-BFC1-08002BE10318}
+   * Creates value "(Default)=NetClient" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\{4D36E973-E325-11CE-BFC1-08002BE10318}
+   * Creates value "(Default)=NetService" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\{4D36E974-E325-11CE-BFC1-08002BE10318}
+   * Creates value "(Default)=NetTrans" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\{4D36E975-E325-11CE-BFC1-08002BE10318}
+   * Creates value "(Default)=PCMCIA Adapters" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\{4D36E977-E325-11CE-BFC1-08002BE10318}
+   * Creates value "(Default)=SCSIAdapter" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\{4D36E97B-E325-11CE-BFC1-08002BE10318}
+   * Creates value "(Default)=System" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\{4D36E97D-E325-11CE-BFC1-08002BE10318}
+   * Creates value "(Default)=Floppy disk drive" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\{4D36E980-E325-11CE-BFC1-08002BE10318}
+   * Creates value "(Default)=Smart card readers" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\{50DD5230-BA8A-11D1-BF5D-0000F805F530}
+   * Creates value "(Default)=Volume shadow copy" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\{533C5B84-EC70-11D2-9505-00C04F79DEAF}
+   * Creates value "(Default)=IEEE 1394 Bus host controllers" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\{6BDD1FC1-810F-11D0-BEC7-08002BE2092F}
+   * Creates value "(Default)=Volume" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\{71A27CDD-812A-11D0-BEC7-08002BE2092F}
+   * Creates value "(Default)=Human Interface Devices" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\{745A17A0-74D3-11D0-B6FE-00A0C90F57DA}
+   * Creates value "(Default)=Enhanced Storage Devices" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\{9DA2B80F-F89F-4A49-A5C2-511B085B9E8A}
+   * Creates value "(Default)=SDA Standard Compliant SD Host Controller" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\{A0A588A4-C46F-4B37-B7EA-C82FE89870C6}
+   * Creates value "(Default)=SBP2 IEEE 1394 Devices" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\{D48179BE-EC20-11D1-B6B8-00C04FA372A7}
+   * Creates value "(Default)=SecurityDevices" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\{D94EE5D8-D189-4994-83D2-F68D7D41B0E6}
+   * Creates value "(Default)=Firmware" in key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\N\{F2E7DD72-6468-4E36-B6F1-6488F42C1B52}
+   * Deletes Registry key HKEY_LOCAL_MACHINE\System\CurrentControlSet\Control\SafeBoot\Network
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{0c5d2a95-0000-0000-0080-000000000000}
+          old value empty
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{6da28fdf-b9f2-4900-8b93-8571e38a4334}
+          old value empty
+   * Creates value "Sound=C:\WINDOWS\Sound.bat" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Run
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+
+ [ Network services ]
+   * No changes
+
+ [ Process/window/string information ]
+   * Keylogger functionality.
+   * Gets input locale identifiers.
+   * Locks screen.
+   * Contains string Traces of AutoStart registry key ("Software\Microsoft\Windows\CurrentVersion\Run")
+   * Contains string Checked for Task Manager software presence ("TASKMGR.EXE")

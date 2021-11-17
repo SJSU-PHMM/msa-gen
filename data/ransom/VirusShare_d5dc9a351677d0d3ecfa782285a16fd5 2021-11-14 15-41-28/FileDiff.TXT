@@ -1,0 +1,2 @@
+- D:\Ransom\VirusShare_d5dc9a351677d0d3ecfa782285a16fd5.EXE
++ C:\Users\samod\AppData\Roaming\Microsoft\loadhst.exe

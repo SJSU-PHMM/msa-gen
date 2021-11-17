@@ -1,0 +1,2 @@
++ C:\Windows\SysWOW64\rundll32.exe.tmp
++ D:\Ransom\VirusShare_f2c4d7fd57aec565910f7bf03b8ed8af.EXE.tmp

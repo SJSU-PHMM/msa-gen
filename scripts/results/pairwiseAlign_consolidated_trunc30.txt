@@ -1,0 +1,270 @@
+
+0,1
+FGGDKNFFBBH-BFFDNEXB-----BBB9DHH--BB------GB-
+||||||    | |      |     |||      ||      |  
+FGGDKN----HWB------B80DDGBBB----VVBBHDEJNFG-G
+  Score=0
+
+0,2
+FGGDKNFFBB-HBF--FDNEXBBBB9DHHBBGB---------
+||||||   | |||  ||    |||    || |         
+FGGDKN---BDHBFBBFD----BBB----BB-BDDC*TFV4D
+  Score=60
+
+0,3
+FGGDKNFFBBHBFFDNEXB-B-BB9D-HHB-B----G----B
+||||||    ||      | | ||   ||| |    |    |
+FGGDKN----HB------BMBGBB--FHHBFBBBDFGDDD2B
+  Score=60
+
+0,4
+FGGDKNFFBBHBFFDNEXBBBB9DHHBBGB--------------
+||||||  || |      ||||    || |              
+FGGDKN--BB-B------BBBB----BB-BBBBFFHHGDD***U
+  Score=20
+
+0,5
+FGGDKNFFBBHBFFDN-EXBBBB9DH-HBBG--B--------
+||||||     |  |  | ||||||  | |   |        
+FGGDKN-----B--D-BE-BBBB9D-FH-B-FDBDDTF4DI4
+  Score=60
+
+0,6
+FGGDKNFF-BBHBFFDNEXBB------BB9DHHB--BGB-----
+||||||   || |      ||      ||    |  | |     
+FGGDKN--PBB-B------BB8C0DDGBB----BVVB-BHDEJN
+  Score=20
+
+0,7
+FGGDKNFFBBHBFFDNEXBBBB9DHH-BBGB-------------
+||||||  || |      ||||     || |             
+FGGDKN--BB-B------BBBB----3BB-BBLBVVHFFDCEJB
+  Score=20
+
+0,8
+FGGDKNFF-BBHBFFDNEXBB-BB9D-HHB-------BG-B
+|||||| | || |      || ||   |||       |  |
+FGGDKN-FHBB-B------BB*BB--BHHBCCC1F*HB-PB
+  Score=80
+
+0,9
+FGGDKNFFBBHBFFDNEXBB-B---B9DHH-BB--GB-----
+||||||   | | |     | |   |  || ||  |      
+FGGDKN---B-B-F-----BFBFFHB--HHFBBDFG-DDD26
+  Score=45
+
+1,2
+FGGDKN--HWB-B80D--DGBBBVVBBH-DEJN----FGG---
+||||||  | | |     | |||  ||  |       |     
+FGGDKNBDH-BFB---BFD-BBB--BB-BD---DC*TF--V4D
+  Score=40
+
+1,3
+FGGDKNHWBB80DD--GBB---BVV-BBH-DEJNFGG-----
+||||||| ||      |||   |   ||  |   | |     
+FGGDKNH-BB----MBGBBFHHB--FBB-BD---F-GDDD2B
+  Score=60
+
+1,4
+FGGDKNHWBB80DDGBBBVVBBHDEJN------FG---G------
+||||||  ||     |||  ||           |    |      
+FGGDKN--BB-----BBB--BB-----BBBBBBF-FHHGDD***U
+  Score=0
+
+1,5
+FGGDKNHWBB80DDGB-BBVVBB---H--DEJN----FGG----
+||||||   |   | | ||  ||   |  |       |      
+FGGDKN---B---D-BEBB--BB9DFHBFD---BDDTF--4DI4
+  Score=20
+
+1,6
+FGGDKNHW-BB---8-0DDGBBBVVBBHDEJNFGG
+||||||   ||   | ||||||||||||||||   
+FGGDKN--PBBBBB8C0DDGBBBVVBBHDEJN---
+  Score=200
+
+1,7
+FGGDKNHWBB80DDGBBBVVBB---------H--D-EJNFGG-
+||||||  ||     |||  ||         |  | ||     
+FGGDKN--BB-----BBB--BB3BBBBLBVVHFFDCEJ----B
+  Score=40
+
+1,8
+FGGDKN-HWBB80DDGBBBVV-BB-HDEJN------FGG-----
+|||||| | ||     |||   || |          |       
+FGGDKNFH-BB-----BBB--*BBBH----HBCCC1F--*HBPB
+  Score=20
+
+1,9
+FGGDKNHWBB80DDG-B-B---BVV---BBHDEJNFGG-----
+||||||  ||      | |   |     || |   | |     
+FGGDKN--BB-----FBFBFFHB--HHFBB-D---F-GDDD26
+  Score=25
+
+2,3
+FGGDKNBDHBFB-BFD-BB---B-BBBDDC*TFV4-D----
+||||||  || | |   ||   | ||| |   |   |    
+FGGDKN--HB-BMB--GBBFHHBFBBB-D---F--GDDD2B
+  Score=80
+
+2,4
+FGGDKNBDHBFBBFDBBBBBB--------DDC*TFV4D---
+|||||||  | ||  ||||||        || |        
+FGGDKNB--B-BB--BBBBBBBBBFFHHGDD-*-----**U
+  Score=80
+
+2,5
+FGGDKNBDHBFBBFD-BBBB----B--BDDC*TFV4D--
+||||||||    |   ||||    |  |||  || ||  
+FGGDKNBD----B--EBBBB9DFHBFDBDD--TF-4DI4
+  Score=120
+
+2,6
+FGGDKN-BDHBFBBFDB------BBB--BBDDC*TFV4-D---
+|||||| |  | ||  |      |||  ||         |   
+FGGDKNPB--B-BB--B8C0DDGBBBVVBB--------HDEJN
+  Score=40
+
+2,7
+FGGDKNBDHBFBBFDBBB-BBBDDC*TF---V4----D----
+|||||||  | ||  ||| |||         |     |    
+FGGDKNB--B-BB--BBB3BBB------BLBV-VHFFDCEJB
+  Score=60
+
+2,8
+FGGDKNBD-HBFBBFDBB-BBB--BDDC*T---FV4D-----
+||||||   || ||  || |||  |  |     |        
+FGGDKN--FHB-BB--BB*BBBHHB--C--CC1F---*HBPB
+  Score=60
+
+2,9
+FGGDKNBDHBFBBFDBBB---B---BBDDC*TFV4-D----
+|||||||  || ||   |   |   || |   |   |    
+FGGDKNB--BF-BF---BFFHBHHFBB-D---F--GDDD26
+  Score=65
+
+3,4
+FGGDKNHBBMBGBBFHHBFBBBD----F---GDDD2B----
+|||||| || | ||   | |||     |   | ||      
+FGGDKN-BB-B-BB---B-BBB-BBBBFFHHG-DD--***U
+  Score=80
+
+3,5
+FGGDKNHB-BM-BGBB---FHHBFBBBDFG-DD---D2B--
+|||||| | |  | ||   | |||   |   ||   |    
+FGGDKN-BDB-EB-BBB9DF-HBF---D--BDDTF4D--I4
+  Score=80
+
+3,6
+FGGDKNH-BBMBGBBFHH------BFBB--BDFGDDD2B-----
+||||||  || | ||         | ||  |       |     
+FGGDKN-PBB-B-BB---8C0DDGB-BBVVB-------BHDEJN
+  Score=20
+
+3,7
+FGGDKNHBBMBGBBFHHBFB-BBD-------FGDD-D2---B
+|||||| || | ||   | | ||        |    |    |
+FGGDKN-BB-B-BB---B-B3BB-BBLBVVHF---FD-CEJB
+  Score=60
+
+3,8
+FGGDKN-HBBMBGBBFHH-BFBB--BD----FGDDD2--B--
+|||||| ||| | ||    | ||  |     |       |  
+FGGDKNFHBB-B-BB---*B-BBHHB-CCC1F-----*HBPB
+  Score=60
+
+3,9
+FGGDKNHBBMBG-B-BFH-HB--FBBBDFGDDD2B-
+||||||  | |  | ||  ||  | |||||||||  
+FGGDKN--B-B-FBFBF-FHBHHF-BBDFGDDD2-6
+  Score=165
+
+4,5
+FGGDKNBBBBBBBB-B-BBBBF--FHHG--D-D***U-------
+||||||       | | ||||   | |   | |           
+FGGDKN-------BDBEBBBB-9DF-H-BFDBD----DTF4DI4
+  Score=20
+
+4,6
+FGGDKNBBB-BBBBB------BBB--BBFFHHGDD***U---
+||||||    |||||      |||  ||   |  |       
+FGGDKN---PBBBBB8C0DDGBBBVVBB---H--D----EJN
+  Score=60
+
+4,7
+FGGDKNBBBBBBBB-BBBB-B---FFHHGDD***U----
+|||||| ||||||| |||| |   ||    |        
+FGGDKN-BBBBBBB3BBBBLBVVHFF----D----CEJB
+  Score=120
+
+4,8
+FGGDKNBBBBB--BBBBB-BBBFFHHGDD**------*U----
+||||||       ||||| |||  ||           |     
+FGGDKN-----FHBBBBB*BBB--HH-----BCCC1F*-HBPB
+  Score=40
+
+4,9
+FGGDKNBBBBBBBBBBB-B-BFFH-H------GDD***U---
+||||||         || | |||| |      |||       
+FGGDKN---------BBFBFBFFHBHHFBBDFGDD----D26
+  Score=45
+
+5,6
+FGGDKNBD-BEBBBB9---DFHBFD-BDDTF4-------DI4---
+||||||   | ||||    |    | |            |     
+FGGDKN--PB-BBBB-8C0D----DGB-----BBVVBBHD--EJN
+  Score=0
+
+5,7
+FGGDKNBDBEBBBB9DFHBFD-BDDT--------F4-DI4----
+||||||| | ||||    |   |           |  |      
+FGGDKNB-B-BBBB----B--3B---BBBLBVVHF-FD--CEJB
+  Score=20
+
+5,8
+FGGDKN--BDBEBBB-B9DF--H-B----FD--BDDTF4DI4--
+||||||  | | ||| |     | |    |   |          
+FGGDKNFHB-B-BBB*B---BBHHBCCC1F-*HB--------PB
+  Score=20
+
+5,9
+FGGDKNBDBEBB-B-B9DF-HB--FDBD-DTF4-DI4----
+||||||    || | |  | ||  | |  | |  |      
+FGGDKN----BBFBFB--FFHBHHF-B-BD-F-GD--DD26
+  Score=65
+
+6,7
+FGGDKNPBBBBB8C0DDGBB-BVVBB-----H--D-EJN-
+|||||| |||||      || |  ||     |  | ||  
+FGGDKN-BBBBB------BB3B--BBBLBVVHFFDCEJ-B
+  Score=100
+
+6,8
+FGGDKNPB--BBBB8C0DDGB-BBVVB--B------HDEJN---
+||||||    ||||      | ||  |  |      |       
+FGGDKN--FHBBBB------B*BB--BHHBCCC1F*H----BPB
+  Score=20
+
+6,9
+FGGDKNPBBBBB8C0DDG-B-B---BVV---BBHDEJN-------
+||||||    ||       | |   |     || |          
+FGGDKN----BB------FBFBFFHB--HHFBB-D---FGDDD26
+  Score=-15
+
+7,8
+FGGDKNBBBB--BBB3BB-BBLBVVHFFD--CEJ------B--
+||||||      ||| || || |  |     |        |  
+FGGDKN----FHBBB-BB*BB-B--H---HBC--CC1F*HBPB
+  Score=40
+
+7,9
+FGGDKNBBBBBBB3BB-B-BL---BVVH-F---F-DCEJB----
+||||||        || | |    |  | |   | |        
+FGGDKN--------BBFBFB-FFHB--HHFBBDFGD----DD26
+  Score=5
+
+8,9
+FGGDKNFHBBBBB*-B-B---BHHBCCC1F*HBPB--------
+||||||     ||  | |   |||     |  | |        
+FGGDKN-----BB-FBFBFFHBHH-----F--B-BDFGDDD26
+  Score=25

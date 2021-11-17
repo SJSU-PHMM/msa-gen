@@ -1,0 +1,5 @@
+
+Report generated with Buster Sandbox Analyzer 1.91 at 14:40:56 on 14/11/2021
+
+Detailed report of suspicious malware actions:
+

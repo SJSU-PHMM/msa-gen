@@ -1,0 +1,36 @@
+
+ Report generated with Buster Sandbox Analyzer 1.91 at 16:02:22 on 14/11/2021
+
+ [ General information ]
+   * Analysis duration: 00:00:30
+   * File name: D:\Ransom\VirusShare_f59a93701b67f6995f7b8880136f2a3d.EXE
+
+ [ Changes to filesystem ]
+   * Creates hidden folder C:\Users\samod\204841637
+   * Creates file (empty) C:\Users\samod\204841637\204841637.exe
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{0c5d2a95-0000-0000-0080-000000000000}
+          old value empty
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{6da28fdf-b9f2-4900-8b93-8571e38a4334}
+          old value empty
+   * Creates value "204841637=C:\Users\samod\204841637\204841637.exe" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Run
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+
+ [ Network services ]
+   * No changes
+
+ [ Process/window/string information ]
+   * Creates process "C:\Windows\System32\shutdown.exe, "C:\Windows\System32\shutdown.exe" /r /t 6 /f, D:\Ransom".
+   * Injects code into process "C:\Windows\SysWOW64\shutdown.exe".
+   * Creates process "C:\Windows\System32\cmd.exe, "C:\Windows\System32\cmd.exe" /c REG ADD HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run /v 204841637 /t REG_SZ /d "C:\Users\samod\204841637\204841637.exe" /f, D:\Ransom".
+   * Injects code into process "C:\Windows\SysWOW64\cmd.exe".
+   * Creates process "C:\WINDOWS\system32\reg.exe, REG  ADD HKCU\SOFTWARE\Microsoft\Windows\CurrentVersion\Run /v 204841637 /t REG_SZ /d "C:\Users\samod\204841637\204841637.exe" /f, D:\Ransom".
+   * Injects code into process "C:\Windows\SysWOW64\reg.exe".
+   * Enables privilege SeShutdownPrivilege.
+   * Enables privilege SeRemoteShutdownPrivilege.
+   * Enables process privileges.
+   * Contains string Traces of AutoStart registry key ("Software\Microsoft\Windows\CurrentVersion\Run")
+   * Contains string Checked for Task Manager software presence ("TASKMGR.EXE")

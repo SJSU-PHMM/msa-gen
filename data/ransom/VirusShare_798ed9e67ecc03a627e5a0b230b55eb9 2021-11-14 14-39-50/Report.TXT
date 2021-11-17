@@ -1,0 +1,43 @@
+
+ Report generated with Buster Sandbox Analyzer 1.91 at 14:39:50 on 14/11/2021
+
+ [ General information ]
+   * Analysis duration: 00:00:30
+   * File name: D:\Ransom\VirusShare_798ed9e67ecc03a627e5a0b230b55eb9.EXE
+
+ [ Changes to filesystem ]
+   * Modifies file C:\WINDOWS\system32\CatRoot2\dberr.txt
+   * Changes file attributes C:\WINDOWS\system32\CatRoot2\edb.chk
+   * Modifies file (empty) C:\WINDOWS\system32\CatRoot2\edb.chk
+   * Creates file D:\Ransom\p
+   * Creates file C:\ProgramData\Microsoft\Windows\WER\Temp\WERECCC.tmp.mdmp
+   * Creates file C:\ProgramData\Microsoft\Windows\WER\Temp\WEREF00.tmp.WERInternalMetadata.xml
+   * Creates file C:\ProgramData\Microsoft\Windows\WER\Temp\WEREF9D.tmp.xml
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Creates value "ClockTimeSeconds=7490916100000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\IdentityCRL\ClockData
+   * Creates value "TickCount=47F05D0000000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\IdentityCRL\ClockData
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{0c5d2a95-0000-0000-0080-000000000000}
+          old value empty
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{6da28fdf-b9f2-4900-8b93-8571e38a4334}
+          old value empty
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+   * Creates value "taskkill.exe.FriendlyAppName=Terminates Processes" in key HKEY_CURRENT_USER\software\classes\Local Settings\Software\Microsoft\Windows\Shell\MuiCache\C:\WINDOWS\SysWOW64
+   * Creates value "taskkill.exe.ApplicationCompany=Microsoft Corporation" in key HKEY_CURRENT_USER\software\classes\Local Settings\Software\Microsoft\Windows\Shell\MuiCache\C:\WINDOWS\SysWOW64
+
+ [ Network services ]
+   * No changes
+
+ [ Process/window/string information ]
+   * Keylogger functionality.
+   * Gets input locale identifiers.
+   * Installs a hook procedure that monitors mouse messages.
+   * Installs a hook procedure that monitors keystroke messages.
+   * Creates process "null, taskkill /F /IM taskmgr.exe, null".
+   * Modifies screensaver status.
+   * Injects code into process "C:\Windows\SysWOW64\taskkill.exe".
+   * Enables privilege SeDebugPrivilege.
+   * Enables process privileges.
+   * Sleeps 23 seconds.

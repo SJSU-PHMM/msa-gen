@@ -1,0 +1,129 @@
+
+ Report generated with Buster Sandbox Analyzer 1.91 at 15:42:37 on 14/11/2021
+
+ [ General information ]
+   * Analysis duration: 00:00:30
+   * File name: d:\ransom\virusshare_d7f55b646b190122c2d6c0fe131f59a6.dll
+   * File executed by: C:\Windows\System32\rundll32.exe
+
+ [ Changes to filesystem ]
+   * Modifies file C:\WINDOWS\system32\CatRoot2\dberr.txt
+   * Modifies file C:\WINDOWS\system32\CatRoot2\edb.chk
+   * Creates file C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_explorer.exe_f04af06ef270c985799baeb0973e9bc81f5a981b_4a5c467e_20001912-baf8-4053-9991-bee753f6f947\Report.wer
+   * Creates hidden folder C:\Users\samod\AppData\Local\CrashDumps
+   * Creates file (empty) C:\Users\samod\AppData\Local\CrashDumps\explorer.exe.10156.dmp
+   * Creates hidden folder C:\Users\samod\AppData\Local\Microsoft\Internet Explorer\Recovery\High\Active
+   * Creates file (empty) C:\Users\samod\AppData\Local\Microsoft\Internet Explorer\Recovery\High\Active\RecoveryStore.{96DB0AFB-45A4-11EC-8194-D0ABD57DB21A}.dat
+   * Creates file (empty) C:\Users\samod\AppData\Local\Microsoft\Internet Explorer\Recovery\High\Active\{96DB0AFD-45A4-11EC-8194-D0ABD57DB21A}.dat
+   * Creates file (empty) C:\Users\samod\AppData\Local\Microsoft\Internet Explorer\Recovery\High\Active\{96DB0AFF-45A4-11EC-8194-D0ABD57DB21A}.dat
+   * Creates hidden folder C:\Users\samod\AppData\LocalLow\Intel\ShaderCache
+   * Creates file (empty) C:\Users\samod\AppData\LocalLow\Intel\ShaderCache\3d424274638071e73b5835b6cdbd6a8f36a4a89244973c1a8ba86df56639bff1
+   * Creates file (empty) C:\Users\samod\AppData\LocalLow\Intel\ShaderCache\9596332d691cd1c8a084cac20bf6356438786fd5c04c21aedbb759944b59766d
+   * Creates hidden folder C:\Users\samod\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+   * Creates file (empty) C:\Users\samod\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\VirusShare_d7f55b646b190122c2d6c0fe131f59a6.DLL.lnk
+
+ [ Changes to registry ]
+   * Empties value "AppId" in key HKEY_LOCAL_MACHINE\software\Classes\clsid\{ceff45ee-c862-41de-aee2-a022c81eda92}
+         old value "AppId={CDCBCFCA-3CDC-436f-A4E2-0E02075250C2}"
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Creates value "ClockTimeSeconds=FE9E916100000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\IdentityCRL\ClockData
+   * Creates value "TickCount=18BB960000000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\IdentityCRL\ClockData
+   * Creates value "CVListXMLVersionLow=178E3678" in key HKEY_CURRENT_USER\software\Microsoft\Internet Explorer\BrowserEmulation
+   * Creates value "CVListXMLVersionHigh=10000000" in key HKEY_CURRENT_USER\software\Microsoft\Internet Explorer\BrowserEmulation
+   * Creates value "IECompatVersionHigh=10000000" in key HKEY_CURRENT_USER\software\Microsoft\Internet Explorer\BrowserEmulation
+   * Creates value "IECompatVersionLow=178E3678" in key HKEY_CURRENT_USER\software\Microsoft\Internet Explorer\BrowserEmulation
+   * Creates value "StaleCompatCache=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Internet Explorer\BrowserEmulation
+   * Creates value "VendorId=00008086" in key HKEY_CURRENT_USER\software\Microsoft\Internet Explorer\GPU
+   * Creates value "DeviceId=00003EA0" in key HKEY_CURRENT_USER\software\Microsoft\Internet Explorer\GPU
+   * Creates value "SubSysId=8514103C" in key HKEY_CURRENT_USER\software\Microsoft\Internet Explorer\GPU
+   * Creates value "Revision=00000002" in key HKEY_CURRENT_USER\software\Microsoft\Internet Explorer\GPU
+   * Modifies value "AdapterInfo=vendorId="0x8086",deviceID="0x3ea0",subSysID="0x8514103c",revision="0x2",version="26.20.100.7927"hypervisor="No Hypervisor (No SLAT)"" in key HKEY_CURRENT_USER\software\Microsoft\Internet Explorer\GPU
+          old value "AdapterInfo=vendorId="0x1414",deviceID="0x8c",subSysID="0x0",revision="0x0",version="10.0.19041.546"hypervisor="No Hypervisor (No SLAT)""
+   * Modifies value "LinksFolderMigrate=57EAE98357BAD701" in key HKEY_CURRENT_USER\software\Microsoft\Internet Explorer\LinksBar
+          old value "LinksFolderMigrate=1CA5BBB5DF60D701"
+   * Creates value "MarketingLinksMigrate=57EAE98357BAD701" in key HKEY_CURRENT_USER\software\Microsoft\Internet Explorer\LinksBar
+   * Creates value "NoProtectedModeBanner=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Internet Explorer\Main
+   * Creates value "OperationalData=0D00000000000000" in key HKEY_CURRENT_USER\software\Microsoft\Internet Explorer\Main
+   * Creates value "SearchBandMigrationVersion=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Internet Explorer\Main
+   * Creates value "FullScreen=no" in key HKEY_CURRENT_USER\software\Microsoft\Internet Explorer\Main
+   * Creates value "Window_Placement=2C0000000000000001000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF4A0000004A000000FA040000ED020000" in key HKEY_CURRENT_USER\software\Microsoft\Internet Explorer\Main
+   * Creates value "Version=WS scopes not configured" in key HKEY_CURRENT_USER\software\Microsoft\Internet Explorer\Main\WindowsSearch
+   * Creates value "TabBandWidth=000002A5" in key HKEY_CURRENT_USER\software\Microsoft\Internet Explorer\MINIE
+   * Creates value "HomepagesUpgradeVersion=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Internet Explorer\Protected - It is a violation of Windows Policy to modify. See aka.ms/browserpolicy
+   * Creates value "NTPMigrationVer=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Internet Explorer\TabbedBrowsing
+   * Creates value "FirstCheckForUpdateLowDateTime=1D93D31D" in key HKEY_CURRENT_USER\software\Microsoft\Internet Explorer\VersionManager
+   * Creates value "FirstCheckForUpdateHighDateTime=01D7DA05" in key HKEY_CURRENT_USER\software\Microsoft\Internet Explorer\VersionManager
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{0c5d2a95-0000-0000-0080-000000000000}
+          old value empty
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{6da28fdf-b9f2-4900-8b93-8571e38a4334}
+          old value empty
+   * Creates value "Order=08000000020000000C0000000100000000000000" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\MenuOrder\Favorites\Links
+   * Creates value "CachePrefix=DNTException:" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\Extensible Cache\DNTException
+   * Creates value "CachePath=C:\Users\samod\AppData\Local\Microsoft\Windows\INetCookies\DNTException" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\Extensible Cache\DNTException
+   * Creates value "CacheRelativePath=Microsoft\Windows\INetCookies\DNTException" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\Extensible Cache\DNTException
+   * Creates value "CacheOptions=00000300" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\Extensible Cache\DNTException
+   * Creates value "CacheLimit=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\Extensible Cache\DNTException
+   * Creates value "CachePrefix=iecompat:" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\Extensible Cache\iecompat
+   * Creates value "CachePath=C:\Users\samod\AppData\Local\Microsoft\Windows\IECompatCache" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\Extensible Cache\iecompat
+   * Creates value "CacheRelativePath=Microsoft\Windows\IECompatCache" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\Extensible Cache\iecompat
+   * Creates value "CacheOptions=00000309" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\Extensible Cache\iecompat
+   * Creates value "CacheLimit=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\Extensible Cache\iecompat
+   * Creates value "CachePrefix=iecompatua:" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\Extensible Cache\iecompatua
+   * Creates value "CachePath=C:\Users\samod\AppData\Local\Microsoft\Windows\IECompatUaCache" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\Extensible Cache\iecompatua
+   * Creates value "CacheRelativePath=Microsoft\Windows\IECompatUaCache" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\Extensible Cache\iecompatua
+   * Creates value "CacheOptions=00000309" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\Extensible Cache\iecompatua
+   * Creates value "CacheLimit=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\Extensible Cache\iecompatua
+   * Creates value "CachePrefix=iedownload:" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\Extensible Cache\iedownload
+   * Creates value "CachePath=C:\Users\samod\AppData\Local\Microsoft\Windows\IEDownloadHistory" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\Extensible Cache\iedownload
+   * Creates value "CacheRelativePath=Microsoft\Windows\IEDownloadHistory" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\Extensible Cache\iedownload
+   * Creates value "CacheOptions=00000009" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\Extensible Cache\iedownload
+   * Creates value "CacheLimit=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Internet Settings\5.0\Cache\Extensible Cache\iedownload
+   * Creates value "SecuritySafe=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones
+   * Creates value "2500=00000003" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\0
+   * Empties value "1609" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\2
+         old value "1609=00000001"
+   * Creates value "2500=00000003" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\2
+   * Empties value "1609" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3
+         old value "1609=00000001"
+   * Creates value "2500=00000003" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3
+   * Creates value "2500=00000003" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\4
+   * Creates value "DisableTaskMgr=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Policies\System
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+   * Creates value "notepad.exe.FriendlyAppName=Notepad" in key HKEY_CURRENT_USER\software\classes\Local Settings\Software\Microsoft\Windows\Shell\MuiCache\C:\Windows\SysWOW64
+   * Creates value "notepad.exe.ApplicationCompany=Microsoft Corporation" in key HKEY_CURRENT_USER\software\classes\Local Settings\Software\Microsoft\Windows\Shell\MuiCache\C:\Windows\SysWOW64
+   * Creates value "iexplore.exe.FriendlyAppName=Internet Explorer" in key HKEY_CURRENT_USER\software\classes\Local Settings\Software\Microsoft\Windows\Shell\MuiCache\C:\Program Files (x86)\Internet Explorer
+   * Creates value "iexplore.exe.ApplicationCompany=Microsoft Corporation" in key HKEY_CURRENT_USER\software\classes\Local Settings\Software\Microsoft\Windows\Shell\MuiCache\C:\Program Files (x86)\Internet Explorer
+
+ [ Network services ]
+   * No changes
+
+ [ Process/window/string information ]
+   * Keylogger functionality.
+   * Gets user name information.
+   * Gets input locale identifiers.
+   * Gets computer name.
+   * Checks for debuggers.
+   * Anti-Malware Analyzer routine: Disk information query.
+   * Enumerates running processes.
+   * Injects code into process "C:\Windows\SysWOW64\explorer.exe".
+   * Injects code into process "C:\Windows\SysWOW64\notepad.exe".
+   * Switches Desktop.
+   * Creates process "null, C:\Program Files\Internet Explorer\IEXPLORE.EXE http://87.255.73.109/, null".
+   * Injects code into process "C:\Program Files\Internet Explorer\iexplore.exe".
+   * Opens a service named "WinHttpAutoProxySvc".
+   * Opens a service named "CryptSvc".
+   * Creates an event named "IsoScope_254_IE_EarlyTabStart_0x3a24".
+   * Creates a mutex "IsoScope_254_IE_EarlyTabStart_0x3a24_Mutex".
+   * Creates a mutex "{5312EE61-79E3-4A24-BFE1-132B85B23C3A}".
+   * Opens a service named "WSearch".
+   * Creates process "C:\WINDOWS\system32\IESettingSync.exe, null, null".
+   * Injects code into process "C:\Windows\System32\IESettingSync.exe".
+   * Creates an event named "IsoScope_254_IE_EarlyTabStart_0x1d24".
+   * Creates a mutex "IsoScope_254_IE_EarlyTabStart_0x1d24_Mutex".
+   * Creates a mutex "IEUser_S-1-5-21-2612187248-1215448394-1019725589-1001\!PrivacIE!SharedMem!Mutex".
+   * Creates a mutex "IESettingSyncMutex".
+   * Creates an event named "IsoScope_254_IE_TabSwitch_12832".
+   * Creates a mutex "Local\IEHistJournalGlobal_3bf1c317-e96b-46f6-ba88-50c001d497aa".
+   * Creates an event named "IsoScope_254_IE_TabSwitch_8744".
+   * Sleeps 85 seconds.

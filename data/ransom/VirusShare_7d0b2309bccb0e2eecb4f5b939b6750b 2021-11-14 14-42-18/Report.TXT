@@ -1,0 +1,42 @@
+
+ Report generated with Buster Sandbox Analyzer 1.91 at 14:42:18 on 14/11/2021
+
+ [ General information ]
+   * Analysis duration: 00:00:09
+   * File name: D:\Ransom\VirusShare_7d0b2309bccb0e2eecb4f5b939b6750b.EXE
+
+ [ Changes to filesystem ]
+   * Creates file C:\WINDOWS\SysWOW64\InetAccelerator.exe
+   * Modifies file C:\WINDOWS\win.ini
+   * Creates file C:\ProgramData\InetAccelerator\InetAccelerator.exe
+   * Creates hidden folder C:\Users\samod\AppData\Roaming\InetAccelerator
+   * Creates file (empty) C:\Users\samod\AppData\Roaming\InetAccelerator\InetAccelerator.exe
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Creates value "InetAccelerator=C:\WINDOWS\system32\InetAccelerator.exe" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\Windows\CurrentVersion\Run
+   * Creates value "InetAccelerator.=C:\ProgramData\InetAccelerator\InetAccelerator.exe" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\Windows\CurrentVersion\Run
+   * Creates value "userinit=C:\ProgramData\InetAccelerator\InetAccelerator.exe,C:\WINDOWS\system32\InetAccelerator.exe," in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\Winlogon
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{0c5d2a95-0000-0000-0080-000000000000}
+          old value empty
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{6da28fdf-b9f2-4900-8b93-8571e38a4334}
+          old value empty
+   * Creates value "InetAccelerator=C:\Users\samod\AppData\Roaming\InetAccelerator\InetAccelerator.exe" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Run
+   * Creates value "shell=C:\Users\samod\AppData\Roaming\InetAccelerator\InetAccelerator.exe,Explorer.exe," in key HKEY_CURRENT_USER\software\Microsoft\Windows NT\CurrentVersion\Winlogon
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+
+ [ Network services ]
+   * No changes
+
+ [ Process/window/string information ]
+   * Keylogger functionality.
+   * Gets input locale identifiers.
+   * Checks for debuggers.
+   * Contains string Traces of AutoStart registry key ("Software\Microsoft\Windows NT\CurrentVersion\Winlogon")
+   * Contains string Traces of AutoStart registry key ("Software\Microsoft\Windows\CurrentVersion\Run")
+   * Contains string Checked for Process Explorer software presence ("PROCEXP.EXE")
+   * Contains string Checked for Process Explorer software presence ("PROCEXP")
+   * Contains string Checked for registry software presence ("REG.EXE")
+   * Contains string Checked for Task Manager software presence ("TASKMGR.EXE")
+   * Sleeps 5 seconds.

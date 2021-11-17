@@ -1,0 +1,33 @@
+
+ Report generated with Buster Sandbox Analyzer 1.91 at 15:39:25 on 14/11/2021
+
+ [ General information ]
+   * Analysis duration: 00:00:30
+   * File name: D:\Ransom\VirusShare_d0139008f980409db8bbd1214a4ca1fe.EXE
+
+ [ Changes to filesystem ]
+   * No changes
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{0c5d2a95-0000-0000-0080-000000000000}
+          old value empty
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{6da28fdf-b9f2-4900-8b93-8571e38a4334}
+          old value empty
+   * Creates value "Shell=D:\Ransom\VirusShare_d0139008f980409db8bbd1214a4ca1fe.EXE" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Run
+   * Creates value "Shell=D:\Ransom\VirusShare_d0139008f980409db8bbd1214a4ca1fe.EXE" in key HKEY_CURRENT_USER\software\Microsoft\Windows NT\CurrentVersion\Winlogon
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+
+ [ Network services ]
+   * No changes
+
+ [ Process/window/string information ]
+   * Keylogger functionality.
+   * Gets current hardware profile information.
+   * Gets input locale identifiers.
+   * Locks screen.
+   * Creates process "null, taskkill /F /IM explorer.exe, null".
+   * Injects code into process "C:\Windows\SysWOW64\taskkill.exe".
+   * Contains string Traces of AutoStart registry key ("Software\Microsoft\Windows NT\CurrentVersion\Winlogon")
+   * Contains string Traces of AutoStart registry key ("Software\Microsoft\Windows\CurrentVersion\Run")

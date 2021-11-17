@@ -1,0 +1,67 @@
+
+ Report generated with Buster Sandbox Analyzer 1.91 at 15:10:51 on 14/11/2021
+
+ [ General information ]
+   * Analysis duration: 00:00:23
+   * File name: D:\Ransom\VirusShare_a49e122b7a5ca135d7a259e24ceeafb6.EXE
+
+ [ Changes to filesystem ]
+   * Modifies file C:\WINDOWS\system32\CatRoot2\dberr.txt
+   * Modifies file C:\WINDOWS\system32\CatRoot2\edb.chk
+   * Creates file D:\Ransom\dwlGina3.dll
+   * Creates file C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_VirusShare_a49e1_65602c772319247eecdabe6dcb1ee0192b60421f_2bf7777c_346f8881-8a16-4a4a-853a-c3aeadc04dab\Report.wer
+   * Creates hidden folder C:\Users\samod\AppData\Local\CrashDumps
+   * Creates file (empty) C:\Users\samod\AppData\Local\CrashDumps\VirusShare_a49e122b7a5ca135d7a259e24ceeafb6.EXE.12156.dmp
+   * Creates hidden folder C:\Users\samod\AppData\Roaming
+   * Creates file (empty) C:\Users\samod\AppData\Roaming\34ayhze5uss5.exe
+   * Creates file (empty) C:\Users\samod\AppData\Roaming\ASC001.bin
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Creates value "UPuaZWsHqCbSIKP="C:\Users\samod\AppData\Roaming\34ayhze5uss5.exe" /ActiveX" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\Active Setup\Installed Components\{9UKOwAzW-jBnq-QIbC-nOZO-S5sWdSVf5j6j}
+   * Creates value "ClockTimeSeconds=8E97916100000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\IdentityCRL\ClockData
+   * Creates value "TickCount=00AF790000000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\IdentityCRL\ClockData
+   * Creates value "UPuaZWsHqCbSIKP=C:\Users\samod\AppData\Roaming\34ayhze5uss5.exe" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\Windows\CurrentVersion\Run
+   * Modifies value "Shell=C:\Users\samod\AppData\Roaming\34ayhze5uss5.exe" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\Winlogon
+          old value "Shell=explorer.exe"
+   * Modifies value "HideIcons=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
+          old value empty
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{0c5d2a95-0000-0000-0080-000000000000}
+          old value empty
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{6da28fdf-b9f2-4900-8b93-8571e38a4334}
+          old value empty
+   * Modifies value "1400=0" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\0
+          old value empty
+   * Modifies value "1400=0" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\1
+          old value empty
+   * Modifies value "1400=0" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3
+          old value empty
+   * Creates value "NoDesktop=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Policies\Explorer
+   * Creates value "DisableTaskMgr=1" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Policies\System
+   * Creates value "DisableRegistryTools=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Policies\System
+   * Creates value "UPuaZWsHqCbSIKP=C:\Users\samod\AppData\Roaming\34ayhze5uss5.exe" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Run
+   * Creates value "Shell=C:\Users\samod\AppData\Roaming\34ayhze5uss5.exe" in key HKEY_CURRENT_USER\software\Microsoft\Windows NT\CurrentVersion\Winlogon
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+   * Creates value "VirusShare_a49e122b7a5ca135d7a259e24ceeafb6.EXE.FriendlyAppName=VirusShare_a49e122b7a5ca135d7a259e24ceeafb6.EXE" in key HKEY_CURRENT_USER\software\classes\Local Settings\Software\Microsoft\Windows\Shell\MuiCache\D:\Ransom
+   * Creates value "VirusShare_a49e122b7a5ca135d7a259e24ceeafb6.EXE.ApplicationCompany=JeSbtXZG" in key HKEY_CURRENT_USER\software\classes\Local Settings\Software\Microsoft\Windows\Shell\MuiCache\D:\Ransom
+
+ [ Network services ]
+   * Looks for an Internet connection.
+   * Connects to "www.leckerfrischekacke.com" on port 80.
+   * Opens next URLs:
+     http://www.leckerfrischekacke.com/frankie/gate.php?hwid=691638565&pc=DESKTOP-19UU2F5&localip=192.168.0.105&winver=Unbekannte Windows-Version Home Edition x64
+
+ [ Process/window/string information ]
+   * Keylogger functionality.
+   * Gets system default language ID.
+   * Gets input locale identifiers.
+   * Gets computer name.
+   * Installs a hook procedure that monitors mouse messages.
+   * Installs a hook procedure that monitors keystroke messages.
+   * Deletes activity traces.
+   * Creates process "null, D:\Ransom\VirusShare_a49e122b7a5ca135d7a259e24ceeafb6.EXE, null".
+   * Opens a service named "WinHttpAutoProxySvc".
+   * Enumerates running processes.
+   * Opens a service named "CryptSvc".
+   * Sleeps 31 seconds.

@@ -1,0 +1,2 @@
++ C:\WINDOWS\sambuka.bat
++ C:\WINDOWS\sambuka.exe

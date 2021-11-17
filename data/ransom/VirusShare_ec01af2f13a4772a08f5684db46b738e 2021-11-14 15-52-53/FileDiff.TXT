@@ -1,0 +1,2 @@
+- D:\Ransom\VirusShare_ec01af2f13a4772a08f5684db46b738e.EXE
++ C:\Users\samod\AppData\Roaming\Microsoft\svhcost.exe

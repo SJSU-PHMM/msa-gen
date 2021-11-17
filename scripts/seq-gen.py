@@ -2,98 +2,6 @@
 
 import sys
 import os
-import pandas as pd
-
-old_seq_map =  {
-            'AdjustTokenPrivileges': '!',
-            'AreAnyAccessesGranted': '\"',
-            'bind': '#',
-            'CheckRemoteDebuggerPresent': '$',
-            'connect': '%',
-            'ConnectNamedPipe': '&',
-            'ConnectServerWMI': '\'',
-            'Copy': '(',
-            'CreateDirectory': ')',
-            'CreateEvent': '*',
-            'CreateFile': '+',
-            'CreateFileMapping': '-',
-            'CreateMutex': '.',
-            'CreateNamedPipe': '/',
-            'CreateProcess': '0',
-            'CreateRemoteThread': '1',
-            'CreateThread': '2',
-            'CreateToolhelp32Snapshot': '3',
-            'CryptDecrypt': '4',
-            'CryptEncrypt': '5',
-            'CryptHashData': '6',
-            'DeleteFile': '7',
-            'DeleteUrlCacheEntry': '8',
-            'ExecQueryWMI': '9',
-            'ExitProcess': ':',
-            'FindNextFile': ';',
-            'FindWindow': '<',
-            'FreeLibrary': '=',
-            'GetAsyncKeyState': '>',
-            'GetComputerName': '?',
-            'GetCurrentHwProfile': '@',
-            'GetFileAttributes': 'A',
-            'GetForegroundWindow': 'B',
-            'GetKeyboardState': 'C',
-            'GetKeyState': 'D',
-            'GetModuleHandle': 'E',
-            'GetProcessDEPPolicy': 'F',
-            'GetProcessImageFileName': 'G',
-            'GetSystemDefaultLangID': 'H',
-            'GetUserName': 'I',
-            'GetVolumeInformation': 'J',
-            'HttpOpenRequest': 'K',
-            'HttpSendRequest': 'L',
-            'InternetConnect': 'M',
-            'InternetOpen': 'N',
-            'InternetReadFile': 'O',
-            'InternetSetOption': 'P',
-            'IsDebuggerPresent': 'Q',
-            'LdrFindEntryForAddress': 'R',
-            'lstrcmpi': 'S',
-            'Move': 'T',
-            'NetLocalGroupDel': 'U',
-            'NetLocalGroupDelMembers': 'V',
-            'NtQueryInformationProcess': 'W',
-            'OpenFile': 'X',
-            'OpenMutex': 'Y',
-            'OpenProcess': 'Z',
-            'OpenProcessToken': '[',
-            'OpenSCManager': '\\',
-            'OpenService': ']',
-            'QueryFullProcessImageName': '^',
-            'QueryProcessInformation': '_',
-            'QuerySystemInformation': '`',
-            'QueueUserAPC': 'a',
-            'ReadProcessMemory': 'b',
-            'RegCloseKey': 'c',
-            'RegCreateKeyEx': 'd',
-            'RegEnumValue': 'e',
-            'RegOpenKeyEx': 'f',
-            'RegSetValueEx': 'g',
-            'RemoveDirectory': 'h',
-            'ResumeThread': 'i',
-            'SetNamedSecurityInfo': 'j',
-            'SetSecurityInfo': 'k',
-            'SetTimer': 'l',
-            'Sleep': 'm',
-            'SuspendThread': 'n',
-            'SystemParametersInfo': 'o',
-            'TerminateProcess': 'p',
-            'VirtualAllocEx': 'q',
-            'VirtualQueryEx': 'r',
-            'WriteProcessMemory': 's',
-            'SetProcessDEPPolicy':'t',
-            'OutputDebugString':'u',
-            'StartService':'v',
-            'CreateService':'w',
-            'ControlService':'x',
-            'DeleteService':'y'
-        }
 
 #Update mapping to use only Characters and Numbers
 #This helps in Substitution Matrix as well as in creating an MSA that encompasses all Characters. 
@@ -190,12 +98,17 @@ seq_map = {
             'GetWindowTextLength':'*',
             'SetWindowPos':'*',
             'DeviceIoControl':'*',
-            'NtSetInformationThread':'*'
+            'NtSetInformationThread':'*',
+            'DeviceIoControl':'*'
         }
+
 
 ascii_value = 33
 #ascii_value = 86
 #seq_map = {}
+
+seq_len_lower_bound = 35
+seq_len_upper_bound = 250
 
 """
 Simple function to automatically map system calls to a unique ASCII character
@@ -226,8 +139,6 @@ def api_csv(arg1):
     """
     api_sequence = []
     api_sequence = parse_virus_log(arg1)
-    #df = pd.DataFrame(api_sequence, columns=['Sequence'], index=['virus1', 'virus2'])
-    #df = pd.DataFrame(api_sequence, columns=['API Sequence'])
     df = pd.DataFrame(api_sequence)
     df.to_csv('api_seq.csv', mode='a', header=True)
     pass
@@ -240,7 +151,11 @@ def parse_virus_log(argv):
     # Strips the newline character
     for line in Lines:
         apiCall = line[0:line.find('(')]
-        api_sequence.append(seq_map[apiCall])
+        if apiCall in seq_map:
+            api_sequence.append(seq_map[apiCall])
+        else:
+            api_sequence.append('*')
+            
     return api_sequence
 
 def main(argv):
@@ -264,17 +179,18 @@ def main(argv):
         count += 1
         apiCall = line[0:line.find('(')]
         #print(apiCall)
-        seq = seq + seq_map[apiCall]
+        if apiCall in seq_map:
+            seq = seq + seq_map[apiCall]
+        else:
+            seq = seq + '*'
+        #If you need to truncate the files
+        #if(count > 100):
+            #break
+        
 
-    #print(" ")
-    #print(" ")
-    #print("Getting Sequence...")
-    print(virus_name+': '+seq)
-    #print('Final Sequence: '+seq)
-    #print(" ")
-    #print(seq_map)
-    #print(" ")
-    #print(" ")
+   
+    print(seq)
+    
 
 
 if __name__ == "__main__":

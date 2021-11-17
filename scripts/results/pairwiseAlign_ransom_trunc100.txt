@@ -1,0 +1,270 @@
+
+0,1
+FGGDKNBG--D--BEHBFFBFFDBDDBLBHDEBJJJNFGGDKNB*-B-BB3GDBEBHFEE--FEE-BF-----F-DE-----------BE-D----DEE------BI---E-EB80G-B262MBG-B-------------
+|||||||   |  |  |  |   |  | |||    |||||||||  | ||   | |      |   ||     | |            |  |    |        |    | ||    |    |  |             
+FGGDKNB-80DDGB--B--B---B--B-BHD----JNFGGDKNB-DBEBB---B-B----9DF--HBFDBDDTF4D-I4DHDDIYDDHB-NDMBBGD--DDHWW3B-BH8EDEB---DB----B-HBBBBBBBBBBBBBB
+  Score=-25
+
+0,2
+FGGDKNBGDBEHBFFBFFDBDDBLBHDEBJJJNFGGDKNB*BBB3GDBEBHFEEFEEBFFDEBEDDEEBIEEB80GB-262MBGB
+|||||||||||||||||||||||||||||||||||||||||    ||||||||||||||||||||||||| |||||| |||||||
+FGGDKNBGDBEHBFFBFFDBDDBLBHDEBJJJNFGGDKNB*----GDBEBHFEEFEEBFFDEBEDDEEBI-EB80GBE262MBGB
+  Score=760
+
+0,3
+FGGDKNBGDBEHBFFBFFDBDDBLBHDEBJJJNFGGDKNB*BBB3GDBEB---HFEEFEEBFFDEBEDDEEBIEE-B80GB262MBGB
+|||||||||||||||||||||||||||||||||||||||||    |||||   |||||||||||||||||||||| ||||||||||||
+FGGDKNBGDBEHBFFBFFDBDDBLBHDEBJJJNFGGDKNB*----GDBEBBBBHFEEFEEBFFDEBEDDEEBIEEEB80GB262MBGB
+  Score=760
+
+0,4
+FGGDKNBGDBEHBFFBFFDBDDBLBHDEBJJJNFGGDKNB*BBB3-GDBEBHFEEFEEBFFDEBEDDEEBIEE-B80GB262-------MBGB----------------
+|||||||||||||||||||||||||||||||||||||||| |||  ||||||||||||||||||||||||||| |   |          ||||                
+FGGDKNBGDBEHBFFBFFDBDDBLBHDEBJJJNFGGDKNB-BBB-*GDBEBHFEEFEEBFFDEBEDDEEBIEEEB---B---BBBEHHBMBGB5555555555555555
+  Score=595
+
+0,5
+FGGDKNB-GDBEHBFFB--F--FDBDD--BLBHDE---BJJ---------------------JN---FGGDKN---B-*B-----B---------B3GDBEBHFEEFEE---BFFDEBED-DEEBIEEB80GB262MBGB--
+||||||| | |  |  |  |  |||||  | | |    |                       ||   | ||     | |      |         |   | | |  |     |||    | |  |  |         ||   
+FGGDKNBBG-B--B--BBBFBHFDBDDTFB-B-D-4D*B--B*B9D9BB999999BBB*LHDJN9TYF-GD--DDFBG*-***E9BTTTTT**FKB---B-B-F--F--GGHBFF----DND--B--E---------BG-DD
+  Score=-65
+
+0,6
+FGGDKN-BGDBEHBFFBFFDBD---DBLB-HDEBJJJN--FGGDKNB*BBB3GDBEBHFEEFEEB--F----------F--DE--B--E--D----DEEBIEE--B80G----B262MBG-----------B--
+|||||| |  |  |  |   |    |||| |||   ||  ||||||||    |||| | ||||||  |          |  |   |  |  |    |  |     |       |    |            |  
+FGGDKNEB--B--B--B---B-BBBDBLBBHDE---JN26FGGDKNB*----GDBE-H-EEFEEBBBFBBEEBDBBBBFGGD-KNBDBEB9DFHBFD--B---DDB---TF4DB----B-I4DHDDIYDDHBDM
+  Score=95
+
+0,7
+FGGDKNBGDBEHBFFBFFDBDDBLBHDEBJJJNFGGDKNB*BBB3GDBEBHFEEFEEBFFDEBEDDEEBIE-E-B80G------B262----------MBGB---------
+|||||||||||||||||||||||||||||||||||||||||    |||||||||||||||||||||||||| | |         |             ||||         
+FGGDKNBGDBEHBFFBFFDBDDBLBHDEBJJJNFGGDKNB*----GDBEBHFEEFEEBFFDEBEDDEEBIEBEEB---FFFF99B---B9DBBBBBEBMBGB555555555
+  Score=555
+
+0,8
+FGGDKNB-GDBEHBF--FBFFDBD----D--BLBHDEBJJJNFGGDKN-B*BB--B3GDBEBHFEE----FEEBFFD--E--BE-------DDEEBIE----E-B80GB262MBGB--------------
+||||||| | |  ||  ||||       |  | ||              | ||  |   | | |      |  |  |  |  |        ||  |      | |||||    | |              
+FGGDKNBBG-B--BFBBFBFF---F999DFHB-BH-------------HB-BB99B---B-B-F--DDDTF--B--D4DE*FB-B9GB9IGDD--B--BFFBE9B80GB----B-BBBBBBYDFBG****
+  Score=-20
+
+0,9
+FGGDKNBGDBEHBFFBFFDBDDBLBHDEBJJJNFGGDKNB*B-BB3GDBEBHFEEFEEBFFDEBEDDEEBIEEB80GB-262MBGB
+|||||||||||||||||||||||||||||||||||||||||| || ||||||||||||||||||||||||| |||||| |||||||
+FGGDKNBGDBEHBFFBFFDBDDBLBHDEBJJJNFGGDKNB*B3BB-GDBEBHFEEFEEBFFDEBEDDEEBI-EB80GBE262MBGB
+  Score=800
+
+1,2
+FGGDKNB80DDG-B--B--B---B--B-BHD--J--NFGGDKNB--DBEBBBB9DFHBFDBDDT--F4DI4DHDDIYDDH--BN--DMB-BGD-DDHWW3BBH8EDEBDBBHBBBBBBBBBB--B---B-----B-B
+|||||||    | |  |  |   |  | |||  |  ||||||||  |||   |   | |       |               |   |   |   ||        | |              |  |   |     | |
+FGGDKNB----GDBEHBFFBFFDBDDBLBHDEBJJJNFGGDKNB*GDBE---B---H-F-----EEF-------------EEB-FFD--EB--EDD--------E-E--------------BIEB80GBE262MBGB
+  Score=-25
+
+1,3
+FGGDKNB80DDG-B--B--B---B--B-BHD--J--NFGGDKNB--DBEBBBB9DFHBFDBDDT--F4DI4DHDDIYDDH--BN--DMB-BGD-DDHWW3BBH8EDEBDBBHBBBBBBBBBB----B---B----B-B
+|||||||    | |  |  |   |  | |||  |  ||||||||  |||||||   | |       |               |   |   |   ||        | |              |    |   |    | |
+FGGDKNB----GDBEHBFFBFFDBDDBLBHDEBJJJNFGGDKNB*GDBEBBBB---H-F-----EEF-------------EEB-FFD--EB--EDD--------E-E--------------BIEEEB80GB262MBGB
+  Score=15
+
+1,4
+FGGDKNB80DDG-B--B--B---B--B-BHD--J--NFGGDKNBDBEBB---B-B9DFHBFDBDDT--F4DI4DHDDIYDDH--BN--DMB-BGD-DDHWW3BBH8EDEBDBBHBBBBBB----BBBBB---B-B-B----------------
+|||||||    | |  |  |   |  | |||  |  |||||||| | ||   | |   | |       |               |   |   |   ||        | |          |    |||||   | | |                
+FGGDKNB----GDBEHBFFBFFDBDDBLBHDEBJJJNFGGDKNB-B-BB*GDBEB---H-F-----EEF-------------EEB-FFD--EB--EDD--------E-E----------BIEEEBBBBBEHHBMBGB5555555555555555
+  Score=-30
+
+1,5
+FGGDKNB80DDGBBBBBBHDJNFGGDKNBDBEBBBB9DFHB-FDBDDTF4DI4DHDDIYDDHBNDMBBGDD-DHWW3-BBH8EDE-B-DBBHB-BB------BBB---------------B-------B---------BBB-----B-----B-B---
+||||||          ||      |     | ||||  | | |||||||                 ||  | |     ||      | |     ||      |||               |       |         |||     |     | |   
+FGGDKN----------BB------G-----B-BBBB--F-BHFDBDDTF-----------------BB--D4D----*BB-----*B9D----9BB999999BBB*LHDJN9TYFGDDDFBG****E9BTTTTT**FKBBBFFGGHBFFDNDBEBGDD
+  Score=-130
+
+1,6
+FGGDKN-B80DDGBBBBBB------HD-JN--FGGDKNB--DBE------BBB-B--------------------9DFHBFDBDD-TF4D--I4DHDDIYDDHBNDMBBGDDDHWW3BBH8EDEBDBBHBBBBBBBBBBBBBB
+|||||| |     ||||||      || ||  |||||||  |||      ||| |                    |||||||||| ||||  |||||||||||| ||                                    
+FGGDKNEB-----BBBBBBBDBLBBHDEJN26FGGDKNB*GDBEHEEFEEBBBFBBEEBDBBBBFGGDKNBDBEB9DFHBFDBDDBTF4DBBI4DHDDIYDDHB-DM------------------------------------
+  Score=170
+
+1,7
+FGGDKNB80DDG-B--B--B---B--B-BHD--J--NFGGDKNB--DBEBBBB9DFHBFDBDDT--F4DI4DHDDIYDDH--BN--DMB-BGD-DDHWW3BBH8EDEBDBBHBB--B--B------BB--BBBBB-B-B-B---------
+|||||||    | |  |  |   |  | |||  |  ||||||||  |||   |   | |       |               |   |   |   ||        | |      |  |  |      ||  ||||| | | |         
+FGGDKNB----GDBEHBFFBFFDBDDBLBHDEBJJJNFGGDKNB*GDBE---B---H-F-----EEF-------------EEB-FFD--EB--EDD--------E-E------BIEBEEBFFFF99BB9DBBBBBEBMBGB555555555
+  Score=30
+
+1,8
+FGGDKNB80DDGBB-BB-BBHDJNFGGDKNB------D--BEB--BBB9DFH-B--FDBDDTF4-DI4DHDDIYDDHBNDM---BB-GDDDHWW3BBH8E---DEBDBBHBBB--B--B---BBBBBBBB---B-----
+||||||      || || ||    |     |      |  | |  ||||    |  || ||||  | |           |    || |        |      |  |    ||  |  |   ||||||||   |     
+FGGDKN------BBGBBFBB----F-----BFFF999DFHB-BHHBBB9---9BBBFD-DDTF-BD-4-----------D-E*FBB9G--------B---9IGD--D----BBFFBE9B80GBBBBBBBBYDFBG****
+  Score=55
+
+1,9
+FGGDKNB80DDG-B--B--B---B--B-BHD--J--NFGGDKNBD-BE-BB--B-B9DFHBFDBDDT--F4DI4DHDDIYDDH--BN--DMB-BGD-DDHWW3BBH8EDEBDBBHBBBBBBBBBB--B---B-----B-B
+|||||||    | |  |  |   |  | |||  |  ||||||||  |  ||  | |   | |       |               |   |   |   ||        | |              |  |   |     | |
+FGGDKNB----GDBEHBFFBFFDBDDBLBHDEBJJJNFGGDKNB-*B-3BBGDBEB---H-F-----EEF-------------EEB-FFD--EB--EDD--------E-E--------------BIEB80GBE262MBGB
+  Score=-25
+
+2,3
+FGGDKNBGDBEHBFFBFFDBDDBLBHDEBJJJNFGGDKNB*GDBEB---HFEEFEEBFFDEBEDDEEBIE--B80GBE262MBGB
+||||||||||||||||||||||||||||||||||||||||||||||   |||||||||||||||||||||  ||||| |||||||
+FGGDKNBGDBEHBFFBFFDBDDBLBHDEBJJJNFGGDKNB*GDBEBBBBHFEEFEEBFFDEBEDDEEBIEEEB80GB-262MBGB
+  Score=760
+
+2,4
+FGGDKNBGDBEHBFFBFFDBDDBLBHDEBJJJNFGGDKNB---*GDBEBHFEEFEEBFFDEBEDDEEBIE--B80GB---E262---MBGB----------------
+||||||||||||||||||||||||||||||||||||||||   |||||||||||||||||||||||||||  |   |   |      ||||                
+FGGDKNBGDBEHBFFBFFDBDDBLBHDEBJJJNFGGDKNBBBB*GDBEBHFEEFEEBFFDEBEDDEEBIEEEB---BBBBE---HHBMBGB5555555555555555
+  Score=575
+
+2,5
+FGGDKNB-GDBEHBFFB--F--FDBDD--BLBHDE---BJJ---------------------JN---FGGDKNB*GD--B-----E-BHFEE-------FEE-B--FFDE---BE--D-DEEBIEB80GBE262MBGB--
+||||||| | |  |  |  |  |||||  | | |    |                       ||   | ||     |  |     | |           |   |  ||     |   | |         ||    ||   
+FGGDKNBBG-B--B--BBBFBHFDBDDTFB-B-D-4D*B--B*B9D9BB999999BBB*LHDJN9TYF-GD-----DDFBG****E9B----TTTTT**F--KBBBFF--GGHB-FFDND---------BE----BG-DD
+  Score=-85
+
+2,6
+FGGDKN-BGDBEHBFFBFFDBD---DBLB-HDEBJJJN--FGGDKNB*GDBEBHFEEFEEB--F----------F--DE--B--E--D----DEEBIE--B80G----BE262MBG-----------B--
+|||||| |  |  |  |   |    |||| |||   ||  |||||||||||| | ||||||  |          |  |   |  |  |    |  |    |       |     |            |  
+FGGDKNEB--B--B--B---B-BBBDBLBBHDE---JN26FGGDKNB*GDBE-H-EEFEEBBBFBBEEBDBBBBFGGD-KNBDBEB9DFHBFD--B--DDB---TF4DB-----B-I4DHDDIYDDHBDM
+  Score=115
+
+2,7
+FGGDKNBGDBEHBFFBFFDBDDBLBHDEBJJJNFGGDKNB*GDBEBHFEEFEEBFFDEBEDDEEBIEB80G--B---------------E262-MBGB---------
+||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||     |               |    ||||         
+FGGDKNBGDBEHBFFBFFDBDDBLBHDEBJJJNFGGDKNB*GDBEBHFEEFEEBFFDEBEDDEEBIEB---EEBFFFF99BB9DBBBBBE---BMBGB555555555
+  Score=575
+
+2,8
+FGGDKNB-GDBEHBF--FBFFDBD----D--BLBHDE-BJJJNFGGDKNB*GDBE--BHFEEFEEBF-FDE----BED-DEE--B-----I--------E-B80GBE262MBGB--------------
+||||||| | |  ||  ||||       |  | ||   |          |   |   |       |  ||     | | | |  |     |        | |||||     | |              
+FGGDKNBBG-B--BFBBFBFF---F999DFHB-BH--HB----------B---B-99B-------B-BFD-DDTFB-D4D-E*FBB9GB9IGDDBBFFBE9B80GB-----B-BBBBBBYDFBG****
+  Score=-40
+
+2,9
+FGGDKNBGDBEHBFFBFFDBDDBLBHDEBJJJNFGGDKNB*----GDBEBHFEEFEEBFFDEBEDDEEBIEB80GBE262MBGB
+|||||||||||||||||||||||||||||||||||||||||    |||||||||||||||||||||||||||||||||||||||
+FGGDKNBGDBEHBFFBFFDBDDBLBHDEBJJJNFGGDKNB*B3BBGDBEBHFEEFEEBFFDEBEDDEEBIEB80GBE262MBGB
+  Score=780
+
+3,4
+FGGDKNBGDBEHBFFBFFDBDDBLBHDEBJJJNFGGDKNB---*GDBEBBBBHFEEFEEBFFDEBEDDEEBIEEEB80GB262-------MBGB----------------
+||||||||||||||||||||||||||||||||||||||||   |||||   |||||||||||||||||||||||||   |          ||||                
+FGGDKNBGDBEHBFFBFFDBDDBLBHDEBJJJNFGGDKNBBBB*GDBE---BHFEEFEEBFFDEBEDDEEBIEEEB---B---BBBEHHBMBGB5555555555555555
+  Score=575
+
+3,5
+FGGDKNB-GDBEHBFFB--F--FDBDD--BLBHDE---BJJ---------------------JN---FGGDKNB*GD--B-----E-B---------BBBHFEEFEE---BFFDEBED-DEEBIEEEB80GB262MBGB--
+||||||| | |  |  |  |  |||||  | | |    |                       ||   | ||     |  |     | |         ||| |  |     |||    | |  |   |         ||   
+FGGDKNBBG-B--B--BBBFBHFDBDDTFB-B-D-4D*B--B*B9D9BB999999BBB*LHDJN9TYF-GD-----DDFBG****E9BTTTTT**FKBBB-F--F--GGHBFF----DND--B---E---------BG-DD
+  Score=-45
+
+3,6
+FGGDKN-BGDBEHBFFBFFDBD---DBLB-HDEBJJJN--FGGDKNB*GDBEBBBBHFEEFEEB--F----------F--DE--B--E--D----DEEBIEEE--B80G----B262MBG-----------B--
+|||||| |  |  |  |   |    |||| |||   ||  ||||||||||||    | ||||||  |          |  |   |  |  |    |  |      |       |    |            |  
+FGGDKNEB--B--B--B---B-BBBDBLBBHDE---JN26FGGDKNB*GDBE----H-EEFEEBBBFBBEEBDBBBBFGGD-KNBDBEB9DFHBFD--B----DDB---TF4DB----B-I4DHDDIYDDHBDM
+  Score=95
+
+3,7
+FGGDKNBGDBEHBFFBFFDBDDBLBHDEBJJJNFGGDKNB*GDBEBBBBHFEEFEEBFFDEBEDDEEBIE-EEB80G------B262----------MBGB---------
+|||||||||||||||||||||||||||||||||||||||||||||   |||||||||||||||||||||| |||         |             ||||         
+FGGDKNBGDBEHBFFBFFDBDDBLBHDEBJJJNFGGDKNB*GDBE---BHFEEFEEBFFDEBEDDEEBIEBEEB---FFFF99B---B9DBBBBBEBMBGB555555555
+  Score=575
+
+3,8
+FGGDKNB-GDBEHBF--FBFFDBD----D--BLBHDEBJJJNFGGDKN-B*GDBEB--BBBHFEE----FEEBFFD--E--BE-------DDEEBIEE----E-B80GB262MBGB--------------
+||||||| | |  ||  ||||       |  | ||              |   | |  ||| |      |  |  |  |  |        ||  |       | |||||    | |              
+FGGDKNBBG-B--BFBBFBFF---F999DFHB-BH-------------HB---B-B99BBB-F--DDDTF--B--D4DE*FB-B9GB9IGDD--B---BFFBE9B80GB----B-BBBBBBYDFBG****
+  Score=-20
+
+3,9
+FGGDKNBGDBEHBFFBFFDBDDBLBHDEBJJJNFGGDKNB*GDBE-BB--B-BHFEEFEEBFFDEBEDDEEBIEEEB80GB-262MBGB
+|||||||||||||||||||||||||||||||||||||||||  |  ||  | |||||||||||||||||||||  |||||| |||||||
+FGGDKNBGDBEHBFFBFFDBDDBLBHDEBJJJNFGGDKNB*--B-3BBGDBEBHFEEFEEBFFDEBEDDEEBI--EB80GBE262MBGB
+  Score=740
+
+4,5
+FGGDKNB-GDBEHBFFB--F--FDBDD--BLBHDE---BJJJNFGG----DKN-BB------BB-*---------GD---B-----E-BHFEE-------FEE-B--FFDE---BE--D-DEEBIEEEBBBBBEHHBMBGB5555555555555555--
+||||||| | |  |  |  |  |||||  | | |    |           |   ||      || |         ||   |     | |           |   |  ||     |   | |           ||    ||                   
+FGGDKNBBG-B--B--BBBFBHFDBDDTFB-B-D-4D*B-------B*B9D--9BB999999BBB*LHDJN9TYFGDDDFBG****E9B----TTTTT**F--KBBBFF--GGHB-FFDND-----------BE----BG-----------------DD
+  Score=-150
+
+4,6
+FGGDKN-BGDBEHBFFBFFDBD---DBLB-HDEBJJJN--FGGDKNBBBB*GDBEBHFEEFEEBF--FDEB-E--D-------DEE--BIEE--EB----B--B--B----BE----H------HB-MBGB5555555555555555
+|||||| |  |  |  |   |    |||| |||   ||  ||||||   |||||| | ||||||   |  | |  |       |    |     ||    |  |  |    |     |      || |                   
+FGGDKNEB--B--B--B---B-BBBDBLBBHDE---JN26FGGDKN---B*GDBE-H-EEFEEB-BBF--BBEEBDBBBBFGGD--KNB---DBEB9DFHBFDBDDBTF4DB-BI4DHDDIYDDHBDM-------------------
+  Score=90
+
+4,7
+FGGDKNBGDBEHBFFBFFDBDDBLBHDEBJJJNFGGDKNBBBB*GDBEBHFEEFEEBFFDEBEDDEEBIE-EEB------BB--BB---EHHBMBGB5555555555555555
+|||||||||||||||||||||||||||||||||||||||   |||||||||||||||||||||||||||| |||      ||  ||   |  |||||       |||||||||
+FGGDKNBGDBEHBFFBFFDBDDBLBHDEBJJJNFGGDKN---B*GDBEBHFEEFEEBFFDEBEDDEEBIEBEEBFFFF99BB9DBBBBBE--BMBGB-------555555555
+  Score=770
+
+4,8
+FGGDKNB-GDBEHBF--FBFFDBD----D--BLBHDE-BJJJN-------FGGDKN----B------BB--B*--GD-BEBHFEEFEEBFFDE-BEDDEE---BIEEEBBBBBEHHBMBG---B5555555555555555-----
+||||||| | |  ||  ||||       |  | ||   |           |  |      |      ||  |   || | | |  |  |   | |        |    |||||   | |    |                     
+FGGDKNBBG-B--BFBBFBFF---F999DFHB-BH--HB----BB99BBBF--D--DDTFBD4DE*FBB9GB-9IGDDB-B-F--F--B---E9B-----80GB----BBBBB---B-B-YDFB----------------G****
+  Score=-65
+
+4,9
+FGGDKNBGDBEHBFFBFFDBDDBLBHDEBJJJNFGGDKNB-B-BB*GDBEBHFEEFEEBFFDEBEDDEEBIEEEBBBB---BEHHB---MBGB5555555555555555
+|||||||||||||||||||||||||||||||||||||||| | || |||||||||||||||||||||||||  |   |   ||      ||||                
+FGGDKNBGDBEHBFFBFFDBDDBLBHDEBJJJNFGGDKNB*B3BB-GDBEBHFEEFEEBFFDEBEDDEEBI--E---B80GBE---262MBGB----------------
+  Score=595
+
+5,6
+FGGDKN-BBGBBBBBFB-----H------F--D--BD--DT-----F--BBD4D*B-B*B9D9--B-B999999BBB*LHDJN9TYFGDDDFBG****E9BTTTTT**F-K-B-B-BF--FGGHBFFDN-D-BE----BG---D-D---------
+|||||| || ||||| |     |      |  |  |   |      |  ||    | | |     | |      |||         ||     |                | | | |   |  || ||  | |     |    | |         
+FGGDKNEBB-BBBBB-BDBLBBHDEJN26FGGDKNB-*GD-BEHEEFEEBB----BFB-B---EEBDB------BBB---------FG-----G---------------DKNBDBEB-9DF--HB-FD-BDDB-TF4DB-BI4DHDDIYDDHBDM
+  Score=-70
+
+5,7
+FGGDKNBBGBBB-B--BF-BHF-DBDDTFB-BD4-D*-B----------B*B9-D9BB999999BB-B*LHDJN9TYFGDDD--FBG****E9-BTTTTT**FK---B-----B--B---FFGGHBFFDN-----DB----EB--GDD----------
+|||||| ||    |  || | | ||||  | |   |  |          ||   |          | |  |      |      |      |  |       |    |     |  |   ||    ||       ||    ||  |            
+FGGDKN-BG---DBEHBFFB-FFDBDD--BLB--HD-EBJJJNFGGDKNB*--GD----------BEB--H------F----EEF------E-EB-------F-FDEBEDDEEBIEBEEBFF----FF--99BB9DBBBBBEBMBG--B555555555
+  Score=-130
+
+5,8
+FGGDKNBBGBBB-BBFBHFDBDDTFBBD4----D*--BB*--B9D9BB999999BBB*LHDJN9TYFGDDD-FBG****---E9BTTTTT**FKBBBFF-G---GH--B-FFDNDBE-B--GD---------D-------
+||||||||| || |||| |     |        |   ||   |   ||    |||||         | ||| ||        |        ||  ||   |   |   | ||   || |  |          |       
+FGGDKNBBG-BBFBBFB-F-----F----F999D-FHBB-HHB---BB----99BBB---------F-DDDTFB-----D4DE--------*F--BB--9GB9IG-DDBBFF---BE9B80G-BBBBBBBBYDFBG****
+  Score=35
+
+5,9
+FGGDKNBBGBBB-B--BFBHFDBDDTFBBD4-D*BB*B9D9BB999999BB-B*L-HD--J--N9TYFGDD-DF--BG****E9BTTTTT**FK-BB--B---F--FGGH--BFFDN---D---B-EB--GDD---------
+|||||| ||    |  ||  | |   |     |    | |            | | ||  |  |   ||   |   |    |  |          ||  |   |  |     ||||    |   | ||  |           
+FGGDKN-BG---DBEHBF--F-B---F----FD----B-D-----------DB-LBHDEBJJJN---FG--GD-KNB----*--B---------3BBGDBEBHFEEF---EEBFFD-EBEDDEEBIEB80G--BE262MBGB
+  Score=-65
+
+6,7
+FGGDKNEBBBB--B--B--B---BD-BLBBHDE-J--N26FGGDKNB*GDBE-H-EEFEEBBBFBBE--EB-DB---B--B--BFGGDKNBD-----BEB9DFHBFDBDDBTF4DBBI4DHDDIYDDH-BDM------------
+||||||    |  |  |  |   || || |||| |  |  |||||||||||| | |||||  ||     || |    |  |  ||            | |||  |  |  |    ||            | |            
+FGGDKN----BGDBEHBFFBFFDBDDBL-BHDEBJJJN--FGGDKNB*GDBEBHFEEFEE--BF---FDEBED-DEEBIEBEEBF-------FFF99B-B9D--B--B--B----BB-----------EB-MBGB555555555
+  Score=150
+
+6,8
+FGGDKNEBBBBBB-BBD-BLB-BHDEJN26FGG-----DKN--B*GDBEHEEFEE-BBBF--BBEEB-DB----B------BBF-G---GDKNBDBEB9DFHBFDBDD--BTF4D---BBI4DHDDI------YDDH-BDM-----
+||||||     || ||  | | |       |       |    |   | |      |||   ||  | |     |      ||  |   ||   || |  |  | |    |       ||             | |  |       
+FGGDKN-----BBGBB-FB-BFB-------F--FF999D--FHB---B-H-----HBBB-99BB--BFD-DDTFBD4DE*FBB-9GB9IGD---DB-B--F--F-B--E9B----80GBB-------BBBBBBY-D-FB--G****
+  Score=-85
+
+6,9
+FGGDKNEBBBB--B--B--B---BD-BLBBHDE-J--N26FGGDKNB*----GDBE-HEEFEEBBBFBBEEBDBBBBFGGDKNB-DBEB9-DFHBFD--BDD--BTF4D---B-----BI4DHDDIYDDH-BDM
+||||||    |  |  |  |   || || |||| |  |  ||||||||    |||| |  |||   |  ||     ||       | ||  |    |  |    |       |     |            |  
+FGGDKN----BGDBEHBFFBFFDBDDBL-BHDEBJJJN--FGGDKNB*B3BBGDBEBH--FEE---F--EE-----BF------FD-EB-ED----DEEB--IEB----80GBE262MB-----------GB--
+  Score=95
+
+7,8
+FGGDKNB-GDBEHBF--FBFFDBD----D--BLBHDE-BJJJNFGGDKNB*GDBE--BHFEEFEEBF-FDE----BED-DEE--B-----IE---BEEBFFFF9--9B---B9DBBBBBEBMBG---B555555555-----
+||||||| | |  ||  ||||       |  | ||   |          |   |   |       |  ||     | | | |  |     |    |  |  ||   ||   |  ||||| | |    |              
+FGGDKNBBG-B--BFBBFBFF---F999DFHB-BH--HB----------B---B-99B-------B-BFD-DDTFB-D4D-E*FBB9GB9I-GDDB--B--FF-BE9B80GB--BBBBB-B-B-YDFB---------G****
+  Score=-5
+
+7,9
+FGGDKNBGDBEHBFFBFFDBDDBLBHDEBJJJNFGGDKNB*----GDBEBHFEEFEEBFFDEBEDDEEBIEBEEBFFFF99BB9DBBBB---BEB---MBGB555555555
+|||||||||||||||||||||||||||||||||||||||||    |||||||||||||||||||||||||   |              |   ||    ||||         
+FGGDKNBGDBEHBFFBFFDBDDBLBHDEBJJJNFGGDKNB*B3BBGDBEBHFEEFEEBFFDEBEDDEEBI---E--------------B80GBE-262MBGB---------
+  Score=555
+
+8,9
+FGGDKNBBG-B--BFBBFBFFF999DFHBBHHBBB99--B-B---B----FDD--DTF--BD4DE*FB-B9GB9IGDDB-B-F--F--B---E9B---------80GBBBBBBBBYDF-----BG****-
+|||||| || |  ||  || ||   |        |    | |   |    |    |    |    | | |  |  | || | |  |  |   | |         |||       |        ||     
+FGGDKN-BGDBEHBF--FB-FF---D--------B--DDBLBHDEBJJJNF--GGD--KNB----*-B3B--B--G-DBEBHFEEFEEBFFDE-BEDDEEBIEB80G-------B---E262MBG----B
+  Score=-20

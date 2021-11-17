@@ -1,0 +1,39 @@
+
+ Report generated with Buster Sandbox Analyzer 1.91 at 14:38:12 on 14/11/2021
+
+ [ General information ]
+   * Analysis duration: 00:00:30
+   * File name: D:\Ransom\VirusShare_77035b8b7db9f06cfca4a4a8b1a906d5.EXE
+
+ [ Changes to filesystem ]
+   * Creates hidden folder C:\Users\samod\2324630636
+   * Creates file (empty) C:\Users\samod\2324630636\2324630636.exe
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{0c5d2a95-0000-0000-0080-000000000000}
+          old value empty
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{6da28fdf-b9f2-4900-8b93-8571e38a4334}
+          old value empty
+   * Creates value "2324630636=C:\Users\samod\2324630636\2324630636.exe" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Run
+   * Creates value "2324630636_del=cmd /c del "D:\Ransom\VirusShare_77035b8b7db9f06cfca4a4a8b1a906d5.EXE"" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\RunOnce
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+
+ [ Network services ]
+   * No changes
+
+ [ Process/window/string information ]
+   * Creates process "C:\Windows\System32\shutdown.exe, "C:\Windows\System32\shutdown.exe" /r /t 6 /f, D:\Ransom".
+   * Injects code into process "C:\Windows\SysWOW64\shutdown.exe".
+   * Creates process "C:\Windows\System32\cmd.exe, "C:\Windows\System32\cmd.exe" /c REG ADD HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run /v 2324630636 /t REG_SZ /d "C:\Users\samod\2324630636\2324630636.exe" /f, D:\Ransom".
+   * Injects code into process "C:\Windows\SysWOW64\cmd.exe".
+   * Creates process "C:\Windows\System32\cmd.exe, "C:\Windows\System32\cmd.exe" /c REG ADD HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce /v 2324630636_del /t REG_SZ /d "cmd /c del \"D:\Ransom\VirusShare_77035b8b7db9f06cfca4a4a8b1a906d5.EXE\"" /f, D:\Ransom".
+   * Creates process "C:\WINDOWS\system32\reg.exe, REG  ADD HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run /v 2324630636 /t REG_SZ /d "C:\Users\samod\2324630636\2324630636.exe" /f, D:\Ransom".
+   * Injects code into process "C:\Windows\SysWOW64\reg.exe".
+   * Creates process "C:\WINDOWS\system32\reg.exe, REG  ADD HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\RunOnce /v 2324630636_del /t REG_SZ /d "cmd /c del \"D:\Ransom\VirusShare_77035b8b7db9f06cfca4a4a8b1a906d5.EXE\"" /f, D:\Ransom".
+   * Enables privilege SeShutdownPrivilege.
+   * Enables privilege SeRemoteShutdownPrivilege.
+   * Enables process privileges.
+   * Contains string Traces of AutoStart registry key ("Software\Microsoft\Windows\CurrentVersion\Run")
+   * Contains string Checked for Task Manager software presence ("TASKMGR.EXE")

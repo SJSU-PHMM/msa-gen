@@ -1,0 +1,17 @@
+~ C:\WINDOWS\system32\CatRoot2\dberr.txt
+~ C:\WINDOWS\system32\CatRoot2\edb.chk
+? C:\WINDOWS\system32\CatRoot2\edb.log
+= C:\WINDOWS\system32\CatRoot2\edb00016.log
+? C:\WINDOWS\system32\CatRoot2\{127D0A1D-4EF2-11D1-8608-00C04FC295EE}\catdb
+? C:\WINDOWS\system32\CatRoot2\{127D0A1D-4EF2-11D1-8608-00C04FC295EE}\catdb.jfm
+? C:\WINDOWS\system32\CatRoot2\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\catdb
+? C:\WINDOWS\system32\CatRoot2\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\catdb.jfm
++ C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_explorer.exe_f04af06ef270c985799baeb0973e9bc81f5a981b_4a5c467e_20001912-baf8-4053-9991-bee753f6f947\Report.wer
++ C:\Users\samod\AppData\Local\CrashDumps\explorer.exe.10156.dmp
++ C:\Users\samod\AppData\Local\Microsoft\Internet Explorer\Recovery\High\Active\RecoveryStore.{96DB0AFB-45A4-11EC-8194-D0ABD57DB21A}.dat
++ C:\Users\samod\AppData\Local\Microsoft\Internet Explorer\Recovery\High\Active\{96DB0AFD-45A4-11EC-8194-D0ABD57DB21A}.dat
++ C:\Users\samod\AppData\Local\Microsoft\Internet Explorer\Recovery\High\Active\{96DB0AFF-45A4-11EC-8194-D0ABD57DB21A}.dat
++ C:\Users\samod\AppData\LocalLow\Intel\ShaderCache\3d424274638071e73b5835b6cdbd6a8f36a4a89244973c1a8ba86df56639bff1
++ C:\Users\samod\AppData\LocalLow\Intel\ShaderCache\9596332d691cd1c8a084cac20bf6356438786fd5c04c21aedbb759944b59766d
++ C:\Users\samod\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\VirusShare_d7f55b646b190122c2d6c0fe131f59a6.DLL.lnk
+= C:\Users\samod\Favorites\Links\desktop.ini

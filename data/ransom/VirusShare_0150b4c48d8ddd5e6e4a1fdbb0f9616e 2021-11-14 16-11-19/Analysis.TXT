@@ -1,0 +1,7 @@
+
+Report generated with Buster Sandbox Analyzer 1.91 at 16:11:19 on 14/11/2021
+
+Detailed report of suspicious malware actions:
+
+Created process: null, D:\Ransom\VirusShare_0150b4c48d8ddd5e6e4a1fdbb0f9616e.EXE, null
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001

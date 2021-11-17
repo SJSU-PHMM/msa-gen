@@ -1,0 +1,10 @@
+machine\software\microsoft\Windows\Windows Error Reporting\DontShowUI = 00000001
+machine\software\microsoft\Windows\Windows Error Reporting\LocalDumps = created registry key
+machine\software\microsoft\Windows NT\CurrentVersion\Image File Execution Options\taskmgr.exe\Debugger = calc.exe
+machine\software\microsoft\Windows NT\CurrentVersion\Winlogon\Shell = D:\Ransom\VirusShare_c09f779c6eab5f9b78ccaeb2fd5d4513.EXE
+user\current\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{0c5d2a95-0000-0000-0080-000000000000}\NukeOnDelete = 00000001
+user\current\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{6da28fdf-b9f2-4900-8b93-8571e38a4334}\NukeOnDelete = 00000001
+user\current\software\Microsoft\Windows NT\CurrentVersion\Winlogon\Shell = D:\Ransom\VirusShare_c09f779c6eab5f9b78ccaeb2fd5d4513.EXE
+user\current\software\SandboxAutoExec  = 31
+user\current\software\tetris\phone = 89852323079
+user\current\software\tetris\level = 80B30A4A79862641

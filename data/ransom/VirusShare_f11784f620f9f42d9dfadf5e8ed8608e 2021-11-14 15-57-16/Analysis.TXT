@@ -1,0 +1,41 @@
+
+Report generated with Buster Sandbox Analyzer 1.91 at 15:57:16 on 14/11/2021
+
+Detailed report of suspicious malware actions:
+
+Code injection in process: C:\Users\samod\AppData\Roaming\hs6u6j\sr4ur4u656.exe
+Code injection in process: C:\Windows\SysWOW64\cmd.exe
+Code injection in process: C:\Windows\SysWOW64\reg.exe
+Created process: C:\Users\samod\AppData\Roaming\hs6u6j\sr4ur4u656.exe, "C:\Users\samod\AppData\Roaming\hs6u6j\sr4ur4u656.exe" , D:\Ransom
+Created process: C:\WINDOWS\system32\reg.exe, REG  ADD "HKCU\Software\Microsoft\Windows\CurrentVersion\Run" /v "srt6jursjy6" /t REG_SZ /d "C:\Users\samod\AppData\Roaming\hs6u6j\sr4ur4u656.exe" /f, D:\Ransom
+Created process: null, "C:\Users\samod\AppData\Local\Temp\10746000.bat" , D:\Ransom
+Defined file type created: C:\Users\samod\AppData\Local\Temp\10746000.bat
+Defined file type created: C:\Users\samod\AppData\Roaming\ActiveX32_64lo.exe
+Defined file type created: C:\Users\samod\AppData\Roaming\hs6u6j\dwlGina3.dll
+Defined file type created: C:\Users\samod\AppData\Roaming\hs6u6j\sr4ur4u656.exe
+Defined registry AutoStart location created or modified: machine\software\WOW6432Node\Microsoft\Windows\CurrentVersion\Run\olmwKSKlNdgCU6b = C:\Users\samod\AppData\Roaming\ActiveX32_64lo.exe
+Defined registry AutoStart location created or modified: user\current\software\Microsoft\Windows NT\CurrentVersion\Winlogon\Shell = C:\Users\samod\AppData\Roaming\ActiveX32_64lo.exe
+Defined registry AutoStart location created or modified: user\current\software\Microsoft\Windows\CurrentVersion\Run\olmwKSKlNdgCU6b = C:\Users\samod\AppData\Roaming\ActiveX32_64lo.exe
+Defined registry AutoStart location created or modified: user\current\software\Microsoft\Windows\CurrentVersion\Run\srt6jursjy6 = C:\Users\samod\AppData\Roaming\hs6u6j\sr4ur4u656.exe
+Deleted activity traces
+Detected keylogger functionality
+Disable registry tools: user\current\software\microsoft\windows\currentversion\policies\system\disableregistrytools = 00000001
+Disable Task Manager: user\current\software\microsoft\windows\currentversion\policies\system\disabletaskmgr = 1
+Enumerated running processes
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+Got computer name
+Got input locale identifiers
+Got system default language ID
+Hid folder from user: C:\Users\samod\AppData\Local\Temp
+Hid folder from user: C:\Users\samod\AppData\Roaming
+Hid folder from user: C:\Users\samod\AppData\Roaming\hs6u6j
+IE settings change: user\current\software\microsoft\windows\currentversion\internet settings\zones\0\1400 = 0
+IE settings change: user\current\software\microsoft\windows\currentversion\internet settings\zones\1\1400 = 0
+IE settings change: user\current\software\microsoft\windows\currentversion\internet settings\zones\3\1400 = 0
+Installs a hook procedure that monitors keystroke messages
+Installs a hook procedure that monitors mouse messages
+Internet connection: Connects to "www.fuehlediebezahlung.com" on port 80
+Opened a service named: PcaSvc
+Opened a service named: WinHttpAutoProxySvc
+Started a service
+Traces of Max++

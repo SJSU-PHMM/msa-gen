@@ -1,0 +1,22 @@
+
+Report generated with Buster Sandbox Analyzer 1.91 at 14:19:41 on 14/11/2021
+
+Detailed report of suspicious malware actions:
+
+Checked for Chrome browser software presence
+Checked for debuggers
+Checked for Microsoft Malware Protection security software presence
+Checked for Microsoft Windows Defender security software presence
+Checked for PER security software presence
+Code injection in process: C:\Windows\SysWOW64\WerFault.exe
+Detected privilege modification
+Detected process privilege elevation
+Enumerated running processes
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+Got volume information
+Hid folder from user: C:\Users\samod\AppData\Local\CrashDumps
+Hid folder from user: C:\Users\samod\AppData\LocalLow\Microsoft\CryptnetUrlCache\MetaData
+Hid folder from user: C:\Users\samod\AppData\Roaming
+Opened a service named: CryptSvc
+Opened a service named: WinHttpAutoProxySvc
+Traces of Max++

@@ -1,0 +1,41 @@
+
+ Report generated with Buster Sandbox Analyzer 1.91 at 16:08:28 on 14/11/2021
+
+ [ General information ]
+   * Analysis duration: 00:00:30
+   * File name: D:\Ransom\VirusShare_feee946c0c9ccd1568c7c3f9c131a9e8.EXE
+
+ [ Changes to filesystem ]
+   * Creates file D:\Ransom\dwlGina3.dll
+   * Creates hidden folder C:\Users\samod\AppData\Roaming
+   * Creates file (empty) C:\Users\samod\AppData\Roaming\5uhsestz5ujxr5.exe
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Creates value "TgUd8S3UfkO7lKp="C:\Users\samod\AppData\Roaming\5uhsestz5ujxr5.exe" /ActiveX" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\Active Setup\Installed Components\{ZB3BRlAa-fNIq-MTwC-haZK-MsrSlWCT1NmT}
+   * Creates value "TgUd8S3UfkO7lKp=C:\Users\samod\AppData\Roaming\5uhsestz5ujxr5.exe" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\Windows\CurrentVersion\Run
+   * Modifies value "Shell=C:\Users\samod\AppData\Roaming\5uhsestz5ujxr5.exe" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\Winlogon
+          old value "Shell=explorer.exe"
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{0c5d2a95-0000-0000-0080-000000000000}
+          old value empty
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{6da28fdf-b9f2-4900-8b93-8571e38a4334}
+          old value empty
+   * Modifies value "1400=0" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\0
+          old value empty
+   * Modifies value "1400=0" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\1
+          old value empty
+   * Modifies value "1400=0" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3
+          old value empty
+   * Creates value "TgUd8S3UfkO7lKp=C:\Users\samod\AppData\Roaming\5uhsestz5ujxr5.exe" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Run
+   * Creates value "Shell=C:\Users\samod\AppData\Roaming\5uhsestz5ujxr5.exe" in key HKEY_CURRENT_USER\software\Microsoft\Windows NT\CurrentVersion\Winlogon
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+
+ [ Network services ]
+   * No changes
+
+ [ Process/window/string information ]
+   * Gets input locale identifiers.
+   * Checks for debuggers.
+   * Contains string Traces of AutoStart registry key ("Software\Microsoft\Windows NT\CurrentVersion\Winlogon")
+   * Contains string Checked for Task Manager software presence ("TASKMGR.EXE")

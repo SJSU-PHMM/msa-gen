@@ -1,0 +1,22 @@
+
+Report generated with Buster Sandbox Analyzer 1.91 at 14:54:21 on 14/11/2021
+
+Detailed report of suspicious malware actions:
+
+Code injection in process: C:\Windows\SysWOW64\taskkill.exe
+Created process: null, D:\Ransom\VirusShare_8f08ee7155d9c2b89aed35fd23c4d0d5.exe, null
+Created process: null, taskkill /F /IM explorer.exe, null
+Defined registry AutoStart location created or modified: user\current\software\Microsoft\Windows NT\CurrentVersion\Winlogon\Shell = D:\Ransom\VirusShare_8f08ee7155d9c2b89aed35fd23c4d0d5.EXE
+Defined registry AutoStart location created or modified: user\current\software\Microsoft\Windows\CurrentVersion\Run\Shell = D:\Ransom\VirusShare_8f08ee7155d9c2b89aed35fd23c4d0d5.EXE
+Detected keylogger functionality
+Detected privilege modification
+Detected process privilege elevation
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+Got input locale identifiers
+Got system default language ID
+Hid folder from user: C:\Users\samod\AppData\Local\Temp
+Hosts file modified: C:\WINDOWS\System32\drivers\etc\hosts
+Locked screen
+Opened a service named: WinHttpAutoProxySvc
+Terminated process: C:\Windows\explorer.exe
+Traces of Max++

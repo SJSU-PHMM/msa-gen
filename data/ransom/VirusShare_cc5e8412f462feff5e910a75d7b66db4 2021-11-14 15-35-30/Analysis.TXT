@@ -1,0 +1,18 @@
+
+Report generated with Buster Sandbox Analyzer 1.91 at 15:35:30 on 14/11/2021
+
+Detailed report of suspicious malware actions:
+
+Code injection in process: C:\Users\samod\AppData\Roaming\imgconvert.exe
+Code injection in process: C:\Windows\SysWOW64\cmd.exe
+Created process: C:\Users\samod\AppData\Roaming\imgconvert.exe, null, null
+Created process: null, "C:\Users\samod\AppData\Local\Temp\System.bat" , D:\Ransom
+Defined file type created: C:\Users\samod\AppData\Roaming\imgconvert.exe
+Defined registry AutoStart location created or modified: machine\software\WOW6432Node\Microsoft\Windows\CurrentVersion\Run\NT Kernel System = D:\Ransom\VirusShare_cc5e8412f462feff5e910a75d7b66db4.EXE
+Defined registry AutoStart location created or modified: machine\software\WOW6432Node\Microsoft\Windows\CurrentVersion\Run\Windows Network System = C:\Users\samod\AppData\Roaming\imgconvert.exe
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+File deleted itself
+Hid folder from user: C:\Users\samod\AppData\Roaming
+Slept over 2 minutes
+Traces of AutoStart registry key
+Traces of Max++

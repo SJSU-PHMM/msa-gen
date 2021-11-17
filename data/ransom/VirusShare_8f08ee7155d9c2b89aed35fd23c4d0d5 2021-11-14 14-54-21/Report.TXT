@@ -1,0 +1,43 @@
+
+ Report generated with Buster Sandbox Analyzer 1.91 at 14:54:21 on 14/11/2021
+
+ [ General information ]
+   * Analysis duration: 00:00:30
+   * File name: D:\Ransom\VirusShare_8f08ee7155d9c2b89aed35fd23c4d0d5.EXE
+
+ [ Changes to filesystem ]
+   * Modifies file C:\WINDOWS\System32\drivers\etc\hosts
+   * Creates hidden folder C:\Users\samod\AppData\Local\Temp
+   * Creates file (empty) C:\Users\samod\AppData\Local\Temp\bcktemp0212.tmp
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{0c5d2a95-0000-0000-0080-000000000000}
+          old value empty
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{6da28fdf-b9f2-4900-8b93-8571e38a4334}
+          old value empty
+   * Creates value "Shell=D:\Ransom\VirusShare_8f08ee7155d9c2b89aed35fd23c4d0d5.EXE" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Run
+   * Creates value "Shell=D:\Ransom\VirusShare_8f08ee7155d9c2b89aed35fd23c4d0d5.EXE" in key HKEY_CURRENT_USER\software\Microsoft\Windows NT\CurrentVersion\Winlogon
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+   * Creates value "VirusShare_8f08ee7155d9c2b89aed35fd23c4d0d5.EXE.FriendlyAppName=VirusShare_8f08ee7155d9c2b89aed35fd23c4d0d5.EXE" in key HKEY_CURRENT_USER\software\classes\Local Settings\Software\Microsoft\Windows\Shell\MuiCache\D:\Ransom
+   * Creates value "VirusShare_8f08ee7155d9c2b89aed35fd23c4d0d5.EXE.ApplicationCompany=uyytfytftyfytfyf" in key HKEY_CURRENT_USER\software\classes\Local Settings\Software\Microsoft\Windows\Shell\MuiCache\D:\Ransom
+   * Creates value "taskkill.exe.FriendlyAppName=Terminates Processes" in key HKEY_CURRENT_USER\software\classes\Local Settings\Software\Microsoft\Windows\Shell\MuiCache\C:\WINDOWS\SysWOW64
+   * Creates value "taskkill.exe.ApplicationCompany=Microsoft Corporation" in key HKEY_CURRENT_USER\software\classes\Local Settings\Software\Microsoft\Windows\Shell\MuiCache\C:\WINDOWS\SysWOW64
+
+ [ Network services ]
+   * No changes
+
+ [ Process/window/string information ]
+   * Keylogger functionality.
+   * Gets system default language ID.
+   * Gets input locale identifiers.
+   * Locks screen.
+   * Creates process "null, D:\Ransom\VirusShare_8f08ee7155d9c2b89aed35fd23c4d0d5.exe, null".
+   * Creates process "null, taskkill /F /IM explorer.exe, null".
+   * Injects code into process "C:\Windows\SysWOW64\taskkill.exe".
+   * Enables privilege SeDebugPrivilege.
+   * Terminates process "C:\Windows\explorer.exe".
+   * Opens a service named "WinHttpAutoProxySvc".
+   * Enables process privileges.
+   * Sleeps 10 seconds.

@@ -1,0 +1,33 @@
+
+ Report generated with Buster Sandbox Analyzer 1.91 at 15:28:09 on 14/11/2021
+
+ [ General information ]
+   * Analysis duration: 00:00:30
+   * File name: D:\Ransom\VirusShare_c09f779c6eab5f9b78ccaeb2fd5d4513.EXE
+
+ [ Changes to filesystem ]
+   * No changes
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Creates value "Debugger=calc.exe" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows NT\CurrentVersion\Image File Execution Options\taskmgr.exe
+   * Modifies value "Shell=D:\Ransom\VirusShare_c09f779c6eab5f9b78ccaeb2fd5d4513.EXE" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows NT\CurrentVersion\Winlogon
+          old value "Shell=explorer.exe"
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{0c5d2a95-0000-0000-0080-000000000000}
+          old value empty
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{6da28fdf-b9f2-4900-8b93-8571e38a4334}
+          old value empty
+   * Creates value "Shell=D:\Ransom\VirusShare_c09f779c6eab5f9b78ccaeb2fd5d4513.EXE" in key HKEY_CURRENT_USER\software\Microsoft\Windows NT\CurrentVersion\Winlogon
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+   * Creates value "phone=89852323079" in key HKEY_CURRENT_USER\software\tetris
+   * Creates value "level=80B30A4A79862641" in key HKEY_CURRENT_USER\software\tetris
+
+ [ Network services ]
+   * No changes
+
+ [ Process/window/string information ]
+   * Gets input locale identifiers.
+   * Contains string Traces of AutoStart registry key ("Software\Microsoft\Windows NT\CurrentVersion\Image File Execution Options")
+   * Contains string Traces of AutoStart registry key ("Software\Microsoft\Windows NT\CurrentVersion\Winlogon")
+   * Contains string Checked for Task Manager software presence ("TASKMGR.EXE")

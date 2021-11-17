@@ -7,7 +7,7 @@ def main():
         src = "Logs1/"+filename;
         if (src.endswith('.txt')):
             dst = src[src.index('_')+1: src.index(' ')];
-            dst ='seq-gen/data/trojan/'+ dst+'.txt';
+            dst ='seq-gen/data/injector/'+ dst+'.txt';
             print(src);
             
             # rename() function will

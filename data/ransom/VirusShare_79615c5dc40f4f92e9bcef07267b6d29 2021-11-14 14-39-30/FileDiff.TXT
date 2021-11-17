@@ -1,0 +1,12 @@
+~ C:\WINDOWS\system32\CatRoot2\dberr.txt
+~ C:\WINDOWS\system32\CatRoot2\edb.chk
+? C:\WINDOWS\system32\CatRoot2\edb.log
+= C:\WINDOWS\system32\CatRoot2\edb00016.log
+? C:\WINDOWS\system32\CatRoot2\{127D0A1D-4EF2-11D1-8608-00C04FC295EE}\catdb
+? C:\WINDOWS\system32\CatRoot2\{127D0A1D-4EF2-11D1-8608-00C04FC295EE}\catdb.jfm
+? C:\WINDOWS\system32\CatRoot2\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\catdb
+? C:\WINDOWS\system32\CatRoot2\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\catdb.jfm
++ D:\Ransom\dwlGina3.dll
++ C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_VirusShare_79615_3c7c78df4211a561bfcee82f2f54ffc58885d77_e479f041_e51908e6-5f6d-4f21-a120-92cf2433082e\Report.wer
++ C:\Users\samod\AppData\Local\CrashDumps\VirusShare_79615c5dc40f4f92e9bcef07267b6d29.EXE.6988.dmp
++ C:\Users\samod\AppData\Roaming\rx5iur6idx.exe

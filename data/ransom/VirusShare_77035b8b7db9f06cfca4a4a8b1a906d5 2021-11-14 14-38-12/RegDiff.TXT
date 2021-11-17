@@ -1,0 +1,7 @@
+machine\software\microsoft\Windows\Windows Error Reporting\DontShowUI = 00000001
+machine\software\microsoft\Windows\Windows Error Reporting\LocalDumps = created registry key
+user\current\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{0c5d2a95-0000-0000-0080-000000000000}\NukeOnDelete = 00000001
+user\current\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{6da28fdf-b9f2-4900-8b93-8571e38a4334}\NukeOnDelete = 00000001
+user\current\software\Microsoft\Windows\CurrentVersion\Run\2324630636 = C:\Users\samod\2324630636\2324630636.exe
+user\current\software\Microsoft\Windows\CurrentVersion\RunOnce\2324630636_del = cmd /c del "D:\Ransom\VirusShare_77035b8b7db9f06cfca4a4a8b1a906d5.EXE"
+user\current\software\SandboxAutoExec  = 31

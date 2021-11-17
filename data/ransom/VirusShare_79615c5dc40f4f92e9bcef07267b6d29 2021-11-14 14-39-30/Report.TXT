@@ -1,0 +1,58 @@
+
+ Report generated with Buster Sandbox Analyzer 1.91 at 14:39:30 on 14/11/2021
+
+ [ General information ]
+   * Analysis duration: 00:00:18
+   * File name: D:\Ransom\VirusShare_79615c5dc40f4f92e9bcef07267b6d29.EXE
+
+ [ Changes to filesystem ]
+   * Modifies file C:\WINDOWS\system32\CatRoot2\dberr.txt
+   * Modifies file C:\WINDOWS\system32\CatRoot2\edb.chk
+   * Creates file D:\Ransom\dwlGina3.dll
+   * Creates file C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_VirusShare_79615_3c7c78df4211a561bfcee82f2f54ffc58885d77_e479f041_e51908e6-5f6d-4f21-a120-92cf2433082e\Report.wer
+   * Creates hidden folder C:\Users\samod\AppData\Local\CrashDumps
+   * Creates file (empty) C:\Users\samod\AppData\Local\CrashDumps\VirusShare_79615c5dc40f4f92e9bcef07267b6d29.EXE.6988.dmp
+   * Creates hidden folder C:\Users\samod\AppData\Roaming
+   * Creates file (empty) C:\Users\samod\AppData\Roaming\rx5iur6idx.exe
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Creates value "Yd92ZRE9ASh2qtG="C:\Users\samod\AppData\Roaming\rx5iur6idx.exe" /ActiveX" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\Active Setup\Installed Components\{zO6GMBsG-P0Lu-m6zG-Rn2O-mEvWgcvpFNqQ}
+   * Creates value "ClockTimeSeconds=3190916100000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\IdentityCRL\ClockData
+   * Creates value "TickCount=A5E95C0000000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\IdentityCRL\ClockData
+   * Creates value "Yd92ZRE9ASh2qtG=C:\Users\samod\AppData\Roaming\rx5iur6idx.exe" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\Windows\CurrentVersion\Run
+   * Modifies value "Shell=C:\Users\samod\AppData\Roaming\rx5iur6idx.exe" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\Winlogon
+          old value "Shell=explorer.exe"
+   * Modifies value "HideIcons=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\Advanced
+          old value empty
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{0c5d2a95-0000-0000-0080-000000000000}
+          old value empty
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{6da28fdf-b9f2-4900-8b93-8571e38a4334}
+          old value empty
+   * Modifies value "1400=0" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\0
+          old value empty
+   * Modifies value "1400=0" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\1
+          old value empty
+   * Modifies value "1400=0" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3
+          old value empty
+   * Creates value "NoDesktop=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Policies\Explorer
+   * Creates value "DisableTaskMgr=1" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Policies\System
+   * Creates value "DisableRegistryTools=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Policies\System
+   * Creates value "Yd92ZRE9ASh2qtG=C:\Users\samod\AppData\Roaming\rx5iur6idx.exe" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Run
+   * Creates value "Shell=C:\Users\samod\AppData\Roaming\rx5iur6idx.exe" in key HKEY_CURRENT_USER\software\Microsoft\Windows NT\CurrentVersion\Winlogon
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+
+ [ Network services ]
+   * No changes
+
+ [ Process/window/string information ]
+   * Keylogger functionality.
+   * Gets input locale identifiers.
+   * Gets computer name.
+   * Installs a hook procedure that monitors mouse messages.
+   * Installs a hook procedure that monitors keystroke messages.
+   * Opens a service named "WinHttpAutoProxySvc".
+   * Enumerates running processes.
+   * Opens a service named "CryptSvc".
+   * Sleeps 31 seconds.

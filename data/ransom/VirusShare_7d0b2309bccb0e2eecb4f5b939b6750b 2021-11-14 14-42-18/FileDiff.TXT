@@ -1,0 +1,4 @@
++ C:\WINDOWS\SysWOW64\InetAccelerator.exe
+~ C:\WINDOWS\win.ini
++ C:\ProgramData\InetAccelerator\InetAccelerator.exe
++ C:\Users\samod\AppData\Roaming\InetAccelerator\InetAccelerator.exe

@@ -1,0 +1,13 @@
+
+Report generated with Buster Sandbox Analyzer 1.91 at 15:28:09 on 14/11/2021
+
+Detailed report of suspicious malware actions:
+
+Checked for Task Manager software presence
+Defined registry AutoStart location created or modified: machine\software\microsoft\Windows NT\CurrentVersion\Image File Execution Options\taskmgr.exe\Debugger = calc.exe
+Defined registry AutoStart location created or modified: machine\software\microsoft\Windows NT\CurrentVersion\Winlogon\Shell = D:\Ransom\VirusShare_c09f779c6eab5f9b78ccaeb2fd5d4513.EXE
+Defined registry AutoStart location created or modified: user\current\software\Microsoft\Windows NT\CurrentVersion\Winlogon\Shell = D:\Ransom\VirusShare_c09f779c6eab5f9b78ccaeb2fd5d4513.EXE
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+Got input locale identifiers
+Traces of AutoStart registry key
+Traces of Max++

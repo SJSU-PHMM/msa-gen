@@ -1,0 +1,18 @@
+
+Report generated with Buster Sandbox Analyzer 1.91 at 15:16:45 on 14/11/2021
+
+Detailed report of suspicious malware actions:
+
+Checked for Task Manager software presence
+Code injection in process: C:\Windows\SysWOW64\Taskmgr.exe
+Created process: C:\WINDOWS\System32\Taskmgr.exe, "C:\WINDOWS\System32\Taskmgr.exe" , D:\Ransom
+Defined file type created in Windows folder: C:\WINDOWS\sambuka.bat
+Defined file type created in Windows folder: C:\WINDOWS\sambuka.exe
+Defined registry AutoStart location created or modified: user\current\software\Microsoft\Windows\CurrentVersion\Run\sambuka = C:\WINDOWS\sambuka.bat
+Detected keylogger functionality
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+File copied itself
+Got input locale identifiers
+Hid file from user: C:\WINDOWS\sambuka.exe
+Traces of AutoStart registry key
+Traces of Max++

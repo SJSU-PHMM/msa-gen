@@ -1,0 +1,11 @@
+~ C:\WINDOWS\system32\CatRoot2\dberr.txt
+~ C:\WINDOWS\system32\CatRoot2\edb.chk
+? C:\WINDOWS\system32\CatRoot2\edb.log
+= C:\WINDOWS\system32\CatRoot2\edb00016.log
+? C:\WINDOWS\system32\CatRoot2\{127D0A1D-4EF2-11D1-8608-00C04FC295EE}\catdb
+? C:\WINDOWS\system32\CatRoot2\{127D0A1D-4EF2-11D1-8608-00C04FC295EE}\catdb.jfm
+? C:\WINDOWS\system32\CatRoot2\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\catdb
+? C:\WINDOWS\system32\CatRoot2\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\catdb.jfm
++ C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_VirusShare_a9070_11cfe69a43d44d8699362cc32f4bc4a9d92d5c_314b38bf_8c53c69a-debe-49f4-8608-0917a5fdc58a\Report.wer
++ C:\Users\samod\AppData\Local\CrashDumps\VirusShare_a9070019d072eb2f059f19f94baa22b3.EXE.12908.dmp
++ C:\Users\samod\AppData\Roaming\slk2ha738lzpi00b.dat

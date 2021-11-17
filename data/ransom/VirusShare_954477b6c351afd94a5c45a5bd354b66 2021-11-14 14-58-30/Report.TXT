@@ -1,0 +1,55 @@
+
+ Report generated with Buster Sandbox Analyzer 1.91 at 14:58:30 on 14/11/2021
+
+ [ General information ]
+   * Analysis duration: 00:00:30
+   * File name: d:\ransom\virusshare_954477b6c351afd94a5c45a5bd354b66.dll
+   * File executed by: C:\Windows\System32\rundll32.exe
+
+ [ Changes to filesystem ]
+   * Modifies file C:\WINDOWS\system32\CatRoot2\dberr.txt
+   * Modifies file C:\WINDOWS\system32\CatRoot2\edb.chk
+   * Creates file C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_explorer.exe_f04af06ef270c985799baeb0973e9bc81f5a981b_4a5c467e_452837d5-b066-4691-bfb2-f33ae45113de\Report.wer
+   * Creates hidden folder C:\Users\samod\AppData\Local\CrashDumps
+   * Creates file (empty) C:\Users\samod\AppData\Local\CrashDumps\explorer.exe.2256.dmp
+   * Creates hidden folder C:\Users\samod\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+   * Creates file (empty) C:\Users\samod\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\VirusShare_954477b6c351afd94a5c45a5bd354b66.DLL.lnk
+
+ [ Changes to registry ]
+   * Empties value "AppId" in key HKEY_LOCAL_MACHINE\software\Classes\clsid\{ceff45ee-c862-41de-aee2-a022c81eda92}
+         old value "AppId={CDCBCFCA-3CDC-436f-A4E2-0E02075250C2}"
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Creates value "ClockTimeSeconds=A794916100000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\IdentityCRL\ClockData
+   * Creates value "TickCount=AE576E0000000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\IdentityCRL\ClockData
+   * Creates value "NoProtectedModeBanner=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Internet Explorer\Main
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{0c5d2a95-0000-0000-0080-000000000000}
+          old value empty
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{6da28fdf-b9f2-4900-8b93-8571e38a4334}
+          old value empty
+   * Creates value "2500=00000003" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\0
+   * Empties value "1609" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\2
+         old value "1609=00000001"
+   * Creates value "2500=00000003" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\2
+   * Empties value "1609" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3
+         old value "1609=00000001"
+   * Creates value "2500=00000003" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\3
+   * Creates value "2500=00000003" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Internet Settings\Zones\4
+   * Creates value "DisableTaskMgr=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Policies\System
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+   * Creates value "notepad.exe.FriendlyAppName=Notepad" in key HKEY_CURRENT_USER\software\classes\Local Settings\Software\Microsoft\Windows\Shell\MuiCache\C:\Windows\SysWOW64
+   * Creates value "notepad.exe.ApplicationCompany=Microsoft Corporation" in key HKEY_CURRENT_USER\software\classes\Local Settings\Software\Microsoft\Windows\Shell\MuiCache\C:\Windows\SysWOW64
+
+ [ Network services ]
+   * No changes
+
+ [ Process/window/string information ]
+   * Gets input locale identifiers.
+   * Gets computer name.
+   * Enumerates running processes.
+   * Injects code into process "C:\Windows\SysWOW64\explorer.exe".
+   * Injects code into process "C:\Windows\SysWOW64\notepad.exe".
+   * Switches Desktop.
+   * Opens a service named "WinHttpAutoProxySvc".
+   * Opens a service named "CryptSvc".
+   * Sleeps 55 seconds.

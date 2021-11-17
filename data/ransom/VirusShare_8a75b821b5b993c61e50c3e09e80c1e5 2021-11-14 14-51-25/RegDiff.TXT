@@ -1,0 +1,11 @@
+machine\software\microsoft\Windows\Windows Error Reporting\DontShowUI = 00000001
+machine\software\microsoft\Windows\Windows Error Reporting\LocalDumps = created registry key
+user\current\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{0c5d2a95-0000-0000-0080-000000000000}\NukeOnDelete = 00000001
+user\current\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{6da28fdf-b9f2-4900-8b93-8571e38a4334}\NukeOnDelete = 00000001
+user\current\software\Microsoft\Windows\CurrentVersion\Run\Shell = D:\Ransom\VirusShare_8a75b821b5b993c61e50c3e09e80c1e5.EXE
+user\current\software\Microsoft\Windows NT\CurrentVersion\Winlogon\Shell = D:\Ransom\VirusShare_8a75b821b5b993c61e50c3e09e80c1e5.EXE
+user\current\software\SandboxAutoExec  = 31
+user\current_classes\Local Settings\Software\Microsoft\Windows\Shell\MuiCache\D:\Ransom\VirusShare_8a75b821b5b993c61e50c3e09e80c1e5.EXE.FriendlyAppName = VirusShare_8a75b821b5b993c61e50c3e09e80c1e5.EXE
+user\current_classes\Local Settings\Software\Microsoft\Windows\Shell\MuiCache\D:\Ransom\VirusShare_8a75b821b5b993c61e50c3e09e80c1e5.EXE.ApplicationCompany = KAf
+user\current_classes\Local Settings\Software\Microsoft\Windows\Shell\MuiCache\C:\WINDOWS\SysWOW64\taskkill.exe.FriendlyAppName = Terminates Processes
+user\current_classes\Local Settings\Software\Microsoft\Windows\Shell\MuiCache\C:\WINDOWS\SysWOW64\taskkill.exe.ApplicationCompany = Microsoft Corporation

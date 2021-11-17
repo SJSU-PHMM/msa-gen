@@ -1,0 +1,10 @@
+Executing: D:\Ransom\VirusShare_fdfc6587fda1f9316f88ceb41865f8dc.EXE
+GetModuleHandle(ntdll) [d:\ransom\virusshare_fdfc6587fda1f9316f88ceb41865f8dc.exe]
+QuerySystemInformation(SystemBasicInformation) [d:\ransom\virusshare_fdfc6587fda1f9316f88ceb41865f8dc.exe]
+QuerySystemInformation(SystemProcessorInformation) [d:\ransom\virusshare_fdfc6587fda1f9316f88ceb41865f8dc.exe]
+QueryProcessInformation(D:\Ransom\VirusShare_fdfc6587fda1f9316f88ceb41865f8dc.EXE, ProcessImageInformation) [d:\ransom\virusshare_fdfc6587fda1f9316f88ceb41865f8dc.exe]
+CreateThread() [d:\ransom\virusshare_fdfc6587fda1f9316f88ceb41865f8dc.exe]
+ResumeThread(14416) [d:\ransom\virusshare_fdfc6587fda1f9316f88ceb41865f8dc.exe]
+VirtualAllocEx(D:\Ransom\VirusShare_fdfc6587fda1f9316f88ceb41865f8dc.EXE, MEM_COMMIT, PAGE_READWRITE, RegionSize=0x00001000) [d:\ransom\virusshare_fdfc6587fda1f9316f88ceb41865f8dc.exe]
+ExitProcess(1703792) [d:\ransom\virusshare_fdfc6587fda1f9316f88ceb41865f8dc.exe]
+TerminateProcess() [d:\ransom\virusshare_fdfc6587fda1f9316f88ceb41865f8dc.exe]

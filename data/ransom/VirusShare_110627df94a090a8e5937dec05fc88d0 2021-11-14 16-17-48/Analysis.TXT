@@ -1,0 +1,22 @@
+
+Report generated with Buster Sandbox Analyzer 1.91 at 16:17:48 on 14/11/2021
+
+Detailed report of suspicious malware actions:
+
+Checked for debuggers
+Checked for Task Manager software presence
+Code injection in process: C:\Windows\SysWOW64\Taskmgr.exe
+Created a mutex named: Local\MSIMGSIZECacheMutex
+Created process: C:\Windows\System32\Taskmgr.exe, "C:\Windows\System32\Taskmgr.exe" , D:\Ransom
+Defined file type created: C:\pietro.bat
+Defined file type created: C:\pietro.exe
+Defined registry AutoStart location created or modified: user\current\software\Microsoft\Windows\CurrentVersion\Run\pietro = C:\pietro.bat
+Detected keylogger functionality
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+File copied itself
+Got input locale identifiers
+Hid file from user: C:\pietro.exe
+Hid folder from user: C:\Users\samod\AppData\Local\Microsoft\Internet Explorer
+Opened a service named: WinHttpAutoProxySvc
+Traces of AutoStart registry key
+Traces of Max++

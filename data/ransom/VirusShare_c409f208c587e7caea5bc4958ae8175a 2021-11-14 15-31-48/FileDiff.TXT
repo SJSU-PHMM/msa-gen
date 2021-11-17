@@ -1,0 +1,4 @@
++ C:\WINDOWS\Sound.bat
++ C:\WINDOWS\Sound.exe
++ C:\WINDOWS\SysWOW64\mdsdba.dll
+- C:\WINDOWS\SysWOW64\Taskmgr.exe

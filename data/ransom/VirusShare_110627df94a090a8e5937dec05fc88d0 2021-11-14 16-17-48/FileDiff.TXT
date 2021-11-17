@@ -1,0 +1,3 @@
++ C:\pietro.bat
++ C:\pietro.exe
+~ C:\Users\samod\AppData\Local\Microsoft\Internet Explorer\MSIMGSIZ.DAT

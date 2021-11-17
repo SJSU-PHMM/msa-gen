@@ -1,0 +1,21 @@
+
+Report generated with Buster Sandbox Analyzer 1.91 at 14:48:38 on 14/11/2021
+
+Detailed report of suspicious malware actions:
+
+Code injection in process: C:\Users\samod\AppData\Roaming\jhds56ud56\dr5j56iud56.exe
+Code injection in process: C:\Windows\SysWOW64\cmd.exe
+Code injection in process: C:\Windows\SysWOW64\reg.exe
+Created process: C:\Users\samod\AppData\Roaming\jhds56ud56\dr5j56iud56.exe, "C:\Users\samod\AppData\Roaming\jhds56ud56\dr5j56iud56.exe" , D:\Ransom
+Created process: C:\WINDOWS\system32\reg.exe, REG  ADD "HKCU\Software\Microsoft\Windows\CurrentVersion\Run" /v "srt6u56us6hty" /t REG_SZ /d "C:\Users\samod\AppData\Roaming\jhds56ud56\dr5j56iud56.exe" /f, D:\Ransom
+Created process: null, "C:\Users\samod\AppData\Local\Temp\6632046.bat" , D:\Ransom
+Defined file type created: C:\Users\samod\AppData\Local\Temp\6632046.bat
+Defined file type created: C:\Users\samod\AppData\Roaming\jhds56ud56\dr5j56iud56.exe
+Defined registry AutoStart location created or modified: user\current\software\Microsoft\Windows\CurrentVersion\Run\srt6u56us6hty = C:\Users\samod\AppData\Roaming\jhds56ud56\dr5j56iud56.exe
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+Got system default language ID
+Hid folder from user: C:\Users\samod\AppData\Local\Temp
+Hid folder from user: C:\Users\samod\AppData\Roaming\jhds56ud56
+Opened a service named: PcaSvc
+Started a service
+Traces of Max++

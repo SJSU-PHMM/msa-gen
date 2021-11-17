@@ -1,0 +1,9 @@
+
+Report generated with Buster Sandbox Analyzer 1.91 at 15:59:51 on 14/11/2021
+
+Detailed report of suspicious malware actions:
+
+Code injection in process: C:\Windows\SysWOW64\rundll32.exe
+Created process: null, C:\WINDOWS\system32\rundll32.exe D:\Ransom\VirusShare_f2c4d7fd57aec565910f7bf03b8ed8af.EXE.tmp,X50, null
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+Traces of Max++

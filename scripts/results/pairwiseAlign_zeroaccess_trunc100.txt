@@ -1,0 +1,270 @@
+
+0,1
+FGGDKNHBBBB-BBBBHWDG
+||||||   || ||||||||
+FGGDKN---BBHBBBBHWDG
+  Score=140
+
+0,2
+FGGDKNH--BBB-BBBB--B---H--WD-G--
+||||||   ||| ||||  |   |  |  |  
+FGGDKN-VVBBBHBBBBFFBFDDH3HW-*G36
+  Score=95
+
+0,3
+FGGDKNHBBBBBBBB--HWDG
+|||||||||||||||  ||||
+FGGDKNHBBBBBBBBFFHWDG
+  Score=180
+
+0,4
+FGGDKNHBB-BBBB--BB-HWDG
+|||||| || ||||  || ||||
+FGGDKN-BBHBBBBFFBBFHWDG
+  Score=155
+
+0,5
+FGGDKNHB-BBB--BBBB----HWDG
+|||||||| |||  ||||    ||||
+FGGDKNHBFBBBFDBBBBBBBBHWDG
+  Score=155
+
+0,6
+FGGDKNHBBBBBBBBHWDG
+|||||||||||||||||||
+FGGDKNHBBBBBBBBHWDG
+  Score=190
+
+0,7
+FGGDKNHBB-BBBBB-B-H--WD-G--
+|||||| || ||||| | |  |  |  
+FGGDKN-BBHBBBBBDBDH3HW-*G36
+  Score=120
+
+0,8
+FGGDKNHBBBB-BBBBHWDG
+||||||   || ||||||||
+FGGDKN---BBHBBBBHWDG
+  Score=140
+
+0,9
+FGGDKNHBBBB-BBBB----HWDG
+|||||| |||| ||||    ||||
+FGGDKN-BBBBHBBBBBFFFHWDG
+  Score=150
+
+1,2
+FGGDKN--BB-HBBBB------H--WD-G--
+||||||  || |||||      |  |  |  
+FGGDKNVVBBBHBBBBFFBFDDH3HW-*G36
+  Score=85
+
+1,3
+FGGDKN-BBHBBBB----HWDG
+|||||| || ||||    ||||
+FGGDKNHBB-BBBBBBFFHWDG
+  Score=130
+
+1,4
+FGGDKNBBHBBBB-----HWDG
+|||||||||||||     ||||
+FGGDKNBBHBBBBFFBBFHWDG
+  Score=145
+
+1,5
+FGGDKN-B-BHBB--BB------HWDG
+|||||| | | ||  ||      ||||
+FGGDKNHBFB-BBFDBBBBBBBBHWDG
+  Score=105
+
+1,6
+FGGDKN-BBHBBBB--HWDG
+|||||| || ||||  ||||
+FGGDKNHBB-BBBBBBHWDG
+  Score=140
+
+1,7
+FGGDKNBBHBBBB----H--WD-G--
+|||||||||||||    |  |  |  
+FGGDKNBBHBBBBBDBDH3HW-*G36
+  Score=110
+
+1,8
+FGGDKNBBHBBBBHWDG
+|||||||||||||||||
+FGGDKNBBHBBBBHWDG
+  Score=170
+
+1,9
+FGGDKNBB--HBBBB----HWDG
+||||||||  |||||    ||||
+FGGDKNBBBBHBBBBBFFFHWDG
+  Score=140
+
+2,3
+FGGDKNVV-BBBHBBBBFFBFDDH3-HW*-G36
+||||||   ||| ||||  ||     ||  |  
+FGGDKN--HBBB-BBBB--BF----FHW-DG--
+  Score=105
+
+2,4
+FGGDKNVVBBBHBBBBFFB-FDDH3HW*-G36
+||||||   |||||||||| |    ||  |  
+FGGDKN---BBHBBBBFFBBF----HW-DG--
+  Score=140
+
+2,5
+FGGDKNVV-B-BBHB--BBBFFBFDDH3----HW*-G36
+||||||   | || |  |||  |         ||  |  
+FGGDKN--HBFBB-BFDBBB--B-----BBBBHW-DG--
+  Score=60
+
+2,6
+FGGDKNVV-BBBHBBBBFFBFDDH3HW*-G36
+||||||   ||| ||||  |     ||  |  
+FGGDKN--HBBB-BBBB--B-----HW-DG--
+  Score=95
+
+2,7
+FGGDKNVVBBBHBBBBFFBFD-DH3HW*G36
+||||||   |||||||  | | |||||||||
+FGGDKN---BBHBBBB--B-DBDH3HW*G36
+  Score=205
+
+2,8
+FGGDKNVVBBBHBBBBFFBFDDH3HW*-G36
+||||||   ||| |||  |     ||  |  
+FGGDKN---BBH-BBB--B-----HW-DG--
+  Score=85
+
+2,9
+FGGDKNVVBBB-HBBBB-FFBFDDH3HW*-G36
+||||||  ||| ||||| || |    ||  |  
+FGGDKN--BBBBHBBBBBFF-F----HW-DG--
+  Score=135
+
+3,4
+FGGDKNHBB-BBBB--BBFFHWDG
+|||||| || ||||  || |||||
+FGGDKN-BBHBBBBFFBB-FHWDG
+  Score=165
+
+3,5
+FGGDKNHB-BBB--BBBBFF----HWDG
+|||||||| |||  ||||      ||||
+FGGDKNHBFBBBFDBBBB--BBBBHWDG
+  Score=145
+
+3,6
+FGGDKNHBBBBBBBBFFHWDG
+|||||||||||||||  ||||
+FGGDKNHBBBBBBBB--HWDG
+  Score=180
+
+3,7
+FGGDKNHBB-BBBBB-BFF-H--WD-G--
+|||||| || ||||| |   |  |  |  
+FGGDKN-BBHBBBBBDB--DH3HW-*G36
+  Score=110
+
+3,8
+FGGDKNHBBBB-BBBBFFHWDG
+||||||   || ||||  ||||
+FGGDKN---BBHBBBB--HWDG
+  Score=130
+
+3,9
+FGGDKNHBBBB-BBBB-FF-HWDG
+|||||| |||| |||| || ||||
+FGGDKN-BBBBHBBBBBFFFHWDG
+  Score=180
+
+4,5
+FGGDKNBBHB-BBBFF-BBF------HWDG
+||||||  || ||| | ||       ||||
+FGGDKN--HBFBBB-FDBB-BBBBBBHWDG
+  Score=120
+
+4,6
+FGGDKN-BBHBBBBFFBBFHWDG
+|||||| || ||||  || ||||
+FGGDKNHBB-BBBB--BB-HWDG
+  Score=155
+
+4,7
+FGGDKNBBHBBBBFFB-BF-H--WD-G--
+|||||||||||||  | |  |  |  |  
+FGGDKNBBHBBBB--BDB-DH3HW-*G36
+  Score=125
+
+4,8
+FGGDKNBBHBBBBFFBBFHWDG
+|||||||||  ||  || ||||
+FGGDKNBBH--BB--BB-HWDG
+  Score=145
+
+4,9
+FGGDKNBB--HBBBB-FFBBFHWDG
+||||||||  ||||| ||  |||||
+FGGDKNBBBBHBBBBBFF--FHWDG
+  Score=175
+
+5,6
+FGGDKNHBFBBBFDBBBBBBBBHWDG
+|||||||       ||||||||||||
+FGGDKNH-------BBBBBBBBHWDG
+  Score=155
+
+5,7
+FGGDKNHBFBBBFDBB-BBBBB-B-H--WD-G--
+||||||        || ||||| | |  |  |  
+FGGDKN--------BBHBBBBBDBDH3HW-*G36
+  Score=85
+
+5,8
+FGGDKNHBFBBBFDBBBB-BBBBHWDG
+||||||          || ||||||||
+FGGDKN----------BBHBBBBHWDG
+  Score=105
+
+5,9
+FGGDKNHBFBBBFDBBB-BBBBB---HWDG
+||||||     |  ||| |||||   ||||
+FGGDKN-----B--BBBHBBBBBFFFHWDG
+  Score=135
+
+6,7
+FGGDKNHBB-BBBBB-B-H--WD-G--
+|||||| || ||||| | |  |  |  
+FGGDKN-BBHBBBBBDBDH3HW-*G36
+  Score=120
+
+6,8
+FGGDKNHBBBB-BBBBHWDG
+||||||   || ||||||||
+FGGDKN---BBHBBBBHWDG
+  Score=140
+
+6,9
+FGGDKNHBBBB-BBBB----HWDG
+|||||| |||| ||||    ||||
+FGGDKN-BBBBHBBBBBFFFHWDG
+  Score=150
+
+7,8
+FGGDKNBBHBBBBBDBDH3HW*-G36
+|||||||||  ||| |   ||  |  
+FGGDKNBBH--BBB-B---HW-DG--
+  Score=110
+
+7,9
+FGGDKNBBHBB-BBBDBDH3----HW*-G36
+|||||||| || ||| |       ||  |  
+FGGDKNBB-BBHBBB-B---BFFFHW-DG--
+  Score=100
+
+8,9
+FGGDKNBB--HBBBB----HWDG
+||||||||  |||||    ||||
+FGGDKNBBBBHBBBBBFFFHWDG
+  Score=140

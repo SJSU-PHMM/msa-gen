@@ -1,0 +1,24 @@
+
+Report generated with Buster Sandbox Analyzer 1.91 at 14:42:18 on 14/11/2021
+
+Detailed report of suspicious malware actions:
+
+Checked for debuggers
+Checked for Process Explorer software presence
+Checked for registry software presence
+Checked for Task Manager software presence
+Defined file type created in Windows folder: C:\WINDOWS\SysWOW64\InetAccelerator.exe
+Defined file type created: C:\ProgramData\InetAccelerator\InetAccelerator.exe
+Defined file type created: C:\Users\samod\AppData\Roaming\InetAccelerator\InetAccelerator.exe
+Defined file type modified in Windows folder: C:\WINDOWS\win.ini
+Defined registry AutoStart location created or modified: machine\software\WOW6432Node\Microsoft\Windows\CurrentVersion\Run\InetAccelerator = C:\WINDOWS\system32\InetAccelerator.exe
+Defined registry AutoStart location created or modified: machine\software\WOW6432Node\Microsoft\Windows\CurrentVersion\Run\InetAccelerator. = C:\ProgramData\InetAccelerator\InetAccelerator.exe
+Defined registry AutoStart location created or modified: user\current\software\Microsoft\Windows NT\CurrentVersion\Winlogon\shell = C:\Users\samod\AppData\Roaming\InetAccelerator\InetAccelerator.exe,Explorer.exe,
+Defined registry AutoStart location created or modified: user\current\software\Microsoft\Windows\CurrentVersion\Run\InetAccelerator = C:\Users\samod\AppData\Roaming\InetAccelerator\InetAccelerator.exe
+Detected keylogger functionality
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+File copied itself
+Got input locale identifiers
+Hid folder from user: C:\Users\samod\AppData\Roaming\InetAccelerator
+Traces of AutoStart registry key
+Traces of Max++

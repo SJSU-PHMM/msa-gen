@@ -1,0 +1,15 @@
+
+Report generated with Buster Sandbox Analyzer 1.91 at 15:01:54 on 14/11/2021
+
+Detailed report of suspicious malware actions:
+
+Checked for registry software presence
+Checked for Task Manager software presence
+Defined file type created in Windows folder: C:\WINDOWS\Sound.exe
+Defined registry AutoStart location created or modified: user\current\software\Microsoft\Windows\CurrentVersion\Run\Sound = C:\WINDOWS\Sound.exe
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+File copied itself
+Got input locale identifiers
+Hid file from user: C:\WINDOWS\Sound.exe
+Traces of AutoStart registry key
+Traces of Max++

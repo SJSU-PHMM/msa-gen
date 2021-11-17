@@ -1,0 +1,11 @@
+~ C:\WINDOWS\system32\CatRoot2\dberr.txt
+~ C:\WINDOWS\system32\CatRoot2\edb.chk
+? C:\WINDOWS\system32\CatRoot2\edb.log
+= C:\WINDOWS\system32\CatRoot2\edb00016.log
+? C:\WINDOWS\system32\CatRoot2\{127D0A1D-4EF2-11D1-8608-00C04FC295EE}\catdb
+? C:\WINDOWS\system32\CatRoot2\{127D0A1D-4EF2-11D1-8608-00C04FC295EE}\catdb.jfm
+? C:\WINDOWS\system32\CatRoot2\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\catdb
+? C:\WINDOWS\system32\CatRoot2\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\catdb.jfm
++ D:\Ransom\VirusShare_98fa5f46a39de04045ce9c3264427a29.EXE.tmp
++ C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_rundll32.exe_6479996b35bed12e9c342780415427d64504258_7522e4b5_2f8faca9-0c9c-4966-9463-f2c7d010e623\Report.wer
++ C:\Users\samod\AppData\Local\CrashDumps\rundll32.exe.5364.dmp

@@ -1,0 +1,21 @@
+
+Report generated with Buster Sandbox Analyzer 1.91 at 15:51:15 on 14/11/2021
+
+Detailed report of suspicious malware actions:
+
+Checked for debuggers
+Checked for Task Manager software presence
+Defined file type created: C:\Users\samod\AppData\Roaming\aerhuy5e4u.exe
+Defined file type created: D:\Ransom\dwlGina3.dll
+Defined registry AutoStart location created or modified: machine\software\WOW6432Node\Microsoft\Windows\CurrentVersion\Run\WftacQBXWC5kcdU = C:\Users\samod\AppData\Roaming\aerhuy5e4u.exe
+Defined registry AutoStart location created or modified: user\current\software\Microsoft\Windows NT\CurrentVersion\Winlogon\Shell = C:\Users\samod\AppData\Roaming\aerhuy5e4u.exe
+Defined registry AutoStart location created or modified: user\current\software\Microsoft\Windows\CurrentVersion\Run\WftacQBXWC5kcdU = C:\Users\samod\AppData\Roaming\aerhuy5e4u.exe
+Detected keylogger functionality
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+Got input locale identifiers
+Hid folder from user: C:\Users\samod\AppData\Roaming
+IE settings change: user\current\software\microsoft\windows\currentversion\internet settings\zones\0\1400 = 0
+IE settings change: user\current\software\microsoft\windows\currentversion\internet settings\zones\1\1400 = 0
+IE settings change: user\current\software\microsoft\windows\currentversion\internet settings\zones\3\1400 = 0
+Traces of AutoStart registry key
+Traces of Max++

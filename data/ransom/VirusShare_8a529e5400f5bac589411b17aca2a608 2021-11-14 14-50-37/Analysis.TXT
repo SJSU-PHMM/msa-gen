@@ -1,0 +1,31 @@
+
+Report generated with Buster Sandbox Analyzer 1.91 at 14:50:37 on 14/11/2021
+
+Detailed report of suspicious malware actions:
+
+Checked for Chrome browser software presence
+Checked for Kaspersky security software presence
+Checked for Microsoft Malware Protection security software presence
+Checked for Microsoft Windows Defender security software presence
+Checked for PER security software presence
+Code injection in process: C:\Windows\SysWOW64\notepad.exe
+Defined code injection in process: C:\Windows\SysWOW64\explorer.exe
+Defined file type created in Autostart location: C:\Users\samod\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\VirusShare_8a529e5400f5bac589411b17aca2a608.DLL.lnk
+Defined registry AutoStart location created or modified: user\current\software\Microsoft\Internet Explorer\Main\NoProtectedModeBanner = 00000001
+Detected desktop switch attempt
+Disable Task Manager: user\current\software\microsoft\windows\currentversion\policies\system\disabletaskmgr = 00000001
+Enumerated running processes
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+Got computer name
+Got input locale identifiers
+Hid folder from user: C:\Users\samod\AppData\Local\CrashDumps
+Hid folder from user: C:\Users\samod\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+IE settings change: user\current\software\microsoft\windows\currentversion\internet settings\zones\0\2500 = 00000003
+IE settings change: user\current\software\microsoft\windows\currentversion\internet settings\zones\2\1609 = empty value key
+IE settings change: user\current\software\microsoft\windows\currentversion\internet settings\zones\2\2500 = 00000003
+IE settings change: user\current\software\microsoft\windows\currentversion\internet settings\zones\3\1609 = empty value key
+IE settings change: user\current\software\microsoft\windows\currentversion\internet settings\zones\3\2500 = 00000003
+IE settings change: user\current\software\microsoft\windows\currentversion\internet settings\zones\4\2500 = 00000003
+Opened a service named: CryptSvc
+Opened a service named: WinHttpAutoProxySvc
+Traces of Max++

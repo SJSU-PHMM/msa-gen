@@ -1,0 +1,10 @@
+machine\software\microsoft\Windows\Windows Error Reporting\DontShowUI = 00000001
+machine\software\microsoft\Windows\Windows Error Reporting\LocalDumps = created registry key
+machine\software\WOW6432Node\Microsoft\Windows\CurrentVersion\Run\InetAccelerator = C:\WINDOWS\system32\InetAccelerator.exe
+machine\software\WOW6432Node\Microsoft\Windows\CurrentVersion\Run\InetAccelerator. = C:\ProgramData\InetAccelerator\InetAccelerator.exe
+machine\software\WOW6432Node\Microsoft\Windows NT\CurrentVersion\Winlogon\userinit = C:\ProgramData\InetAccelerator\InetAccelerator.exe,C:\WINDOWS\system32\InetAccelerator.exe,
+user\current\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{0c5d2a95-0000-0000-0080-000000000000}\NukeOnDelete = 00000001
+user\current\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{6da28fdf-b9f2-4900-8b93-8571e38a4334}\NukeOnDelete = 00000001
+user\current\software\Microsoft\Windows\CurrentVersion\Run\InetAccelerator = C:\Users\samod\AppData\Roaming\InetAccelerator\InetAccelerator.exe
+user\current\software\Microsoft\Windows NT\CurrentVersion\Winlogon\shell = C:\Users\samod\AppData\Roaming\InetAccelerator\InetAccelerator.exe,Explorer.exe,
+user\current\software\SandboxAutoExec  = 31

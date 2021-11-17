@@ -1,0 +1,19 @@
+
+Report generated with Buster Sandbox Analyzer 1.91 at 15:06:08 on 14/11/2021
+
+Detailed report of suspicious malware actions:
+
+Code injection in process: C:\Windows\SysWOW64\cmd.exe
+Code injection in process: C:\Windows\SysWOW64\reg.exe
+Code injection in process: C:\Windows\SysWOW64\shutdown.exe
+Created process: C:\Windows\System32\cmd.exe, "C:\Windows\System32\cmd.exe" /c REG ADD HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run /v 26317021 /t REG_SZ /d "C:\Users\samod\26317021\26317021.exe" /f, D:\Ransom
+Created process: C:\WINDOWS\system32\reg.exe, REG  ADD HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Run /v 26317021 /t REG_SZ /d "C:\Users\samod\26317021\26317021.exe" /f, D:\Ransom
+Created process: null, SHUTDOWN /R /F /T 05, null
+Defined file type created: C:\Users\samod\26317021\26317021.exe
+Defined registry AutoStart location created or modified: user\current\software\Microsoft\Windows\CurrentVersion\Run\26317021 = C:\Users\samod\26317021\26317021.exe
+Detected privilege modification
+Detected process privilege elevation
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+Hid folder from user: C:\Users\samod\26317021
+Traces of AutoStart registry key
+Traces of Max++

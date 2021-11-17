@@ -1,0 +1,13 @@
+~ C:\WINDOWS\system32\CatRoot2\dberr.txt
+~ C:\WINDOWS\system32\CatRoot2\edb.chk
+? C:\WINDOWS\system32\CatRoot2\edb.log
+= C:\WINDOWS\system32\CatRoot2\edb00016.log
+? C:\WINDOWS\system32\CatRoot2\{127D0A1D-4EF2-11D1-8608-00C04FC295EE}\catdb
+? C:\WINDOWS\system32\CatRoot2\{127D0A1D-4EF2-11D1-8608-00C04FC295EE}\catdb.jfm
+? C:\WINDOWS\system32\CatRoot2\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\catdb
+? C:\WINDOWS\system32\CatRoot2\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\catdb.jfm
++ D:\Ransom\dwlGina3.dll
++ C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_VirusShare_a49e1_65602c772319247eecdabe6dcb1ee0192b60421f_2bf7777c_346f8881-8a16-4a4a-853a-c3aeadc04dab\Report.wer
++ C:\Users\samod\AppData\Local\CrashDumps\VirusShare_a49e122b7a5ca135d7a259e24ceeafb6.EXE.12156.dmp
++ C:\Users\samod\AppData\Roaming\34ayhze5uss5.exe
++ C:\Users\samod\AppData\Roaming\ASC001.bin

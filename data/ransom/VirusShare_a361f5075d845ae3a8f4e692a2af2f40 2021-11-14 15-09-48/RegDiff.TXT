@@ -1,0 +1,9 @@
+machine\software\microsoft\Windows\Windows Error Reporting\DontShowUI = 00000001
+machine\software\microsoft\Windows\Windows Error Reporting\LocalDumps = created registry key
+user\current\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{0c5d2a95-0000-0000-0080-000000000000}\NukeOnDelete = 00000001
+user\current\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{6da28fdf-b9f2-4900-8b93-8571e38a4334}\NukeOnDelete = 00000001
+user\current\software\Microsoft\Windows\CurrentVersion\Run\S148178112 = D:\Ransom\VirusShare_a361f5075d845ae3a8f4e692a2af2f40.EXE
+user\current\software\Microsoft\Windows NT\CurrentVersion\Winlogon\Shell = D:\Ransom\VirusShare_a361f5075d845ae3a8f4e692a2af2f40.EXE
+user\current\software\SandboxAutoExec  = 31
+user\current_classes\Local Settings\Software\Microsoft\Windows\Shell\MuiCache\C:\WINDOWS\SysWOW64\taskkill.exe.FriendlyAppName = Terminates Processes
+user\current_classes\Local Settings\Software\Microsoft\Windows\Shell\MuiCache\C:\WINDOWS\SysWOW64\taskkill.exe.ApplicationCompany = Microsoft Corporation
