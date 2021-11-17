@@ -72,3 +72,16 @@ This script helps in counting the occurence of different characters in the seque
 python3 scripts/charCount.py 
 ```
 
+## Acknowledgements ##
+
+This software was developed at SJSU as part of Masters Project with guidance from our professor **Fabio Di Troia**. 
+
+We are team of 5.
+
+* Samod Shetty
+* Joachim Lerman
+* Jacob Jasser
+* Monem Hamid
+* Muhammad Ali
+
+This repo is a part of the project. For complete project details along with links to other repos, please visit [Project Page](https://github.com/organizations/SJSU-PHMM).
