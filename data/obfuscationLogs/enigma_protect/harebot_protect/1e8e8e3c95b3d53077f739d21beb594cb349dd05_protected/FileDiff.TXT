@@ -1,0 +1,3 @@
+~ C:\Windows\AppCompat\Programs\Amcache.hve.tmp
++ C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_1e8e8e3c95b3d530_28bf8552a343e1227f4eb157eb76e73275141_397c188d_4f0a08ab-9522-4ffa-ae39-f2c56fe4a71e\Report.wer
++ C:\Users\joa\AppData\Local\CrashDumps\1e8e8e3c95b3d53077f739d21beb594cb349dd05_protected.exe.2860.dmp

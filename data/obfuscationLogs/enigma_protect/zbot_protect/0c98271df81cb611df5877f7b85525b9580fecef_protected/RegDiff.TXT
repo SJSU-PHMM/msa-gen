@@ -1,0 +1,5 @@
+machine\software\microsoft\Windows\Windows Error Reporting\DontShowUI = 00000001
+machine\software\microsoft\Windows\Windows Error Reporting\LocalDumps = created registry key
+user\current\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{5e6c2526-0000-0000-0000-300300000000}\NukeOnDelete = 00000001
+user\current\software\SandboxAutoExec  = 31
+user\current\software\WinRAR\HWID = 7B37314138323644322D334446372D343541312D394338342D3437414244333944423244397D

@@ -1,0 +1,16 @@
+
+Report generated with Buster Sandbox Analyzer 1.92 at 08:12:53 on 17/12/2021
+
+Detailed report of suspicious malware actions:
+
+Detected Anti-Malware Analyzer routine: Disk information query
+Detected keylogger functionality
+Enumerated running processes
+Error reporting dialog change: machine\software\microsoft\windows\windows error reporting\dontshowui = 00000001
+Got computer name
+Got input locale identifiers
+Got user name information
+Hid from debuggers
+Opened a service named: CryptSvc
+Opened a service named: WinHttpAutoProxySvc
+Traces of Max++

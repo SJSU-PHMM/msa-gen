@@ -1,0 +1,13 @@
+~ C:\Windows\system32\CatRoot2\dberr.txt
+~ C:\Windows\system32\CatRoot2\edb.chk
+? C:\Windows\system32\CatRoot2\edb.log
+? C:\Windows\system32\CatRoot2\{127D0A1D-4EF2-11D1-8608-00C04FC295EE}\catdb
+? C:\Windows\system32\CatRoot2\{127D0A1D-4EF2-11D1-8608-00C04FC295EE}\catdb.jfm
+? C:\Windows\system32\CatRoot2\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\catdb
+? C:\Windows\system32\CatRoot2\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\catdb.jfm
++ C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_0bc767d028acd7dc_68231a3a139ff475b0fd8d95b845094df8e9a_59db4009_df469b13-6c8e-41cc-8ac7-8e507800a098\Report.wer
++ C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_bad_module_info_26851ced9dceca7ff813c34112d2afbecefcef_85207d7d_81ccd376-2c18-4b1d-824b-3db23c6c0825\Report.wer
++ C:\ProgramData\Microsoft\Windows\WER\Temp\WERB6EB.tmp.WERInternalMetadata.xml
++ C:\ProgramData\Microsoft\Windows\WER\Temp\WERB779.tmp.xml
++ C:\Users\joa\AppData\Local\CrashDumps\0bc767d028acd7dc332f2893ec04f3ecd61b9756_protected.exe.4284.dmp
++ C:\Users\joa\AppData\Local\Temp\WERA71B.tmp.WERDataCollectionStatus.txt

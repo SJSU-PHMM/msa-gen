@@ -1,0 +1,6 @@
+machine\software\microsoft\Windows\Windows Error Reporting\DontShowUI = 00000001
+machine\software\microsoft\Windows\Windows Error Reporting\LocalDumps = created registry key
+machine\software\WOW6432Node\Microsoft\IdentityCRL\ClockData\ClockTimeSeconds = 10BABC6100000000
+machine\software\WOW6432Node\Microsoft\IdentityCRL\ClockData\TickCount = F264140000000000
+user\current\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{5e6c2526-0000-0000-0000-300300000000}\NukeOnDelete = 00000001
+user\current\software\SandboxAutoExec  = 31

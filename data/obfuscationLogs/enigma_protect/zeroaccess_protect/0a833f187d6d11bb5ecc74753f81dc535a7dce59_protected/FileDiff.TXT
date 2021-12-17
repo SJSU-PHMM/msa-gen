@@ -1,0 +1,9 @@
+~ C:\Windows\system32\CatRoot2\dberr.txt
+~ C:\Windows\system32\CatRoot2\edb.chk
+? C:\Windows\system32\CatRoot2\edb.log
+? C:\Windows\system32\CatRoot2\{127D0A1D-4EF2-11D1-8608-00C04FC295EE}\catdb
+? C:\Windows\system32\CatRoot2\{127D0A1D-4EF2-11D1-8608-00C04FC295EE}\catdb.jfm
+? C:\Windows\system32\CatRoot2\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\catdb
+? C:\Windows\system32\CatRoot2\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\catdb.jfm
++ C:\ProgramData\Microsoft\Windows\WER\ReportQueue\AppCrash_0a833f187d6d11bb_bfe7c132aba1db7c209c975c489f796d2dc5f3_8981fc74_65de4739-3b33-4442-a0ce-b8d9e90bf554\Report.wer
++ C:\Users\joa\AppData\Local\CrashDumps\0a833f187d6d11bb5ecc74753f81dc535a7dce59_protected.exe.6700.dmp

@@ -1,0 +1,8 @@
+~ C:\Windows\system32\CatRoot2\dberr.txt
+? C:\Windows\system32\CatRoot2\{127D0A1D-4EF2-11D1-8608-00C04FC295EE}\catdb
+? C:\Windows\system32\CatRoot2\{F750E6C3-38EE-11D1-85E5-00C04FC295EE}\catdb
++ C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_KB00486362.exe_8179b312e05399e03256d468bb6afef7d09ea24_aec3cb9a_b5010ae5-29b3-4325-a7d0-99ebedacf696\Report.wer
++ C:\Users\joa\AppData\Local\CrashDumps\KB00486362.exe.6428.dmp
++ C:\Users\joa\AppData\Local\Temp\POS5DA7.tmp
++ C:\Users\joa\AppData\Roaming\KB00486362.exe
+- C:\Users\joa\Downloads\malware\harebot_protect\03b6accb05dade0ad51a64f0a57a5c1c0d415790_protected.exe

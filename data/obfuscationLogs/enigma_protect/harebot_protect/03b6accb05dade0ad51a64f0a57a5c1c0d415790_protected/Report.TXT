@@ -1,0 +1,62 @@
+
+ Report generated with Buster Sandbox Analyzer 1.92 at 08:19:39 on 17/12/2021
+
+ [ General information ]
+   * File name: C:\Users\joa\Downloads\malware\harebot_protect\03b6accb05dade0ad51a64f0a57a5c1c0d415790_protected.exe
+
+ [ Changes to filesystem ]
+   * Modifies file C:\Windows\system32\CatRoot2\dberr.txt
+   * Creates file C:\ProgramData\Microsoft\Windows\WER\ReportArchive\AppCrash_KB00486362.exe_8179b312e05399e03256d468bb6afef7d09ea24_aec3cb9a_b5010ae5-29b3-4325-a7d0-99ebedacf696\Report.wer
+   * Creates file C:\Users\joa\AppData\Local\CrashDumps\KB00486362.exe.6428.dmp
+   * Creates file (empty) C:\Users\joa\AppData\Local\Temp\POS5DA7.tmp
+   * Creates file C:\Users\joa\AppData\Roaming\KB00486362.exe
+   * Deletes file C:\Users\joa\Downloads\malware\harebot_protect\03b6accb05dade0ad51a64f0a57a5c1c0d415790_protected.exe
+
+ [ Changes to registry ]
+   * Creates value "DontShowUI=00000001" in key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting
+   * Creates Registry key HKEY_LOCAL_MACHINE\software\microsoft\Windows\Windows Error Reporting\LocalDumps
+   * Creates value "ClockTimeSeconds=DFB8BC6100000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\IdentityCRL\ClockData
+   * Creates value "TickCount=C5BB0F0000000000" in key HKEY_LOCAL_MACHINE\software\WOW6432Node\Microsoft\IdentityCRL\ClockData
+   * Modifies value "NukeOnDelete=00000001" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Explorer\BitBucket\Volume\{5e6c2526-0000-0000-0000-300300000000}
+          old value empty
+   * Creates value "KB00486362.exe="C:\Users\joa\AppData\Roaming\KB00486362.exe"" in key HKEY_CURRENT_USER\software\Microsoft\Windows\CurrentVersion\Run
+   * Creates Registry key HKEY_CURRENT_USER\software\Microsoft\Windows Media Center\25537FE7
+   * Creates Registry key HKEY_CURRENT_USER\software\Microsoft\Windows Media Center\6F2AD9FD
+   * Creates value "(Default)=31" in key HKEY_CURRENT_USER\software\SandboxAutoExec
+
+ [ Network services ]
+   * No changes
+
+ [ Process/window/string information ]
+   * Keylogger functionality.
+   * Gets user name information.
+   * Gets input locale identifiers.
+   * Gets volume information.
+   * Gets computer name.
+   * Checks for debuggers.
+   * Hides from debuggers.
+   * Modifies access control lists (ACLs) of files.
+   * Uses a pipe for inter-process communication.
+   * Anti-Malware Analyzer routine: Disk information query.
+   * Enumerates running processes.
+   * Creates an event named "Local\E00000C04".
+   * Creates a mutex "Local\M00000C04".
+   * Creates a mutex "Local\I00000C04".
+   * Creates process "C:\Users\joa\AppData\Roaming\KB00486362.exe, null, null".
+   * Injects code into process "C:\Users\joa\AppData\Roaming\KB00486362.exe".
+   * Creates process "null, "C:\Windows\system32\cmd.exe" /c "C:\Users\joa\AppData\Local\Temp\POS5DA7.tmp.BAT", null".
+   * Injects code into process "C:\Windows\SysWOW64\cmd.exe".
+   * Creates an event named "Local\E0000191C".
+   * Creates a mutex "Local\M0000191C".
+   * Creates a mutex "Local\I0000191C".
+   * Enables privilege SeDebugPrivilege.
+   * Creates a mutex "Local\S6F2AD9FD".
+   * Creates an event named "Local\B6F2AD9FD".
+   * Injects code into process "C:\Windows\SysWOW64\WerFault.exe".
+   * Creates a mutex "Local\R6F2AD9FD".
+   * Opens a service named "WinHttpAutoProxySvc".
+   * Enables privilege SeRestorePrivilege.
+   * Enables privilege SeBackupPrivilege.
+   * Opens a service named "CryptSvc".
+   * Enables process privileges.
+   * Sleeps 43 seconds.
