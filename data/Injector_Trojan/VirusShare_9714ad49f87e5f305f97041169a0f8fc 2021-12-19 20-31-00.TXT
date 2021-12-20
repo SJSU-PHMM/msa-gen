@@ -1,0 +1,4 @@
+DNS Query(beap.gemini.yahoo.com)
+DNS Query(login.microsoftonline.com)
+DNS Query(login.live.com)
+DNS Query(www2.bing.com)

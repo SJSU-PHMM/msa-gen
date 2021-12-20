@@ -1,0 +1,2 @@
+DNS Query(www.bing.com)
+DNS Query(r.bing.com)

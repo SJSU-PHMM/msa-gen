@@ -1,0 +1,5 @@
+DNS Query(graph.facebook.com)
+DNS Query(scontent-sjc3-1.xx.fbcdn.net)
+DNS Query(0c5ef9a6dc1b5fcbbccb8838cfe02507.safeframe.googlesyndication.com)
+DNS Query(nav.smartscreen.microsoft.com)
+DNS Query(tpc.googlesyndication.com)

@@ -1,0 +1,2 @@
+~ C:\Windows\SYSTEM.INI
++ C:\Windows\TEMP\services.exe
